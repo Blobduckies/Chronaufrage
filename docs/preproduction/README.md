@@ -26,11 +26,11 @@
 # Intention ou concept
 ## Cartographie
 
-![Cartographie 1](medias/cartographie_01.PNG)
-![Cartographie 2](medias/cartographie_02.PNG)
-![Cartographie 3](medias/cartographie_03.PNG)
-![Cartographie 4](medias/cartographie_04.PNG)
-![Cartographie 5](medias/cartographie_05.PNG)
+![Cartographie 1](medias/cartographie_01.png)
+![Cartographie 2](medias/cartographie_02.png)
+![Cartographie 3](medias/cartographie_03.png)
+![Cartographie 4](medias/cartographie_04.png)
+![Cartographie 5](medias/cartographie_05.png)
 
 ## Intention de départ
 Pour ce projet, nous souhaitons faire resentir la tension entre la limitation de temps et le besoin d'accomplissement. Briser les liens entre la productivité et l'estime de soi. 
