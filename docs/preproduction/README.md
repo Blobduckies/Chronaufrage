@@ -25,21 +25,28 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![Cartographie 1](medias/cartographie_01.PNG)
+![Cartographie 2](medias/cartographie_02.PNG)
+![Cartographie 3](medias/cartographie_03.PNG)
+![Cartographie 4](medias/cartographie_04.PNG)
+![Cartographie 5](medias/cartographie_05.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Pour ce projet, nous souhaitons faire resentir la tension entre la limitation de temps et le besoin d'accomplissement. Briser les liens entre la productivité et l'estime de soi. 
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. De plus petits tableaux sont disposés autour. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime. Une caméra kinect capture son ombre et la projette sur le tableau correspondant. 
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Premier tableau: Un personnage s'anime dès que l'ombre et projetée et essaye de récolter des goutes de pluies dans ses mains. 
 
-## Tableau d'ambiance (*moodboard*)
+Deuxième tableau: Le même personnage remonte le courant d'une cascade sur une échelle et pris de panique, essaye d'arrêter l'eau. L'ombre projetée est plus imposante.
+
+Troisième tableau: Le personnage se noie et se débat sous l'eau et finis par fermer ses yeux. L'ombre projetée est la plus foncée dans ce tableau.
+
+Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'ombre est encore là, mais elle est blanche cette fois. Le personnage a accepté la présence de l'ombre mais continue de reposer.
+
+## Tableau d'ambiance (*moodboard*) ----(REB)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
