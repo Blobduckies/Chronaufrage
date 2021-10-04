@@ -44,7 +44,7 @@ Deuxième tableau: Le même personnage remonte le courant d'une cascade sur une 
 
 Troisième tableau: Le personnage se noie et se débat sous l'eau et finis par fermer ses yeux. L'ombre projetée est la plus foncée dans ce tableau.
 
-Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'ombre est encore là, mais elle est blanche cette fois. Le personnage a accepté la présence de l'ombre mais continue de reposer.
+Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'ombre est encore là, mais elle est blanche cette fois. Le personnage a accepté la présence de l'ombre mais continue de se reposer.
 
 ## Tableau d'ambiance (*moodboard*)
 ![moodboard](medias/moodboard.png)
