@@ -46,12 +46,8 @@ Troisième tableau: Le personnage se noie et se débat sous l'eau et finis par f
 
 Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'ombre est encore là, mais elle est blanche cette fois. Le personnage a accepté la présence de l'ombre mais continue de reposer.
 
-## Tableau d'ambiance (*moodboard*) ----(REB)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
-
-> Insérez directement des captures d'écran et liens vers des médias ici.
-
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
+## Tableau d'ambiance (*moodboard*)
+![moodboard](medias/moodboard.png)
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
