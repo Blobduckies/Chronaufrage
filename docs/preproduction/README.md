@@ -48,16 +48,22 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 
 ## Tableau d'ambiance (*moodboard*)
 
-Moodboard d'ambiance générale
+# Moodboard d'ambiance générale
 ![moodboard](medias/moodboard.png)
 
-Moodboard du premier tableau
+# Moodboard personnage
+![moodboard](medias/moodboard.png)
 
-Moodboard du deuxième tableau
+# Moodboard du premier tableau
+![moodboard_01](medias/moodboard_scn_01.png)
 
-Moodboard du troisième tableau
+# Moodboard du deuxième tableau
+![moodboard_02](medias/moodboard_scn_02.png)
 
-Moodboard du quatrième tableau
+# Moodboard du troisième tableau
+![moodboard_03](medias/moodboard_scn_03.png)
+
+# Moodboard du quatrième tableau
 ![moodboard_04](medias/moodboard_scn_04.png)
 
 
