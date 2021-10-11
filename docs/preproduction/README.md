@@ -33,7 +33,7 @@
 ![Cartographie 5](medias/cartographie_05.png)
 
 ## Intention de départ
-Pour ce projet, nous souhaitons faire resentir la tension entre la limitation de temps et le besoin d'accomplissement. Briser les liens entre la productivité et l'estime de soi. 
+Pour ce projet, nous souhaitons faire resentir la tension entre la limitation de temps et le besoin d'accomplissement. Nous voulons faire comprendre à l'intéracteur qu'il n'a pas besoin d'être productif pour être considéré comme un être important, qu'il a le droit de prendre des pauses et des temps mort sans que ça veule nécessairement dire qu'il est inutile.
 
 ## Synopsis
 L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. De plus petits tableaux sont disposés autour. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime. Une caméra kinect capture son ombre et la projette sur le tableau correspondant. 
