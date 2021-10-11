@@ -58,7 +58,7 @@ Moodboard du deuxième tableau
 Moodboard du troisième tableau
 
 Moodboard du quatrième tableau
-![moodboard_04](medias/moodboard_04.png)
+![moodboard_04](medias/moodboard_scn_04.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
