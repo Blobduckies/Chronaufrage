@@ -47,7 +47,19 @@ Troisième tableau: Le personnage se noie et se débat sous l'eau et finis par f
 Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'ombre est encore là, mais elle est blanche cette fois. Le personnage a accepté la présence de l'ombre mais continue de se reposer.
 
 ## Tableau d'ambiance (*moodboard*)
+
+Moodboard d'ambiance générale
 ![moodboard](medias/moodboard.png)
+
+Moodboard du premier tableau
+
+Moodboard du deuxième tableau
+
+Moodboard du troisième tableau
+
+Moodboard du quatrième tableau
+![moodboard_04](medias/moodboard_04.png)
+
 
 ## Scénario, scénarimage ou document audio/visuel
 ![Scenarimage](medias/scenarimage.png)
