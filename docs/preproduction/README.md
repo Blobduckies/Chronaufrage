@@ -52,7 +52,7 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 ![moodboard](medias/moodboard.png)
 
 ### Moodboard personnage
-![moodboard](medias/moodboard.png)
+![moodboard](medias/moodboard_personnage.png)
 
 ### Moodboard du premier tableau
 ![moodboard_01](medias/moodboard_scn_01.png)
