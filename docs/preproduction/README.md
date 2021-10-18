@@ -170,6 +170,7 @@ Pour les dessins:
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement |
 |                                                  |                                                       |                                                                                              |
+|                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
