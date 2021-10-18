@@ -36,15 +36,7 @@
 Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi.  Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. 
 
 ## Synopsis
-L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. De plus petits tableaux sont disposés autour. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime. Une caméra kinect capture son ombre et la projette sur le tableau correspondant. 
-
-Premier tableau: Un personnage s'anime dès que l'ombre et projetée et essaye de récolter des goutes de pluies dans ses mains. 
-
-Deuxième tableau: Le même personnage remonte le courant d'une cascade sur une échelle et pris de panique, essaye d'arrêter l'eau. L'ombre projetée est plus imposante.
-
-Troisième tableau: Le personnage se noie et se débat sous l'eau et finis par fermer ses yeux. L'ombre projetée est la plus foncée dans ce tableau.
-
-Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'ombre est encore là, mais elle est blanche cette fois. Le personnage a accepté la présence de l'ombre mais continue de se reposer.
+L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis et en mettant une paire d'écouteurs. Devant lui se trouve 4 grands tableaux immobiles. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime, la fille dans le tableau semble stressée lorsque l'interacteur arrive. Une caméra kinect capture son ombre et la projette sur le tableau correspondant. 
 
 ## Tableau d'ambiance (*moodboard*)
 
