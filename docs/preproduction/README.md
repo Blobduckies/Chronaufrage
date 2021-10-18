@@ -102,7 +102,7 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Tapis rouge
+* Tapis rouge ([location](https://www.citefetes.com/boutique/tap01_828/))
 * Table avec nappe
 * Pôle d'attente (si on peut emprunter du collège)
 * Manuel de visiteurs (facultatif)
@@ -168,7 +168,7 @@ Pour les dessins:
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement | | Nous ne sommes pas sûrs si un projecteur suffit
+| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement |---------------------------| Nous ne sommes pas sûrs si un projecteur suffit
 |                           Faire des tests dans le Grand Studio                       |                 Prendre deux projecteurs au lieu de un                                      |                                                                                              |
 |                                                  |                                                       |                                                                                              |
 
