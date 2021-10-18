@@ -92,7 +92,7 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias/plantation_technique.png)
 
 ### Schéma de branchement 
 
@@ -102,34 +102,30 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* Tapis rouge
+* Table avec nappe
+* Pôle d'attente (si on peut emprunter du collège)
+* Manuel de visiteurs (facultatif)
+* Podium (facultatif)
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * Écouteurs à fil avec grande rallonge
+    * Carte de son
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 1 (ou 2) projecteurs vidéo lentille standard
+    * 1 ou 2 système d'acrochage pour projecteurs
+    * 5 supports à Kinect
+    * 5 kinects / webcam
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * Lumière de table de chevet
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
 
 * Réseau
     * 4 fils cat6a de 15"
@@ -144,35 +140,35 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [Autodesk Maya](https://www.autodesk.ca/en/products/maya/overview?term=1-YEAR&tab=subscription)
+* [OBS Studio](https://obsproject.com/)
+* [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html)
+* [Adobe After Effects](https://www.adobe.com/ca/products/aftereffects.html)
+* [Reaper](https://www.reaper.fm/)
+* [Max 8](https://cycling74.com/products/max)
+
+Pour les dessins:
+* Adobe Photoshop, Paint Tool Sai, Krita, Procreate
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Professeur pour nous supporter et répondre aux questions
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
-
-* Petit studio
-    * Enregsitrement audio
+    * Projection vidéo sur la section du mur en face de la porte du studio
+    * Captation vidéo
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
+| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement |
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
