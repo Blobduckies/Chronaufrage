@@ -168,7 +168,7 @@ Pour les dessins:
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement |---------------------------| Nous ne sommes pas sûrs si un projecteur suffit
+| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement || Nous ne sommes pas sûrs si un projecteur suffit
 |                           Faire des tests dans le Grand Studio                       |                 Prendre deux projecteurs au lieu de un                                      |                                                                                              |
 |                                                  |                                                       |                                                                                              |
 
@@ -198,49 +198,47 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
+**Maloney Khim**
+- Illustration du tableau 01, animation et colorisation;
+- Illustration de deux petits tableaux
+- Trouver les éléments du décor
+
+Liste des tâches dans Git Hub:  
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+
+**Émilie Fontaine**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
+- Illustration du tableau 05, animation et colorisation;
+- Illustration de deux petits tableaux
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Étudiant D**
-- Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant C**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Étudiant B**
+**Rebecca Pilotte**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Illustration du tableau 03, animation et colorisation;
+- Illustration de deux petits tableaux
+
+Liste des tâches dans Git Hub:  
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+
+**Olivier Lalonde**
+- Modélisation et animation 3D du tableau 04
+- Tester la projection
+- Tester le son
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+**Sounthida Kong**
+- Illustration du tableau 02, animation et colorisation;
+- Illustration de deux petits tableaux
+- Tester la Kinect
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
@@ -251,7 +249,4 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
-
-Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- **Dimanche de 19h à 20h**: Rencontre de suivi de projet (mêlée)
