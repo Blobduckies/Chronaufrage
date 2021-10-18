@@ -138,6 +138,8 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 * [Adobe After Effects](https://www.adobe.com/ca/products/aftereffects.html)
 * [Reaper](https://www.reaper.fm/)
 * [Max 8](https://cycling74.com/products/max)
+* [Madmapper](https://madmapper.com/)
+
 
 Pour les dessins:
 * Adobe Photoshop, Paint Tool Sai, Krita, Procreate
