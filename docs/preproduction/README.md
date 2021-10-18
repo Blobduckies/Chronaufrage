@@ -92,7 +92,7 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 
 ### Plantation 
 
-![exemple de plantation](medias/plan technique .png)
+![exemple de plantation](medias/plan_technique.png)
 
 ### Schéma de branchement 
 
