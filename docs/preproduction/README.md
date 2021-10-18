@@ -64,6 +64,9 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 ![moodboard_03](medias/moodboard_scn_03.png)
 
 ### Moodboard du quatrième tableau
+![moodboard_03](medias/moodboard_scn_03-1.png)
+
+### Moodboard du cinquième tableau
 ![moodboard_04](medias/moodboard_scn_04.png)
 
 
