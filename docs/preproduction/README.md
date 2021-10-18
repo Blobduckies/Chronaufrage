@@ -68,7 +68,20 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 
 
 ## Scénario, scénarimage ou document audio/visuel
-![Scenarimage](medias/scenarimage.png)
+
+### Scénarimage tableau 01
+![Scenarimage1](medias/scenarimage_01_1.png)
+![Scenarimage1](medias/scenarimage_01_2.png)
+
+### Scénarimage tableau 02
+![Scenarimage2](medias/scenarimage_02.png)
+
+### Scénarimage tableau 03
+![Scenarimage3](medias/scenarimage_03.png)
+
+### Scénarimage tableau 04
+![Scenarimage4](medias/scenarimage_04.png)
+
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
