@@ -88,7 +88,7 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 ### Schéma de branchement 
 
-![Schema](medias/Schema_branchement.png) *****EN PRODUCTION
+![Schema](medias/Schema_branchement.png)
 
 ## Matériel de scénographie requis
 
