@@ -84,11 +84,11 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 ### Plantation 
 
-![exemple de plantation](medias/plan_technique.png)
+![Plantation](medias/plan_technique.png)
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png) *****EN PRODUCTION
+![Schema](medias/Schema_branchement.png) *****EN PRODUCTION
 
 ## Matériel de scénographie requis
 
