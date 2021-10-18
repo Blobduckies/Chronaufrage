@@ -77,10 +77,10 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 ![Scenarimage1](medias/scenarimage_01_2.png)
 
 ### Scénarimage tableau 02
-![Scenarimage2](medias/scenarimage_02.png)
+![Scenarimage2](medias/scenarimage_02.png) 
 
 ### Scénarimage tableau 03
-![Scenarimage3](medias/scenarimage_03.png)
+![Scenarimage3](medias/scenarimage_03.png) *****EN PRODUCTION
 
 ### Scénarimage tableau 04
 ![Scenarimage4](medias/scenarimage_04.png)
@@ -92,11 +92,11 @@ Quatrième tableau: Le personnage se repose au bord d'un lac et laisse l'eau. L'
 
 ### Plantation 
 
-![exemple de plantation](medias/plantation_technique.png)
+![exemple de plantation](medias/plan technique .png)
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](medias/livestream_branchements.png) *****EN PRODUCTION
 
 ## Matériel de scénographie requis
 
@@ -174,26 +174,28 @@ Pour les dessins:
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
+![Budget prévisionnel](medias/budget_capture_20210113.PNG) *******EN PRODUCTION**
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
 
 ## Échéancier global
-Étapes importantes du projet visualisé dans GitHub (*milestones*):  
+Étapes importantes du projet visualisé dans GitHub (*milestones*):  *****EN PRODUCTION
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
 - Première itération : lundi x novembre
 - Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Présentation des projets devant public : jeudi 25 mars (soir).    
 
-## Liste des tâches à réaliser
+## Liste des tâches à réaliser *****EN PRODUCTION
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
+
+*****EN PRODUCTION
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
