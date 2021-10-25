@@ -170,7 +170,7 @@ Pour les dessins:
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG) *******EN PRODUCTION**
 
-[Lien vers document](medias/Budget.xlsl)
+[Lien vers document](medias/Budget.xlsx)
 
 
 ## Échéancier global
