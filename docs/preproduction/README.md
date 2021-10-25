@@ -240,7 +240,7 @@ https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3ASounthi+is%3A
 https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3Asounthi
 
 **Tâches pas encore attribuées**  
-hhttps://github.com/Blobduckies/musee_de_la_vie/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/Blobduckies/musee_de_la_vie/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
