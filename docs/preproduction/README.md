@@ -170,7 +170,7 @@ Pour les dessins:
 | Comment programmer l’interactivité | Formation avec TTP, expérimentation durant la session, questions au professeur | Solution |
 | Bien définir notre interactivité | Rencontre d'équipe avec prof | Ajouter un cadre ou il y l'intéracteur (caméra) |
 | Tester les overlays dans différents logiciels de montage vidéo | Tests | Tests sur logiciels différents et différents effets d'overlay |
-| Valider si Montmorency possède le matériel qu’on demande | Aller voir à la Vie Étudiante de Momo | Sinon, on peut trouver des matériels alternatifs |
+| Valider si Montmorency possède le matériel qu’on demande | Aller voir à la Vie Étudiante de Momo | Sinon, on peut trouver des matériels alternatifs 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
