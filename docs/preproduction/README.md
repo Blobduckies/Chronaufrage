@@ -174,21 +174,20 @@ Pour les dessins:
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  *****EN PRODUCTION
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/Blobduckies/musee_de_la_vie/milestones
 
 *Dates importantes :*
 - Première itération : lundi x novembre
 - Prototype finale : lundi x décembre
 - Présentation des projets devant public : jeudi 25 mars (soir).    
 
-## Liste des tâches à réaliser *****EN PRODUCTION
+## Liste des tâches à réaliser 
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
 https://github.com/Blobduckies/musee_de_la_vie/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 https://github.com/Blobduckies/musee_de_la_vie/issues
 
-*****EN PRODUCTION
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
