@@ -175,12 +175,12 @@ Pour les dessins:
 
 
 ## Échéancier global
-Étapes importantes du projet visualisé dans GitHub (*milestones*):  *****EN PRODUCTION
+Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/Blobduckies/musee_de_la_vie/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
+- Première itération : lundi 30 novembre
+- Prototype finale : lundi 10 décembre
 - Présentation des projets devant public : jeudi 25 mars (soir).    
 
 ## Liste des tâches à réaliser 
