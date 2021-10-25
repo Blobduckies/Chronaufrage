@@ -183,10 +183,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 ## Liste des tâches à réaliser *****EN PRODUCTION
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/Blobduckies/musee_de_la_vie/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/Blobduckies/musee_de_la_vie/issues
 
 *****EN PRODUCTION
 
@@ -199,8 +199,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Trouver les éléments du décor
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3Amaloneykhim+is%3Aopen 
+https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3Amaloneykhim
+
 
 **Émilie Fontaine**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
@@ -209,8 +210,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3Aemiliefontaine+is%3Aopen
+https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3Aemiliefontaine
 
 **Rebecca Pilotte**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
@@ -218,8 +219,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Illustration de deux petits tableaux
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3ABkkaaa+is%3Aopen
+https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3Abkkaaa
 
 **Olivier Lalonde**
 - Modélisation et animation 3D du tableau 04
@@ -227,8 +228,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Tester le son
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3AS4nic+is%3Aopen
+https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3As4nic
 
 **Sounthida Kong**
 - Illustration du tableau 02, animation et colorisation;
@@ -236,11 +237,11 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Tester la Kinect
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3ASounthi+is%3Aopen
+https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3Asounthi
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+hhttps://github.com/Blobduckies/musee_de_la_vie/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
