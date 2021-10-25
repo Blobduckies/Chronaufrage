@@ -170,7 +170,7 @@ Pour les dessins:
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG) *******EN PRODUCTION**
 
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
+[Lien vers document](medias/Budget.xlsl)
 
 
 ## Échéancier global
