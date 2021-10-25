@@ -168,7 +168,6 @@ Pour les dessins:
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG) *******EN PRODUCTION**
 
 [Lien vers document](medias/Budget.xlsx)
 
