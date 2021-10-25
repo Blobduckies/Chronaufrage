@@ -63,8 +63,8 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 
 ## Scénario, scénarimage ou document audio/visuel
-Taille de la scène totale: 1130px (x 2) x 720 = 2260px x 720px
-Taille de chaque section: 410px x 720px (ratio 0.56)
+* Taille de la scène totale: 1130px (x 2) x 720 = 2260px x 720px
+* Taille de chaque section: 410px x 720px (ratio 0.56)
 
 ### Scénarimage tableau 01 (Maloney)
 ![Scenarimage1](medias/scenarimage_01_1.png)
