@@ -97,7 +97,7 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 * Tapis rouge ([location](https://www.citefetes.com/boutique/tap01_828/))
 * Table avec nappe
 * Pôle d'attente (si on peut emprunter du collège)
-* Manuel de visiteurs [Aliexpress](https://www.aliexpress.com/item/4000558108816.html?spm=a2g0o.productlist.0.0.4c55315e1Qcq9b&algo_pvid=abadca4a-ed96-40aa-8610-f89e12cd8da4&algo_exp_id=abadca4a-ed96-40aa-8610-f89e12cd8da4-3&pdp_ext_f=%7B%22sku_id%22%3A%2210000002927777715%22%7D)
+* Manuel de visiteurs [Amazon.ca](https://www.amazon.ca/Obsidian-Journal-Diary-Notebook-Pauper/dp/1441310584/ref=sr_1_6?dchild=1&keywords=notebook+fancy&qid=1635121683&sr=8-6)
 * Podium (facultatif)
 
 ## Équipements requis
