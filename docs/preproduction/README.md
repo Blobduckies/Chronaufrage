@@ -166,9 +166,7 @@ Pour les dessins:
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement || Nous ne sommes pas sûrs si un projecteur suffit
-|                           Faire des tests dans le Grand Studio                       |                 Prendre deux projecteurs au lieu de un                                      |                                                                                              |
-|                                                  |                                                       |                                                                                              |
+| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement ||
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
