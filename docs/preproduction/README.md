@@ -73,12 +73,12 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 ### Scénarimage tableau 02 (Sounthida)
 ![Scenarimage2](medias/scenarimage_02.png) 
 
-
-### Scénarimage tableau 02.5 (Olivier)
-![Scenarimage3](medias/scenarimage_2.5.png)
-
 ### Scénarimage tableau 03 (Rebecca)
 ![Scenarimage3](medias/scenarimage_03.png)
+
+### Scénarimage tableau 03.5 (Olivier)
+![Scenarimage3](medias/scenarimage_2.5.png)
+
 
 ### Scénarimage tableau 04 (Émilie)
 ![Scenarimage4](medias/scenarimage_04.png)
