@@ -88,6 +88,9 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
+### Plan de travail
+![Plan](medias/Plan.png)
+
 ### Plantation 
 
 ![Plantation](medias/plan_technique.png)
