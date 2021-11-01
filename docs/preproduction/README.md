@@ -253,3 +253,9 @@ https://github.com/Blobduckies/musee_de_la_vie/issues?q=is%3Aopen+is%3Aissue+no%
 ## Moments des rencontres d'équipe
 Hebdomadaire
 - **Dimanche de 19h à 20h**: Rencontre de suivi de projet (mêlée)
+
+## Lieu d'archivage
+
+One Drive, on met tout dans un dossier d'équipe qui s'appelle Blobduckies, on va avoir un dossier de versions finales et un dossier pour chaque membre de l'équipe. Si un membre veut drop un dossier sur le One Drive, il faut qu'il le met en version .zip. Pour les fichiers normaux ils le drop sur leurs dossier directement.
+
+On utilise GitHub pour l'organisation et pour partager les codes, se référer aux sources (moodboard, etc.) ( One Drive c'est plutôt pour les médias lourds (rendus 3D, vidéos).
