@@ -272,7 +272,7 @@ On utilise GitHub pour l'organisation et pour partager les codes, se référer a
 On a fait plusieurs tests déjà en plus de la projection dans le grand studio. 
 Nous avons joué avec plusieurs effets de vidéo dans MAX. 
 
-![max](medias/max.jpg)
-![effet](medias/effet.jpg)
-![tests](medias/tests.jpg)
-![tests](medias/tests02.jpg)
+![max](medias/max.png)
+![effet](medias/effet.png)
+![tests](medias/tests.png)
+![tests](medias/tests02.png)
