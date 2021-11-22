@@ -302,3 +302,4 @@ Nous avons joué avec plusieurs effets de vidéo dans MAX.
 ![effet](medias/effet.png)
 ![tests](medias/tests.png)
 ![tests](medias/tests02.png)
+![2021-11-17 10-15-53.mp4](medias/2021-11-17 10-15-53.mp4)
