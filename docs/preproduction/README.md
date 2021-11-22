@@ -88,7 +88,7 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 
 ### Tableau 01 (Maloney)
-![effets](medias/flou.jpg)
+![effets](medias/flou.jpeg)
 
 
 ### Tableau 02 (Sounthida)
