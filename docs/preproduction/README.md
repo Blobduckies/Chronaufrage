@@ -88,7 +88,7 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 
 ### Tableau 01 (Maloney)
-![effets](medias/flou.png)
+![effets](medias/flou.jpg)
 
 
 ### Tableau 02 (Sounthida)
@@ -107,7 +107,7 @@ La vidéo joue en loop.
 ### Tableau 04 (Émilie)
 La vitesse du vidéo est influencé par la position de l'utilisateur. Seuelement l'eau est affecté. 
 ![effets](medias/temps.png)
-![effets](medias/eau.png)
+![effets](medias/eau.jpg)
 
 
 # Planification technique d'un prototype (devis technique)
