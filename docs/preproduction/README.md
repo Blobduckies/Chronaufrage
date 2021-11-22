@@ -266,3 +266,13 @@ Hebdomadaire
 One Drive, on met tout dans un dossier d'équipe qui s'appelle Blobduckies, on va avoir un dossier de versions finales et un dossier pour chaque membre de l'équipe. Si un membre veut drop un dossier sur le One Drive, il faut qu'il le met en version .zip. Pour les fichiers normaux ils le drop sur leurs dossier directement.
 
 On utilise GitHub pour l'organisation et pour partager les codes, se référer aux sources (moodboard, etc.) ( One Drive c'est plutôt pour les médias lourds (rendus 3D, vidéos).
+
+
+## Tests de prototypage 
+On a fait plusieurs tests déjà en plus de la projection dans le grand studio. 
+Nous avons joué avec plusieurs effets de vidéo dans MAX. 
+
+![max](medias/max.jpg)
+![effet](medias/effet.jpg)
+![tests](medias/tests.jpg)
+![tests](medias/tests02.jpg)
