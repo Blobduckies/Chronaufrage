@@ -90,6 +90,10 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 ### Plan de travail
 ![Plan](medias/Plan.png)
+exemples sur place :
+![Prototype](medias/prototype.png)
+![Prototype](medias/prototype2.png)
+
 
 ### Plantation 
 
