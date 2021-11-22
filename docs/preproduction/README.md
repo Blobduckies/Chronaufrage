@@ -84,6 +84,32 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 ![Scenarimage4](medias/scenarimage_04.png)
 
 
+### Effets techniques
+
+
+### Tableau 01 (Maloney)
+![effets](medias/flou.png)
+
+
+### Tableau 02 (Sounthida)
+La vitesse du vidéo est influencé par la position de l'utilisateur. La composition est affectée.
+![effets](medias/temps.png)
+
+### Tableau 03 (Rebecca)
+Le tableau a un effet de dioporama numérique et la composition est affectée par la position de l'utilisateur.
+https://www.youtube.com/watch?v=TzPh66LVGwA&t=27s 
+
+
+### Tableau 03.5 (Olivier)
+La vidéo joue en loop.
+
+
+### Tableau 04 (Émilie)
+La vitesse du vidéo est influencé par la position de l'utilisateur. Seuelement l'eau est affecté. 
+![effets](medias/temps.png)
+![effets](medias/eau.png)
+
+
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
