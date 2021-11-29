@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 690.0, 319.0, 1213.0, 957.0 ],
+		"rect" : [ 290.0, 237.0, 1213.0, 957.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -79,9 +79,8 @@
 					"color" : [ 0.990445077419281, 0.502227902412415, 0.032891403883696, 1.0 ],
 					"id" : "obj-6",
 					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numinlets" : 0,
+					"numoutlets" : 0,
 					"patching_rect" : [ 334.0, 61.0, 257.0, 22.0 ],
 					"text" : "jit.gl.syphonserver server2 @servername test3"
 				}
@@ -152,9 +151,8 @@
 					"color" : [ 0.990445077419281, 0.502227902412415, 0.032891403883696, 1.0 ],
 					"id" : "obj-1",
 					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numinlets" : 0,
+					"numoutlets" : 0,
 					"patching_rect" : [ 80.5, 61.0, 243.0, 22.0 ],
 					"text" : "jit.gl.syphonserver server @servername test"
 				}
@@ -329,10 +327,6 @@
 				"bootpath" : "C74:/packages/Vizzie/patchers",
 				"type" : "JSON",
 				"implicit" : 1
-			}
-, 			{
-				"name" : "jit.gl.syphonserver.mxo",
-				"type" : "iLaX"
 			}
  ],
 		"autosave" : 0,
