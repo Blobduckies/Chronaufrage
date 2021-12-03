@@ -116,9 +116,7 @@ La vitesse du vidéo est influencé par la position de l'utilisateur. Seuelement
 
 ### Plan de travail
 ![Plan](medias/Plan.png)
-exemples sur place :
-![Prototype](medias/prototype.jpg)
-![Prototype](medias/prototype2.jpg)
+
 
 
 ### Plantation 
@@ -302,5 +300,26 @@ Nous avons joué avec plusieurs effets de vidéo dans MAX.
 ![effet](medias/effet.png)
 ![tests](medias/tests.png)
 ![tests](medias/tests02.png)
-![tests](medias/capteur_distance.png)
+
 ![2021-11-17 10-15-53.mp4](medias/2021-11-17 10-15-53.mp4)
+
+
+### Prototypage projecteur ultra wide
+![Prototype](medias/prototype.jpg)
+![Prototype](medias/prototype2.jpg)
+Ombre grandement présente, il faut être à 5 pieds du mur pour ne pas que l'ombre paraisse.
+
+
+### Installation projecteur ultra-extra-wide
+![Prototype](medias/installation_extra-wide_sounthida.jpg)
+![Prototype](medias/installation_extra-wide_emilie.jpg)
+![Prototype](medias/prototype_extra-wide1.jpg)
+![Prototype](medias/prototype_extra-wide2.jpg)
+Le projecteur fait paraître de l'ombre que si l'on se tient à deux pieds du mur! 
+
+
+### Prototypage vidéo Max à OBS (avec Spout)
+![tests](medias/video_max_to_obs.png)
+
+### Prototypage effets OBS pour effacer une partie de la vidéo/image (pour cadre 05, Émilie)
+![tests](medias/obs_effet_emilie.png)
