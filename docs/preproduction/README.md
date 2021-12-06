@@ -293,8 +293,11 @@ On utilise GitHub pour l'organisation et pour partager les codes, se référer a
 
 
 ## Tests de prototypage 
-On a fait plusieurs tests déjà en plus de la projection dans le grand studio. 
-Nous avons joué avec plusieurs effets de vidéo dans MAX. 
+Nous avons effectué divers tests au cours de la session. Voici une documentation en image de ce que nous avons fait. 
+
+
+### Recherche d'interactivité
+Nous avons joué avec plusieurs effets de vidéo dans MAX pour nous inspirer.
 
 ![max](medias/max.png)
 ![effet](medias/effet.png)
@@ -303,23 +306,48 @@ Nous avons joué avec plusieurs effets de vidéo dans MAX.
 
 ![2021-11-17 10-15-53.mp4](medias/2021-11-17 10-15-53.mp4)
 
+AU final, une simple incrustation à été jugée comme tant insufisante. Nous countinuons nos recherches. 
 
-### Prototypage projecteur ultra wide
+### Prototypage projecteur
+
 ![Prototype](medias/prototype.jpg)
 ![Prototype](medias/prototype2.jpg)
-Ombre grandement présente, il faut être à 5 pieds du mur pour ne pas que l'ombre paraisse.
+![Prototype](medias/prototype3.jpeg)
 
+Ombre grandement présente, il faut être à 5 pieds du mur pour ne pas que l'ombre paraisse, ce uqi ne marche pas De plus, la maquette en 16:10 ne marche pas à cause de l'adaptateur en 16:9.On nous suggère de tester avec un projecteur ultra wide.  
 
-### Installation projecteur ultra-extra-wide
+![Prototype](medias/maquette-16-9.png)
+
+Suite à ces tests, Rebecca a refait une nouvelle maquette dans le bon format. 
+
+### Test avec le projecteur ultra-extra-wide
+![Prototype](medias/ultrawide-projecteurs.jpeg)
 ![Prototype](medias/installation_extra-wide_sounthida.jpg)
 ![Prototype](medias/installation_extra-wide_emilie.jpg)
 ![Prototype](medias/prototype_extra-wide1.jpg)
 ![Prototype](medias/prototype_extra-wide2.jpg)
-Le projecteur fait paraître de l'ombre que si l'on se tient à deux pieds du mur! 
 
+Sounthida et Émilie sont parties dans le grand studio pour installer le nouveau modèle de projecteur avec l'aide de Guillaume. Le projecteur fait paraître de l'ombre que si l'on se tient à deux pieds du mur. On peut donc s'approcher très proche des oeuvres sans problème.
+
+![Prototype](medias/flou-projecteur-01.jpeg)
+
+Malheureusement, il y a une dégradation floue vers le bas de l'image.
+
+![Prototype](medias/flou-projecteur-02.jpeg)
+
+Olivier a tenté de règler le focus, sans succès. 
+
+Après consultation avec Guillaume, il nous a informé qu'il suffisait de rapprocher le projecteur ultra wide du mur pour corriger la situation. 
 
 ### Prototypage vidéo Max à OBS (avec Spout)
 ![tests](medias/video_max_to_obs.png)
 
-### Prototypage effets OBS pour effacer une partie de la vidéo/image (pour cadre 05, Émilie)
+### Prototypage effets OBS pour transposer une partie de la vidéo/image (pour cadre 05, Émilie)
+
 ![tests](medias/obs_effet_emilie.png)
+C'est un succès! Nous avons maintenant un code Max permettant la transposition d'image de Max vers OBS 
+
+### Prototypage Max pour interactivité effet buée (pour cadre 01, Maloney)
+![tests](medias/maloney-max.png)
+Au début, Maloney a essayé de faire effacer la vidéo de la buée avec des couches blanches et noires dans Max mais ça a donné un effet trop lumineux.
+Après quelque tests, ce problème a été résolu. Nous avons maintenant un code Max permettant à un interacteur d'effacer un filtre de buée par dessus une image. 
