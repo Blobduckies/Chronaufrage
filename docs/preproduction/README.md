@@ -354,6 +354,7 @@ Au début, Maloney a essayé de faire effacer la vidéo de la buée avec des cou
 Après quelque tests, ce problème a été résolu. Nous avons maintenant un code Max permettant à un interacteur d'effacer un filtre de buée par dessus une image.
 
 ### Prototypage code de détection de présence qui permets d'allumer une lumière selon l'emplacement de l'interacteur
-Émilie et Sounthida ont créé un code puredata communiquand avec une kinect et un rasberry pi afin de faire allumer différentes lumières selon la position de l'interacteur. 
-![tests](medias/code-puredata.png)
+Émilie et Sounthida ont créé un code puredata communiquant avec une kinect et un rasberry pi afin de faire allumer différentes lumières selon la position de l'interacteur. 
+![tests](medias/code-puredata.jpeg)
+
 Un grand succès! Il ne reste plus qu'à convertir ce code en code Max.
