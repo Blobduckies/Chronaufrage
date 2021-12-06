@@ -316,7 +316,7 @@ AU final, une simple incrustation à été jugée comme tant insufisante. Nous c
 
 Ombre grandement présente, il faut être à 5 pieds du mur pour ne pas que l'ombre paraisse, ce uqi ne marche pas De plus, la maquette en 16:10 ne marche pas à cause de l'adaptateur en 16:9.On nous suggère de tester avec un projecteur ultra wide.  
 
-![Prototype](medias/maquette-16-9.png)
+![Prototype](medias/maquette16-9.png)
 
 Suite à ces tests, Rebecca a refait une nouvelle maquette dans le bon format. 
 
