@@ -350,4 +350,10 @@ C'est un succès! Nous avons maintenant un code Max permettant la transposition 
 ### Prototypage Max pour interactivité effet buée (pour cadre 01, Maloney)
 ![tests](medias/maloney-max.png)
 Au début, Maloney a essayé de faire effacer la vidéo de la buée avec des couches blanches et noires dans Max mais ça a donné un effet trop lumineux.
-Après quelque tests, ce problème a été résolu. Nous avons maintenant un code Max permettant à un interacteur d'effacer un filtre de buée par dessus une image. 
+![tests](medias/maloney-max-2.png)
+Après quelque tests, ce problème a été résolu. Nous avons maintenant un code Max permettant à un interacteur d'effacer un filtre de buée par dessus une image.
+
+### Prototypage code de détection de présence qui permets d'allumer une lumière selon l'emplacement de l'interacteur
+Émilie et Sounthida ont créé un code puredata communiquand avec une kinect et un rasberry pi afin de faire allumer différentes lumières selon la position de l'interacteur. 
+![tests](medias/code-puredata.png)
+Un grand succès! Il ne reste plus qu'à convertir ce code en code Max.
