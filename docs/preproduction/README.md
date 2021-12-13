@@ -312,6 +312,11 @@ Nous avons joué avec plusieurs effets de vidéo dans MAX pour nous inspirer.
 ![2021-11-17 10-15-53.mp4](medias/2021-11-17 10-15-53.mp4)
 
 AU final, une simple incrustation à été jugée comme tant insufisante. Nous countinuons nos recherches. 
+### Prototypage Tableau #3 
+
+![Prototype](medias/effet_interaction.gif) 
+
+Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. Voici un exemple à ce que cet effet pourait ressembler.  
 
 ### Prototypage projecteur
 
