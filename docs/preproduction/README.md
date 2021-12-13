@@ -346,9 +346,11 @@ Sounthida et Émilie sont parties dans le grand studio pour installer le nouveau
 
 Olivier a tenté de règler le focus, sans succès. Après consultation avec Guillaume, il nous a informé qu'il suffisait de rapprocher le projecteur ultra wide du mur pour corriger la situation. 
 
-### Malheureusement, lorsque l'on rapproche le projecteur au point qu'il n'y a plus de flou, alors la projection est trop petite.
+#### Malheureusement, lorsque l'on rapproche le projecteur au point qu'il n'y a plus de flou, alors la projection est trop petite.
 
 ![Prototype](medias/ultra_wide_nofocus.jpg)
+
+Après avoir parlé avec Guillaume, nous n'avons pas pu trouver de solutions avec l'ultra-wide. La seule solution est de changer le projecteur pour le projecteur wide avec ombre. À suivre...
 
 ### Prototypage vidéo Max à OBS (avec Spout)
 ![tests](medias/video_max_to_obs.png)
