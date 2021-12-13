@@ -318,7 +318,7 @@ AU final, une simple incrustation à été jugée comme tant insufisante. Nous c
 
 Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. Voici un exemple à ce que cet effet pourait ressembler.  
 
-![Prototype](medias/max_tableau3.jpg) 
+![Prototype](medias/max_tableau3.png) 
 Voici un exemple de test dans Max où l’un peut contrôler la position des éléments du tableau.
 
 
