@@ -75,6 +75,7 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 ### Scénarimage tableau 03 (Rebecca)
 ![Scenarimage3](medias/scenarimage_03.png)
+![Prototype](medias/animation.gif) 
 
 ### Scénarimage tableau 03.5 (Olivier)
 ![Scenarimage3](medias/scenarimage_2.5.png)
@@ -98,7 +99,9 @@ La vitesse du vidéo est influencé par la position de l'utilisateur. La composi
 ### Tableau 03 (Rebecca)
 Le tableau a un effet de dioporama numérique et la composition est affectée par la position de l'utilisateur.
 https://www.youtube.com/watch?v=TzPh66LVGwA&t=27s 
+![Prototype](medias/effet_interaction.gif) 
 
+Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. Voici un exemple à ce que cet effet pourait ressembler.  
 
 ### Tableau 03.5 (Olivier)
 La vidéo joue en loop.
@@ -314,9 +317,7 @@ Nous avons joué avec plusieurs effets de vidéo dans MAX pour nous inspirer.
 AU final, une simple incrustation à été jugée comme tant insufisante. Nous countinuons nos recherches. 
 ### Prototypage Tableau #3 
 
-![Prototype](medias/effet_interaction.gif) 
-
-Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. Voici un exemple à ce que cet effet pourait ressembler.  
+Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. 
 
 ![Prototype](medias/max_tableau3.png) 
 Voici un exemple de test dans Max où l’un peut contrôler la position des éléments du tableau.
