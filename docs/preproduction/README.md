@@ -387,3 +387,12 @@ C'est un succès! Nous avons maintenant un code Max permettant la transposition 
 ![tests](medias/code-puredata.jpeg)
 
 Un grand succès! Il ne reste plus qu'à convertir ce code en code Max.
+
+
+### Prochaines étapes
+
+- Tester le patch Max avec la Kinect pour détection + activation de la vidéo + accélération
+- Finir le patch Max pour l'interaction du tableau
+- Installer des hauts-parleurs et tester le son au grand studio
+- Réaliser nos vidéos en exécutant les dessins
+- Réaliser notre son d'ambiance et sons d'eau
