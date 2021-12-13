@@ -286,8 +286,7 @@ https://github.com/Blobduckies/musee_de_la_vie/issues?q=is%3Aopen+is%3Aissue+no%
 
 ## Inventaire des médias
 Tableau de l'inventaire des médias à réaliser / à trouver.
-
-https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit#gid=0
+https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit?usp=sharing
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
