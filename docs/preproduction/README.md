@@ -348,7 +348,7 @@ Olivier a tenté de règler le focus, sans succès. Après consultation avec Gui
 
 ### Malheureusement, lorsque l'on rapproche le projecteur au point qu'il n'y a plus de flou, alors la projection est trop petite.
 
-![Prototype](medias/ultra_wide_nofocus.jpeg)
+![Prototype](medias/ultra_wide_nofocus.jpg)
 
 ### Prototypage vidéo Max à OBS (avec Spout)
 ![tests](medias/video_max_to_obs.png)
