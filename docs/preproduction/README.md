@@ -315,12 +315,7 @@ Nous avons joué avec plusieurs effets de vidéo dans MAX pour nous inspirer.
 ![2021-11-17 10-15-53.mp4](medias/2021-11-17 10-15-53.mp4)
 
 AU final, une simple incrustation à été jugée comme tant insufisante. Nous countinuons nos recherches. 
-### Prototypage Tableau #3 
 
-Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. 
-
-![Prototype](medias/max_tableau3.png) 
-Voici un exemple de test dans Max où l’un peut contrôler la position des éléments du tableau.
 
 
 ### Prototypage projecteur wide
@@ -370,6 +365,15 @@ Au début, Maloney a essayé de faire effacer la vidéo de la buée avec des cou
 Après quelque tests, ce problème a été résolu. Nous avons maintenant un code Max permettant à un interacteur d'effacer un filtre de buée par dessus une image.
 
 https://youtu.be/kUIWhbcGvUU
+
+### Prototypage Tableau #3 
+
+Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. 
+
+![Prototype](medias/max_tableau3.png) 
+
+
+Voici un exemple de test dans Max où l’un peut contrôler la position des éléments du tableau.
 
 ### Prototypage code de détection de présence qui permets d'allumer une lumière selon l'emplacement de l'interacteur
 Émilie et Sounthida ont créé un code puredata communiquant avec une kinect et un rasberry pi afin de faire allumer différentes lumières selon la position de l'interacteur. 
