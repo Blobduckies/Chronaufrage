@@ -40,12 +40,36 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-12",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 407.5, 113.5, 29.5, 22.0 ],
+					"text" : "0 0"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-10",
+					"maxclass" : "newobj",
+					"numinlets" : 3,
+					"numoutlets" : 2,
+					"outlettype" : [ "int", "int" ],
+					"patching_rect" : [ 465.5, 202.5, 40.0, 22.0 ],
+					"text" : "split 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-19",
 					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 394.5, 106.5, 150.0, 34.0 ],
+					"patching_rect" : [ 531.5, 197.0, 150.0, 33.0 ],
 					"text" : "changer la vitesse si 1 est envoyé"
 				}
 
@@ -57,7 +81,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 431.5, 184.5, 46.0, 22.0 ],
+					"patching_rect" : [ 455.5, 265.5, 46.0, 22.0 ],
 					"text" : "rate $1"
 				}
 
@@ -69,8 +93,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 431.5, 147.5, 29.5, 22.0 ],
-					"text" : "1"
+					"patching_rect" : [ 455.5, 233.5, 35.0, 22.0 ],
+					"text" : "bang"
 				}
 
 			}
@@ -137,9 +161,8 @@
 				"box" : 				{
 					"id" : "obj-46",
 					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numinlets" : 1,
+					"numoutlets" : 0,
 					"patching_rect" : [ 39.964285552501678, 402.5, 207.0, 22.0 ],
 					"text" : "jit.gl.spoutsender @sendername pic1"
 				}
@@ -155,7 +178,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 110.964285552501678, 354.5, 80.0, 36.0 ]
+					"patching_rect" : [ 110.964285552501678, 354.5, 80.0, 35.0 ]
 				}
 
 			}
@@ -177,7 +200,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 3,
-					"outlettype" : [ "jit_gl_texture", "bang", "" ],
+					"outlettype" : [ "jit_matrix", "bang", "" ],
 					"patching_rect" : [ 39.964285552501678, 323.5, 231.0, 22.0 ],
 					"text" : "jit.world chickens @fps 30 @size 300 500"
 				}
@@ -275,6 +298,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-137", 0 ],
+					"midpoints" : [ 465.0, 294.0, 339.0, 294.0, 339.0, 189.0, 82.0, 189.0 ],
 					"source" : [ "obj-17", 0 ]
 				}
 
@@ -344,16 +368,19 @@
 				}
 
 			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-12", 0 ],
+					"source" : [ "obj-9", 0 ]
+				}
+
+			}
  ],
 		"dependency_cache" : [ 			{
 				"name" : "chickens.mp4",
 				"bootpath" : "C74:/media/jitter",
 				"type" : "mpg4",
 				"implicit" : 1
-			}
-, 			{
-				"name" : "jit.gl.spoutsender.mxe64",
-				"type" : "mx64"
 			}
  ],
 		"autosave" : 0
