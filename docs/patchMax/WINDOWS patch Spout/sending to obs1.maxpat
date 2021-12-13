@@ -40,6 +40,17 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 517.5, 265.5, 150.0, 20.0 ],
+					"text" : "valeurs de 0.1 à 1.9"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-12",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -57,7 +68,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "int" ],
-					"patching_rect" : [ 465.5, 202.5, 40.0, 22.0 ],
+					"patching_rect" : [ 407.5, 151.5, 40.0, 22.0 ],
 					"text" : "split 1"
 				}
 
@@ -81,8 +92,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 455.5, 265.5, 46.0, 22.0 ],
-					"text" : "rate $1"
+					"patching_rect" : [ 455.5, 265.5, 56.0, 22.0 ],
+					"text" : "rate $0.5"
 				}
 
 			}
@@ -93,8 +104,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 455.5, 233.5, 35.0, 22.0 ],
-					"text" : "bang"
+					"patching_rect" : [ 455.5, 233.5, 29.5, 22.0 ],
+					"text" : "1"
 				}
 
 			}
@@ -200,7 +211,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 3,
-					"outlettype" : [ "jit_matrix", "bang", "" ],
+					"outlettype" : [ "jit_gl_texture", "bang", "" ],
 					"patching_rect" : [ 39.964285552501678, 323.5, 231.0, 22.0 ],
 					"text" : "jit.world chickens @fps 30 @size 300 500"
 				}
@@ -253,7 +264,7 @@
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
-									"rate" : 0
+									"rate" : "0.5"
 								}
 
 							}
@@ -372,6 +383,20 @@
 				"patchline" : 				{
 					"destination" : [ "obj-12", 0 ],
 					"source" : [ "obj-9", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "", -1 ],
+					"source" : [ "obj-12", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-10", 1 ],
+					"source" : [ "obj-12", 0 ]
 				}
 
 			}
