@@ -392,6 +392,7 @@ Un grand succès! Il ne reste plus qu'à convertir ce code en code Max.
 
 - Tester le patch Max avec la Kinect pour détection + activation de la vidéo + accélération
 - Finir le patch Max pour l'interaction du tableau 04 et le tester au Grand Studio.
+- Installer une deuxième Kinect? Ou monter la Kinect plus haute?
 - Changer le projecteur ultra-wide pour installer un projecteur wide
 - Installer des hauts-parleurs et tester le son au Grand Studio
 - Réaliser nos vidéos en exécutant les dessins
