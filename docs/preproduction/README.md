@@ -281,6 +281,11 @@ https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assi
 **Tâches pas encore attribuées**  
 https://github.com/Blobduckies/musee_de_la_vie/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
+## Inventaire des médias
+Tableau de l'inventaire des médias à réaliser / à trouver.
+
+https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit#gid=0
+
 ## Moments des rencontres d'équipe
 Hebdomadaire
 - **Dimanche de 19h à 20h**: Rencontre de suivi de projet (mêlée)
