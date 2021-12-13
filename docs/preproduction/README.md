@@ -355,12 +355,8 @@ Après avoir parlé avec Guillaume, nous n'avons pas pu trouver de solutions ave
 ### Prototypage vidéo Max à OBS (avec Spout)
 ![tests](medias/video_max_to_obs.png)
 
-### Prototypage effets OBS pour transposer une partie de la vidéo/image (pour cadre 05, Émilie)
 
-![tests](medias/obs_effet_emilie.png)
-C'est un succès! Nous avons maintenant un code Max permettant la transposition d'image de Max vers OBS 
-
-### Prototypage Max pour interactivité effet buée (pour cadre 01, Maloney)
+### Prototypage Tableau #01 (pour interactivité effet buée)
 ![tests](medias/maloney-max.png)
 Au début, Maloney a essayé de faire effacer la vidéo de la buée avec des couches blanches et noires dans Max mais ça a donné un effet trop lumineux.
 ![tests](medias/maloney-max-2.png)
@@ -368,14 +364,23 @@ Après quelque tests, ce problème a été résolu. Nous avons maintenant un cod
 
 https://youtu.be/kUIWhbcGvUU
 
-### Prototypage Tableau #3 
+
+### Prototypage Tableau #02 (pour changement de vitesse selon position)
+
+![tests](medias/max8_soun.png)
+
+
+### Prototypage Tableau #03 (pour depth field, changement de perspective)
 
 Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. 
 
 ![Prototype](medias/max_tableau3.png) 
-
-
 Voici un exemple de test dans Max où l’un peut contrôler la position des éléments du tableau.
+
+### Prototypage Tableau #05 (effets OBS pour transposer une partie de la vidéo/image)
+
+![tests](medias/obs_effet_emilie.png)
+C'est un succès! Nous avons maintenant un code Max permettant la transposition d'image de Max vers OBS 
 
 ### Prototypage code de détection de présence qui permets d'allumer une lumière selon l'emplacement de l'interacteur
 Émilie et Sounthida ont créé un code puredata communiquant avec une kinect et un rasberry pi afin de faire allumer différentes lumières selon la position de l'interacteur. 
