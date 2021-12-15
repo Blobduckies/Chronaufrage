@@ -26,12 +26,12 @@
     - [Recherche d'intéractivité](#Recherche-d'interactivité)    
     - [Prototypage projecteur wide](#Prototypage-projecteur-wide)
     - [Prototypage projecteur ultra-wide](#Test-avec-le-projecteur-ultra-wide)
-    - [Prototypage vidéo Max8 à OBS (avec Spout)](#Prototypage-vidéo-Max-à-OBS-(avec-Spout))
-    - [Prototypage Tableau #01 (pour interactivité effet buée)](#Prototypage-Tableau-#01-(pour-interactivité-effet-buée))
-    - [Prototypage Tableau #02 (pour changement de vitesse selon position)](#Prototypage-Tableau-#02-(pour-changement-de-vitesse-selon-position))
-    - [Prototypage Tableau #03 (pour depth field, changement de perspective)](#Prototypage-Tableau-#03-(pour-depth-field,-changement-de-perspective))
-    - [Prototypage Tableau #05 (effets OBS pour transposer une partie de la vidéo/image)](#Prototypage-Tableau-#05-(effets-OBS-pour-transposer-une-partie-de-la-vidéo/image))
-    - [Prototypage code de détection de présence qui permet d'allumer une lumière selon l'emplacement de l'interacteur](#Prototypage-code-de-détection-de-présence-qui-permet-d'allumer-une-lumière-selon-l'emplacement-de-l'interacteur)
+    - [Prototypage vidéo Max8 à OBS (avec Spout)](#prototypage-vidéo-max-à-obs-avec-spout)
+    - [Prototypage Tableau #01 (pour interactivité effet buée)](#prototypage-tableau-01-pour-interactivité-effet-buée)
+    - [Prototypage Tableau #02 (pour changement de vitesse selon position)](#Prototypage-Tableau-#02-pour-changement-de-vitesse-selon-position)
+    - [Prototypage Tableau #03 (pour depth field, changement de perspective)](#Prototypage-Tableau-#03-pour-depth-field-changement-de-perspective)
+    - [Prototypage Tableau #05 (effets OBS pour transposer une partie de la vidéo/image)](#prototypage-tableau-05-effets-obs-pour-transposer-une-partie-de-la-vidéoimage)
+    - [Prototypage code de détection de présence qui permet d'allumer une lumière selon l'emplacement de l'interacteur](#prototypage-code-de-détection-de-présence-qui-permets-dallumer-une-lumière-selon-lemplacement-de-linteracteur)
 
 # Intention ou concept
 ## Cartographie
