@@ -8,7 +8,10 @@
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
-2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
+2. [Contenu multimédia à intégrer)](#Contenu-multimédia-à-intégrer)
+    - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
+    - [Univers artistique des éléments](#Univers-artistique-des-éléments)
+3. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
@@ -16,13 +19,13 @@
     - [Ressources humaines requises](#Ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
     - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
-3. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
+4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe)
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
-4. [Tests de prototypage](#Tests-de-prototypage)
+5. [Tests de prototypage](#Tests-de-prototypage)
     - [Recherche d'intéractivité](#Recherche-d'interactivité)    
     - [Prototypage projecteur wide](#Prototypage-projecteur-wide)
     - [Prototypage projecteur ultra-wide](#Test-avec-le-projecteur-ultra-wide)
@@ -122,10 +125,22 @@ La vitesse du vidéo est influencé par la position de l'utilisateur. Seuelement
 ![effets](medias/temps.png)
 ![effets](medias/eau.jpeg)
 
+# Contenu multimédia à intégrer
+## Inventaire du contenu multimédia
+- 5 vidéos pour les tableaux principaux (1 par membre de l'équipe)
+- 5 effets sonores
+- 1 piste sonore générale
+- 10 petits tableaux secondaires
+
+Pour en voir plus : [Inventaire du contenu à intégrer](https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit?usp=sharing)
+
+## Univers artistique des éléments
+Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégrer](https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit?usp=sharing)
+
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette sectiom.  
 
 ### Plan de travail
 ![Plan](medias/Plan.png)
