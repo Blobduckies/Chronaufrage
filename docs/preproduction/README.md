@@ -30,8 +30,8 @@
     - [Prototypage Tableau #01 (pour interactivité effet buée)](#prototypage-tableau-01-pour-interactivité-effet-buée)
     - [Prototypage Tableau #02 (pour changement de vitesse selon position)](#Prototypage-Tableau-#02-pour-changement-de-vitesse-selon-position)
     - [Prototypage Tableau #03 (pour depth field, changement de perspective)](#Prototypage-Tableau-#03-pour-depth-field-changement-de-perspective)
-    - [Prototypage Tableau #05 (effets OBS pour transposer une partie de la vidéo/image)](#prototypage-tableau-05-effets-obs-pour-masquer-une-partie-de-la-vidéoimage)
-    - [Prototypage code de détection de présence qui permet d'allumer une lumière selon l'emplacement de l'interacteur](#prototypage-code-de-détection-de-présence-qui-permets-dallumer-une-lumière-selon-lemplacement-de-linteracteur)
+    - [Prototypage Tableau #05 (effets OBS pour masquer une partie de la vidéo/image)](#prototypage-tableau-05-effets-obs-pour-masquer-une-partie-de-la-vidéoimage)
+    - [Prototypage code de détection de présence permettant d'allumer une lumière selon l'emplacement de l'interacteur](#prototypage-code-de-détection-de-présence-qui-permets-dallumer-une-lumière-selon-lemplacement-de-linteracteur)
 
 # Intention ou concept
 ## Cartographie
