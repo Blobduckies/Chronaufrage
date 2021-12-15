@@ -22,6 +22,7 @@
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
+4. [Tests de prototypage](#Tests-de-prototypage)
 
 # Intention ou concept
 ## Cartographie
@@ -299,7 +300,7 @@ One Drive, on met tout dans un dossier d'équipe qui s'appelle Blobduckies, on v
 On utilise GitHub pour l'organisation et pour partager les codes, se référer aux sources (moodboard, etc.) ( One Drive c'est plutôt pour les médias lourds (rendus 3D, vidéos).
 
 
-## Tests de prototypage 
+# Tests de prototypage 
 Nous avons effectué divers tests au cours de la session. Voici une documentation en image de ce que nous avons fait. 
 
 
