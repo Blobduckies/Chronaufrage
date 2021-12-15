@@ -30,7 +30,7 @@
     - [Prototypage Tableau #01 (pour interactivité effet buée)](#prototypage-tableau-01-pour-interactivité-effet-buée)
     - [Prototypage Tableau #02 (pour changement de vitesse selon position)](#Prototypage-Tableau-#02-pour-changement-de-vitesse-selon-position)
     - [Prototypage Tableau #03 (pour depth field, changement de perspective)](#Prototypage-Tableau-#03-pour-depth-field-changement-de-perspective)
-    - [Prototypage Tableau #05 (effets OBS pour transposer une partie de la vidéo/image)](#prototypage-tableau-05-effets-obs-pour-transposer-une-partie-de-la-vidéoimage)
+    - [Prototypage Tableau #05 (effets OBS pour transposer une partie de la vidéo/image)](#prototypage-tableau-05-effets-obs-pour-masquer-une-partie-de-la-vidéoimage)
     - [Prototypage code de détection de présence qui permet d'allumer une lumière selon l'emplacement de l'interacteur](#prototypage-code-de-détection-de-présence-qui-permets-dallumer-une-lumière-selon-lemplacement-de-linteracteur)
 
 # Intention ou concept
@@ -386,10 +386,10 @@ Nous voulons avoir un effet de diaporama/depth mapping avec la détection de pr�
 ![Prototype](medias/max_tableau3.png) 
 Voici un exemple de test dans Max où l’un peut contrôler la position des éléments du tableau.
 
-### Prototypage Tableau #05 (effets OBS pour transposer une partie de la vidéo/image)
+### Prototypage Tableau #05 (effets OBS pour masquer une partie de la vidéo/image)
 
 ![tests](medias/obs_effet_emilie.png)
-C'est un succès! Nous avons maintenant un code Max permettant la transposition d'image de Max vers OBS 
+C'est un succès! Nous avons maintenant trouvé un filtre sur OBS, le Luma Key, permettant de masquer une certaine couleur (ex. le noir) sur une vidéo sur OBS, afin 
 
 ### Prototypage code de détection de présence qui permets d'allumer une lumière selon l'emplacement de l'interacteur
 Émilie et Sounthida ont créé un code puredata communiquant avec une kinect et un rasberry pi afin de faire allumer différentes lumières selon la position de l'interacteur. 
