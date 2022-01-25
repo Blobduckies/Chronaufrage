@@ -17,7 +17,7 @@
 ### Résumé des réalisations effectuées
 - Mise en ligne du journal 
 - 
-### Image d'une réalisation dont tu es la ou le plus fier
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -40,7 +40,7 @@
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
