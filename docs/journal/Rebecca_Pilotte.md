@@ -1,5 +1,5 @@
 # Journal de Rebecca Pilotte
-![portrait du participant ](docs/journal/medias/becca.jpg)
+![portrait du participant ](musee_de_la_vie/docs/journal/medias/becca.jpg)
 
 
 * [Semaine 1](#semaine-1)
