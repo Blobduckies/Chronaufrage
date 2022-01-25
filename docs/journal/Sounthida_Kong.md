@@ -1,5 +1,5 @@
-# Journal de "Participant 5"
-![portrait du participant ](../web/medias/participants/E.png)
+# Journal de Sounthida Kong
+![portrait du participant ](../web/medias/participants/soun.jpeg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
