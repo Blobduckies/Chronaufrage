@@ -1,5 +1,5 @@
 # Journal de Maloney Khim
-![portrait du participant ](../web/medias/participants/icon.png)
+![portrait du participant ](../web/medias/participants/icon.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
