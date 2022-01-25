@@ -1,4 +1,4 @@
-# Journal de "Participant 1"
+# Journal d'Olivier Lalonde
 ![portrait du participant ](https://i.imgur.com/g2SGLuu.jpg)
 
 * [Semaine 1](#semaine-1)
