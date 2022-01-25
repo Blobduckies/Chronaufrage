@@ -1,5 +1,5 @@
 # Journal de Rebecca Pilotte
-![portrait du participant ](https://imgur.com/Bxe9FyB.png)
+![portrait du participant ](https://imgur.com/kaHZtzN.png)
 
 
 * [Semaine 1](#semaine-1)
