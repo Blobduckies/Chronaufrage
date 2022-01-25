@@ -1,5 +1,6 @@
-# Journal de "Participant 3"
-![portrait du participant ](../web/medias/participants/C.png)
+# Journal de Rebecca Pilotte
+![portrait du participant ](blobduckies/musee_de_la_vie/docs/journal/medias/becca.JPG)
+
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -17,7 +18,7 @@
 ### Résumé des réalisations effectuées
 - Mise en ligne du journal 
 - 
-
+-
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
