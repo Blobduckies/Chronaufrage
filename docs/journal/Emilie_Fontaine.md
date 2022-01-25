@@ -1,5 +1,5 @@
 # Journal de Émilie Fontaine
-![portrait du participant ](../web/medias/participants/B.png)
+![portrait du participant ](https://zupimages.net/up/22/04/ascl.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
