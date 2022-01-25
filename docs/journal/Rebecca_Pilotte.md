@@ -1,5 +1,6 @@
 # Journal de Rebecca Pilotte
-![portrait du participant ](../web/medias/becca.jpg)
+![portrait du participant ](docs/journal/medias/becca.jpg)
+
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
