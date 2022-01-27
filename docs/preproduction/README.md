@@ -166,14 +166,14 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 * Podium (facultatif)
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des équipements requis par département ou lien vers un tableau Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
     * 2 Enceintes de sons (Stéréo)
     * Carte de son
 
 * Vidéo
-    * 1 (ou 2) projecteurs vidéo lentille standard
+    * 1 projecteur vidéo lentille standard
     * 1 ou 2 système d'acrochage pour projecteurs
     * 1 Kinect
     * Max 5 Webcams
@@ -183,7 +183,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
     * Lumière de table de chevet
 
 * Électricité
-    * 2 extentions 3 fiches et 3 conducteurs 
+    * 2 extentions 3 fiches et 3 conducteurs (À déterminer)
 
 * Ordinateur
     * Minimum 1 Raspberry Pi 
