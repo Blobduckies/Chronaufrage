@@ -176,6 +176,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
     * 1 (ou 2) projecteurs vidéo lentille standard
     * 1 ou 2 système d'acrochage pour projecteurs
     * 1 Kinect
+    * Max 5 Webcams
 
 * Lumière
     * 2 spotlights
@@ -187,6 +188,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 * Ordinateur
     * Minimum 1 Raspberry Pi 
     * 1 laptop (Pour l'audio?)
+    * Hub usb
     
 * Autre
     * Tout autre élément pertinant
