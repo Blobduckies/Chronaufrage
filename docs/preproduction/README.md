@@ -169,27 +169,23 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * Écouteurs à fil avec grande rallonge
+    * 2 Enceintes de sons (Stéréo)
     * Carte de son
 
 * Vidéo
     * 1 (ou 2) projecteurs vidéo lentille standard
     * 1 ou 2 système d'acrochage pour projecteurs
-    * 5 supports à Kinect
-    * 5 kinects / webcam
+    * 1 Kinect
 
 * Lumière
+    * 2 spotlights
     * Lumière de table de chevet
 
 * Électricité
     * 2 extentions 3 fiches et 3 conducteurs 
 
-* Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
 * Ordinateur
-    * 1 ordinateur portable 
+    * Minimum 1 Raspberry Pi 
     
 * Autre
     * Tout autre élément pertinant
