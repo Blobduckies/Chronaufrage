@@ -187,7 +187,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 
 * Ordinateur
     * Minimum 1 Raspberry Pi 
-    * 1 laptop (Pour l'audio?)
+    * 1 laptop
     * Hub usb
     
 * Autre
