@@ -16,6 +16,8 @@
 
 ### Résumé des réalisations effectuées
 - Création du journal sur Github
+- Planification de rencontres pour enregistrer la vidéo
+- Recherche de tutoriels pour commencer l'animation 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -38,7 +40,9 @@
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
-
+- Commencer les assets
+- Peaufiner le Github
+- Finir la vidéo
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
