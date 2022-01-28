@@ -146,6 +146,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 
 ### Plan de travail
 ![Plan](medias/Plan.png)
+![Plan revisé](medias/plan de travail nouveau miroir.png)
 
 
 
