@@ -8,7 +8,7 @@
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
-2. [Contenu multimédia à intégrer)](#Contenu-multimédia-à-intégrer)
+2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments)
 3. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
