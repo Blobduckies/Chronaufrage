@@ -17,14 +17,14 @@
 
 ### Résumé des réalisations effectuées
 - Mise en ligne du journal 
-- 
--
+- Révision des roles de certains membres de l'équipe (à voir toujours)
+- Demander à Xavier pour avoir accès à un podium
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -32,7 +32,7 @@
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+N/A
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
@@ -41,13 +41,14 @@
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
 
+Filmer la vidéo de préproduction. 
 
 ---
 ## Semaine 2
