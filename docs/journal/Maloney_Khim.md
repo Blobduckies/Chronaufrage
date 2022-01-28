@@ -15,32 +15,30 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- J'ai assisté au cours Zoom et j'ai commencé mon journal
+- J'ai commencé à dessiner mon tableau.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![wiptableau1](medias/wiptableau1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+L'animation de nos tableaux va probablement prendre beaucoup de temps, donc c'est une bonne chose de l'avoir commencé!
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [X] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 ### Défis pour la prochaine semaine
+Terminer le dessin du tableau de base (sans les animations).
 
 ---
 ## Semaine 2
