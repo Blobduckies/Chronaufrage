@@ -17,6 +17,7 @@
 ### Résumé des réalisations effectuées
 - Mis à jour des plans et des listes de matériel.
 - Discussions sur les logistiques du projet et planification d'un plan
+- Date prise pour des tests avec Guillaume
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 - [x] Complètement
