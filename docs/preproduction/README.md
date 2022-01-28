@@ -76,6 +76,8 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 
 ## Scénario, scénarimage ou document audio/visuel
+L'interacteur arrive devant un musée. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli de quatre grandes oeuvres d'art et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
+
 * Taille de la scène totale: 1130px (x 2) x 720 = 2260px x 720px
 * Taille de chaque section: 410px x 720px (ratio 0.56)
 
@@ -127,8 +129,8 @@ La vitesse du vidéo est influencé par la position de l'utilisateur. Seuelement
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
-- 5 vidéos pour les tableaux principaux (1 par membre de l'équipe)
-- 5 effets sonores
+- 4 vidéos pour les tableaux principaux (1 par membre de l'équipe)
+- 4 effets sonores
 - 1 piste sonore générale
 - 10 petits tableaux secondaires
 
@@ -160,9 +162,9 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Tapis rouge ([location](https://www.citefetes.com/boutique/tap01_828/))
-* Table avec nappe
 * Pôle d'attente (si on peut emprunter du collège)
-* Manuel de visiteurs [Amazon.ca](https://www.amazon.ca/Obsidian-Journal-Diary-Notebook-Pauper/dp/1441310584/ref=sr_1_6?dchild=1&keywords=notebook+fancy&qid=1635121683&sr=8-6)
+* Table (facultatif)
+* Manuel de visiteurs (facultatif) [Amazon.ca](https://www.amazon.ca/Obsidian-Journal-Diary-Notebook-Pauper/dp/1441310584/ref=sr_1_6?dchild=1&keywords=notebook+fancy&qid=1635121683&sr=8-6)
 * Podium (facultatif)
 
 ## Équipements requis
@@ -176,7 +178,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
     * 1 projecteur vidéo lentille standard
     * 1 ou 2 système d'acrochage pour projecteurs
     * 1 Kinect
-    * Max 5 Webcams
+    * 1 webcam
 
 * Lumière
     * 2 spotlights
@@ -245,7 +247,7 @@ https://github.com/Blobduckies/musee_de_la_vie/milestones
 *Dates importantes :*
 - Première itération : lundi 30 novembre
 - Prototype finale : lundi 10 décembre
-- Présentation des projets devant public : jeudi 25 mars (soir).    
+- Présentation des projets devant public : jeudi 25 mars (soir).
 
 ## Liste des tâches à réaliser 
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
