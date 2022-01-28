@@ -68,7 +68,7 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 ### Moodboard du troisième tableau
 ![moodboard_03](medias/moodboard_scn_03.png)
 
-### Moodboard du quatrième tableau
+### Moodboard du quatrième tableau (**ANNULÉ**)
 ![moodboard_03](medias/moodboard_scn_03-1.png)
 
 ### Moodboard du cinquième tableau
@@ -92,7 +92,7 @@ L'interacteur arrive devant un musée. Il suit le chemin d'un tapis rouge et le 
 ![Scenarimage3](medias/scenarimage_03.png)
 ![Prototype](medias/animation.gif) 
 
-### Scénarimage tableau 03.5 (Olivier)
+### Scénarimage tableau 03.5 (Olivier) (**ANNULÉ**)
 ![Scenarimage3](medias/scenarimage_2.5.png)
 
 
@@ -118,8 +118,8 @@ https://www.youtube.com/watch?v=TzPh66LVGwA&t=27s
 
 Nous voulons avoir un effet de diaporama/depth mapping avec la détection de présence. La position des éléments seront affecté par la position de l'utilisateur. Voici un exemple à ce que cet effet pourait ressembler.  
 
-### Tableau 03.5 (Olivier)
-La vidéo joue en loop.
+### Tableau 03.5 (Olivier) (**ANNULÉ**)
+La vidéo joue en loop. (**ANNULÉ**)
 
 
 ### Tableau 04 (Émilie)
