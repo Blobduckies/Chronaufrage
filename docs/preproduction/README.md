@@ -122,7 +122,7 @@ La vidéo joue en loop. (**ANNULÉ**)
 
 
 ### Tableau 04 (Émilie)
-La vitesse du vidéo est influencé par la position de l'utilisateur. Seuelement l'eau est affecté. 
+La vitesse du vidéo est influencé par la position de l'utilisateur. Seulement l'eau est affecté. 
 ![effets](medias/temps.png)
 ![effets](medias/eau.jpeg)
 
