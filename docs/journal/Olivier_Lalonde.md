@@ -1,5 +1,5 @@
 # Journal d'Olivier Lalonde
-![portrait du participant ](https://i.imgur.com/yJ0GLF3.jpg)
+<img src="https://i.imgur.com/yJ0GLF3.jpg" alt="drawing" width="200"/>
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
