@@ -16,31 +16,13 @@
 
 ### Résumé des réalisations effectuées
 - Mis à jour des plans et des listes de matériel.
-- Discussions sur les logistiques du projet et planification
+- Discussions sur les logistiques du projet et planification d'un plan
 
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-~~### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
-
-~~#### Décrivez pourquoi.
-
-~~#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-~~### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-~~#### S'il y a des écarts, décrivez-les.
-
-~~#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
    - Commencer la production d'assets.
