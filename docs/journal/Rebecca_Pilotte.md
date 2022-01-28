@@ -19,6 +19,7 @@
 - Mise en ligne du journal 
 - Révision des roles de certains membres de l'équipe (à voir toujours)
 - Demander à Xavier pour avoir accès à un podium
+- Aider Olivier avec les plans techniques 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -49,6 +50,7 @@ N/A
 ### Défis pour la prochaine semaine
 
 Filmer la vidéo de préproduction. 
+Commencer le dessin de fond pour l'animation de mon tableau
 
 ---
 ## Semaine 2
