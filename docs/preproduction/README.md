@@ -146,6 +146,8 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 
 ### Plan de travail
 ![Plan](medias/Plan.png)
+
+### Plan de travail revisé
 ![Plan revisé](medias/Plan02.png)
 
 
