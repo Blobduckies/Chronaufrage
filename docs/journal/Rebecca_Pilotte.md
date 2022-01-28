@@ -17,9 +17,13 @@
 
 ### Résumé des réalisations effectuées
 - Mise en ligne du journal 
+- Création du discord comme support communicatif et visuel au projet
 - Révision des roles de certains membres de l'équipe (à voir toujours)
+- Mettre à jour le plan de travail et disposition des tableaux
 - Demander à Xavier pour avoir accès à un podium
 - Aider Olivier avec les plans techniques 
+- Organiser en équipe les tâches à réaliser dans les semaines suivantes
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -45,12 +49,13 @@ N/A
 N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
 
-Filmer la vidéo de préproduction. 
-Commencer le dessin de fond pour l'animation de mon tableau
+- Filmer la vidéo de préproduction. 
+- Commencer le dessin de fond pour l'animation de mon tableau.
+- Assister dans la conception sonore. 
 
 ---
 ## Semaine 2

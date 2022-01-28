@@ -76,10 +76,9 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 
 ## Scénario, scénarimage ou document audio/visuel
-L'interacteur arrive devant un musée. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli de quatre grandes oeuvres d'art et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
+L'interacteur arrive devant une scène ou il y a un tapis trouge qui longe un mur. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli de quatre grandes oeuvres d'art et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
 
 * Taille de la scène totale: 1130px (x 2) x 720 = 2260px x 720px
-* Taille de chaque section: 410px x 720px (ratio 0.56)
 
 ### Scénarimage tableau 01 (Maloney)
 ![Scenarimage1](medias/scenarimage_01_1.png)
@@ -164,6 +163,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
+* Moulure de bois 
 * Tapis rouge ([location](https://www.citefetes.com/boutique/tap01_828/))
 * Pôle d'attente (si on peut emprunter du collège)
 * Table (facultatif)
@@ -274,7 +274,8 @@ https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assi
 
 
 **Émilie Fontaine**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
+- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition des rôles et des responsabilités des membres de l'équipe);
+- Monteur sonore
 - Illustration du tableau 05, animation et colorisation;
 - Illustration de deux petits tableaux
 
@@ -293,15 +294,17 @@ https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3ABkkaaa+is%3Ao
 https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3Abkkaaa
 
 **Olivier Lalonde**
-- Modélisation et animation 3D du tableau 04
+- ///// Modélisation et animation 3D du tableau 04 //// (*ANNULÉ*)
 - Tester la projection
 - Tester le son
+- Responsable technique
 
 Liste des tâches dans Git Hub:  
 https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3AS4nic+is%3Aopen
 https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3As4nic
 
 **Sounthida Kong**
+- Responsable communication
 - Illustration du tableau 02, animation et colorisation;
 - Tester la Kinect
 
