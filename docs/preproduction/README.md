@@ -49,7 +49,7 @@
 Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi.  Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. 
 
 ## Synopsis
-L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis et en mettant une paire d'écouteurs. Devant lui se trouve 4 grands tableaux immobiles. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime, la fille dans le tableau semble stressée lorsque l'interacteur arrive. Une caméra kinect capture son ombre et la projette sur le tableau correspondant. 
+L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime selon la position et/ou les gestes de l'interacteur.
 
 ## Tableau d'ambiance (*moodboard*)
 
@@ -303,7 +303,6 @@ https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assi
 
 **Sounthida Kong**
 - Illustration du tableau 02, animation et colorisation;
-- Illustration de deux petits tableaux
 - Tester la Kinect
 
 Liste des tâches dans Git Hub:  
