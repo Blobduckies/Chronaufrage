@@ -17,20 +17,25 @@
 ### Résumé des réalisations effectuées
 - Création du journal sur Github
 - Planification de rencontres pour enregistrer la vidéo
+- Montage de la vidéo conférence
 - Recherche de tutoriels pour commencer l'animation 
 
+
 ### Image d'une réalisation dont tu es la ou le plus fier
+![montage_img](https://zupimages.net/up/22/05/3ky6.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+Oui
 
 #### Décrivez pourquoi.
+J'ai terminé la planifaction de base et j'ai fais ce qui était urgent pour la semaine prochaine. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -40,9 +45,9 @@
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
-- Commencer les assets
+- Refaire mon sketch plus en détail pour mon tableau
 - Peaufiner le Github
-- Finir la vidéo
+
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
