@@ -37,7 +37,18 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 1
 
+Cette semaine a plutôt été une semaine ou nous nous sommes remis la tête dans le projet, et que nous avions discuté plus que autre chose à propos des changements du projet, puisque nous revenions d'un long mois de vacances.
 
+Nous avons d'abord réorganisé notre document Préproduction de GitHub ensemble, afin de le remettre à jour selon nos nouvelles idées et nouveaux rajustements.
+![github preproduction](medias/exemple_general.jpg)
+
+Nous avons planifié un jour de rencontre afin de réaliser la vidéo pour la préproduction, puis Émilie a fait le montage de la vidéo.
+![enregistrement vidéo](medias/sem1_video.png.png)
+![montage](medias/sem1_montage.png)
+
+Sounthida et Maloney ont commencé les croquis pour leurs tableaux.
+![croquis Sounthida](medias/croquis.jpg)
+![croquis Maloney](medias/wiptableau1.jpg)
 
 
 
