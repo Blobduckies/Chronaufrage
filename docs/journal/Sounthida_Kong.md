@@ -36,3 +36,48 @@ Parce que le fait que j'ai réussit de communiquer à Max de Pure Data lorsque l
 ### Défis pour la prochaine semaine
 - Aller à l'école pour tester mon patch Max avec la Kinect
 - Enregistrer douche pluie + son eau qui coule comme vague
+
+
+---
+## Semaine 2
+
+### Résumé des réalisations effectuées
+- J'ai enregistré le bruit de pluie avec un parapluie + ma douche pluie et l'effet sonore de cascade
+- Numériser mon croquis
+- Finir l'arrière-plan de mon tableau
+
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![background](medias/soun_first_frame.png)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Car maintenant que j'ai mon arrière-plan de fait et ma première *frame*, il ne me reste que l'animation de la chute ainsi que l'animation de mon personnage à faire.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+
+
+---
