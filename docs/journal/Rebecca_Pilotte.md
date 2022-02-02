@@ -64,6 +64,7 @@ N/A
 - Dessiner le fond du petit tableau (bulles)
 - Dessiner bulles
 - Effectuer des tests d'animation
+- Installer une version très légale de Adobe Animate
 - Recherches tutoriels sur Adobe Animate
 
 ### Image d'une réalisation dont tu es la ou le plus fier
