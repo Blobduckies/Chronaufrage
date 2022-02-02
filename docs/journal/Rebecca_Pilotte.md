@@ -68,6 +68,7 @@ N/A
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+Voici un test d'animation pour les dessins de bulles que j'ai réalisé cette semaine
 
 <img src="https://imgur.com/ZJHK5Ra.gif" alt="animation-test" width="450"/>
 
