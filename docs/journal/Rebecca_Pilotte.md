@@ -69,8 +69,8 @@ N/A
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
-<img src="https://imgur.com/ZJHK5Ra.gif" alt="animation-test" width="200"/>
-<img src="https://imgur.com/l45cM23.png" alt="animation-test" width="200"/>
+<img src="https://imgur.com/ZJHK5Ra.gif" alt="animation-test" width="400"/>
+<img src="https://imgur.com/l45cM23.png" alt="animation-test" width="400"/>
 
 
 
