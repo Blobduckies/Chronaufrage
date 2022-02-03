@@ -60,21 +60,31 @@ N/A
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Confirmation du podium et demander pour louer les poteaux d'attentes
+- Dessiner le fond du petit tableau (bulles)
+- Dessiner bulles
+- Effectuer des tests d'animation
+- Installer une version très légale de Adobe Animate
+- Recherches tutoriels sur Adobe Animate
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+Voici un test d'animation pour les dessins de bulles que j'ai réalisé cette semaine
+
+<img src="https://imgur.com/ZJHK5Ra.gif" alt="animation-test" width="450"/>
+
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
