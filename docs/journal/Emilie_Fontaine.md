@@ -39,52 +39,46 @@ J'ai terminé la planifaction de base et j'ai fais ce qui était urgent pour la 
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 ### Défis pour la prochaine semaine
-- Refaire mon sketch plus en détail pour mon tableau
+- Refaire mon sketch plus en détail pour mon tableau et commencer les dessins
 - Peaufiner le Github
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Redessin complet de mon sketch pour le tableau 4
+- Début du dessin et des couleurs pour le décor fixe
+- Trouvaille de tutoriels sur comment animer des papillons et de l'eau
+- Test d'animation avec un papillon 
+- Enregistrement et montage de la nouvelle vidéo 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![gif_papillon](https://cdn.discordapp.com/attachments/935558483493933057/938209262155468821/butterflyme.gif)
+![wip_tableau_4_01](https://zupimages.net/up/22/05/g3mo.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai réussir à en faire plus que je ce que j'avais prévu! 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
-
+- Continuer le décor fixe pour mon tableau (feuilles d'arbre, montagnes) 
+- Coloriage de mon animation de papillon 
+- Début de la musique d'ambiance 
 
 ---
 ## Semaine 3 
