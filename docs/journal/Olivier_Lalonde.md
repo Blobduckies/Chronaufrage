@@ -34,7 +34,9 @@
    - Plan de l'intégration des tableaux et du matériel peaufiné.
       Utilisation d'un injecteur POE dans un téléphone portable pour ainsi utiliser envoyer le flux vidéo par NDI.
       Aussi, nous allons utiliser des faux cadres and du textile afin de créer des toiles.
-
+      <img src="https://media.discordapp.net/attachments/936697389027323984/938832978568700004/20220203_103242.jpg?width=377&height=669" alt="drawing" width="300"/>
+      <img src="https://media.discordapp.net/attachments/936697389027323984/938832974898683984/20220203_112608.jpg?width=377&height=669" alt="drawing" width="300"/>
+      <img src="https://media.discordapp.net/attachments/936697389027323984/938832977113284678/20220203_103952.jpg?width=377&height=669" alt="drawing" width="300"/>
 
 ### Image d'une réalisation dont tu es la ou le plus fier
    <img src="https://media.discordapp.net/attachments/935558534685405204/938162556302925844/unknown.png?width=749&height=671" alt="drawing" width="300"/>
@@ -53,7 +55,6 @@
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-- [ ] 
 
 ### Défis pour la prochaine semaine
    -Réaliser un test de projection
