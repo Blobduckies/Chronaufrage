@@ -42,24 +42,27 @@ Parce que le fait que j'ai réussit de communiquer à Max de Pure Data lorsque l
 ## Semaine 2
 
 ### Résumé des réalisations effectuées
-- J'ai enregistré le bruit de pluie avec un parapluie + ma douche pluie et l'effet sonore de cascade
+- Enregistrer le bruit de pluie avec un parapluie dans ma douche pluie et l'effet sonore de cascade
 - Numériser mon croquis
 - Finir l'arrière-plan de mon tableau
+- Commencer l'animation de mon personnage, animation de base faite (animation du corps + animation des cheveux)
+
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![background](medias/soun_first_frame.png)
+![animation](https://imgur.com/CqIS1d4)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [x] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Car maintenant que j'ai mon arrière-plan de fait et ma première *frame*, il ne me reste que l'animation de la chute ainsi que l'animation de mon personnage à faire.
+Je trouve que je me suis bien avancé dans mon animation, et que la production de mon animation va un peu plus vite que prévue. La seule chose que je n'ai pas faite était d'aller tester mon patch Max avec la Kinect au grand studio.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -67,7 +70,7 @@ Car maintenant que j'ai mon arrière-plan de fait et ma première *frame*, il ne
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -79,5 +82,7 @@ Car maintenant que j'ai mon arrière-plan de fait et ma première *frame*, il ne
 
 ### Défis pour la prochaine semaine
 
+- Faire l'animation de la robe
+- Finir le coloriage de mon animation
 
 ---
