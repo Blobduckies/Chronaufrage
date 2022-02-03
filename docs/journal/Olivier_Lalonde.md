@@ -30,40 +30,33 @@
 
 ## Semaine 2
 ### Résumé des réalisations effectuées
+   - Début de la modélisation 3D d'un parapluie pour un petit tableau.
+   - Plan de l'intégration des tableaux et du matériel peaufiné.
+      Utilisation d'un injecteur POE dans un téléphone portable pour ainsi utiliser envoyer le flux vidéo par NDI.
+      Aussi, nous allons utiliser des faux cadres and du textile afin de créer des toiles.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+   <img src="https://media.discordapp.net/attachments/935558534685405204/938162556302925844/unknown.png?width=749&height=671" alt="drawing" width="300"/>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- [ ] 
 
 ### Défis pour la prochaine semaine
-
+   -Réaliser un test de projection
 
 ---
 ## Semaine 3 
