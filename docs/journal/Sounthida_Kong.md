@@ -27,7 +27,7 @@
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 - [ ] Complètement
 - [x] Assez
-- [] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -51,7 +51,7 @@ Parce que le fait que j'ai réussit de communiquer à Max de Pure Data lorsque l
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![background](medias/soun_first_frame.png)
-![animation](https://imgur.com/CqIS1d4)
+![animation](https://i.imgur.com/CqIS1d4.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
