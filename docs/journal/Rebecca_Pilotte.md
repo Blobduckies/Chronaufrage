@@ -46,9 +46,11 @@ N/A
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+
 N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
 N/A
 
 ### Défis pour la prochaine semaine
@@ -84,26 +86,32 @@ Voici un test d'animation pour les dessins de bulles que j'ai réalisé cette se
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+1. Sans les dimensions des faux cardres établits, je ne connais pas la grandeur de mon tableau et je me sens mal à l'aise de commencer la production de mon grand tableau, 
+2. J'ai de la difficulté à trouver une version très légale de Adobe Animate. 
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+1. Alors je mets mes efforts dans la production d'un des petits tableau.
+2. Alors j'ai installé le logiciel Krita. 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+ Comme mentionné ci-haut. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+La semaine prochaine en équipe nous allons établir les bonnes dimmensions.
 
 ### Défis pour la prochaine semaine
-
+- Commencer la production du tableau 3.
+- Identifier les dimmensions des faux-cardres et des tableaux
+- Faire du prototypage
+- Travailler l'interactivité de mon tableau. 
 
 ---
 ## Semaine 3 
