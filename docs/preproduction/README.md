@@ -55,10 +55,8 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 ### Moodboard d'ambiance sonore
 ![moodboard_sonore](medias/moodboard_sonore.png)
-https://youtu.be/fR9MxhzNGAU
-https://youtu.be/P7FhPWPofOs
-https://youtu.be/isyO3XVCgcM
-https://youtu.be/Zkk8SxtmwdM
+- https://youtu.be/Zkk8SxtmwdM
+- https://youtu.be/isyO3XVCgcM
 
 ### Moodboard d'ambiance générale
 ![moodboard](medias/moodboard.png)
