@@ -1,5 +1,5 @@
 # Journal d'Olivier Lalonde
-<img src="https://i.imgur.com/yJ0GLF3.jpg" alt="drawing" width="200"/>
+<img src="https://i.imgur.com/s6oYLPa.jpg" alt="drawing" width="200"/>
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
