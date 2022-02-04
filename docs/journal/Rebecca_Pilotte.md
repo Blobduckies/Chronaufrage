@@ -66,8 +66,9 @@ N/A
 - Dessiner le fond du petit tableau (bulles)
 - Dessiner bulles
 - Effectuer des tests d'animation
-- Installer une version très légale de Adobe Animate
-- Recherches tutoriels sur Adobe Animate
+- Installer Krita
+- Recherches tutoriels sur Krita
+- Refilmer la vidéo de préproduction 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
