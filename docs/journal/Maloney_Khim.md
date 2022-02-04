@@ -43,40 +43,34 @@ Terminer le dessin du tableau de base (sans les animations).
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- J'ai continué le dessin de mon tableau
+- J'ai recherché des tutoriels sur After Effect
+- J'ai commencé des tests d'animation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![giftestpluie](https://cdn.discordapp.com/attachments/500833358666924043/939011579427557436/testrain.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+En plus d'avoir terminé le dessin de mon tableau, j'ai eu l'opportunité de tester quelques effets d'animations et d'ajuster quelques détails au besoin.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Travailler sur l'animation des yeux, des cheveux et de la jupe.
+- Paufiner l'animation de la pluie et de la flaque d'eau
 
 ---
 ## Semaine 3 
