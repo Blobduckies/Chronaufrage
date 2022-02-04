@@ -35,6 +35,22 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 2
 
+Tout le monde a commencé les assets visuels.
+
+![maloney](medias/maloney_sem2.png)
+![background](medias/soun_first_frame.png)
+![wip_tableau_4_01](https://zupimages.net/up/22/05/g3mo.png)
+ <img src="https://media.discordapp.net/attachments/935558534685405204/938162556302925844/unknown.png?width=749&height=671" alt="drawing" width="300"/>
+ <img src="https://imgur.com/ZJHK5Ra.gif" alt="animation-test" width="450"/>
+ 
+
+Nous avons enregistré quelques effets sonores, dont celui de la pluie et celui de la chute d'eau.
+
+Nous avons fait une réunion pour corriger notre vidéo.
+
+Nous avons fait une rencontre pour les enjeux techniques que notre projet requiert (canvas et caméra cachée pour le cadre de Maloney).
+
+
 ## Semaine 1
 
 Cette semaine a plutôt été une semaine ou nous nous sommes remis la tête dans le projet, et que nous avions discuté plus que autre chose à propos des changements du projet, puisque nous revenions d'un long mois de vacances.
