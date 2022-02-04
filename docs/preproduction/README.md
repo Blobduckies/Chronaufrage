@@ -59,58 +59,58 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 ### Moodboard personnage
 ![moodboard](medias/moodboard_personnage.png)
 
-### Moodboard du premier tableau
+### Moodboard tableau Averse
 ![moodboard_01](medias/moodboard_scn_01.png)
 
-### Moodboard du deuxième tableau
+### Moodboard tableau Cascade
 ![moodboard_02](medias/moodboard_scn_02.png)
 
-### Moodboard du troisième tableau
+### Moodboard tableau Noyade
 ![moodboard_03](medias/moodboard_scn_03.png)
 
 ### Moodboard du quatrième tableau (**ANNULÉ**)
 ![moodboard_03](medias/moodboard_scn_03-1.png)
 
-### Moodboard du cinquième tableau
+### Moodboard du tableau Renouveau
 ![moodboard_04](medias/moodboard_scn_04.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
-L'interacteur arrive devant une scène ou il y a un tapis trouge qui longe un mur. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli de quatre grandes oeuvres d'art, dont 4 oeuvres d'arts principales qui sont projetés sur des canvas physiques, et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
+L'interacteur arrive devant une scène ou il y a un tapis trouge qui longe un mur. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli d'oeuvres d'art, dont 4 oeuvres d'arts principales qui sont projetés sur des canvas physiques, et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
 
-* Taille de la scène totale: 1130px (x 2) x 720 = 2260px x 720px
 
-### Scénarimage tableau 01 (Maloney)
+### Scénarimage tableau 01: Averse / Le temps me file entre les doigts
 ![Scenarimage1](medias/scenarimage_01_1.png)
 ![Scenarimage1](medias/scenarimage_01_2.png)
 
-### Scénarimage tableau 02 (Sounthida)
+### Scénarimage tableau 02: Cascade / Arrêtez de me regarder, je ne peux pas tout arrêter
 ![Scenarimage2](medias/scenarimage_02.png) 
 
-### Scénarimage tableau 03 (Rebecca)
+### Scénarimage tableau 03: Noyade / Je n'en peux plus
 ![Scenarimage3](medias/scenarimage_03.png)
 ![Prototype](medias/animation.gif) 
 
-### Scénarimage tableau 03.5 (Olivier) (**ANNULÉ**)
+### Scénarimage tableau 03.5 (**ANNULÉ**)
 ![Scenarimage3](medias/scenarimage_2.5.png)
 
-
-### Scénarimage tableau 04 (Émilie)
+### Scénarimage tableau 04: Renouveau / Tu ne m'importe plus
 ![Scenarimage4](medias/scenarimage_04.png)
 
 
 ### Effets techniques
 
+### Projection sur canvas physique
+Chaque tableau principal sera projeté sur un canvas pour donner un effet de 3D et pour les mettre en évidence.
 
-### Tableau 01 (Maloney)
+### Averse
 ![effets](medias/flou.jpg)
 
 
-### Tableau 02 (Sounthida)
+### Cascade
 La vitesse du vidéo est influencé par la position de l'utilisateur. La composition est affectée.
 ![effets](medias/temps.png)
 
-### Tableau 03 (Rebecca)
+### Noyade
 Le tableau a un effet de dioporama numérique et la composition est affectée par la position de l'utilisateur.
 https://www.youtube.com/watch?v=TzPh66LVGwA&t=27s 
 ![Prototype](medias/effet_interaction.gif) 
@@ -120,8 +120,7 @@ Nous voulons avoir un effet de diaporama/depth mapping avec la détection de pr�
 ### Tableau 03.5 (Olivier) (**ANNULÉ**)
 La vidéo joue en loop. (**ANNULÉ**)
 
-
-### Tableau 04 (Émilie)
+### Renouveau
 La vitesse du vidéo est influencé par la position de l'utilisateur. Seulement l'eau est affecté. 
 ![effets](medias/temps.png)
 ![effets](medias/eau.jpeg)
