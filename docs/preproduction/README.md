@@ -46,7 +46,7 @@
 ![Cartographie 5](medias/cartographie_05.png)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi.  Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. 
+Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi.  Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. On utilise l'eau comme la symbolisation du temps.
 
 ## Synopsis
 L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime selon la position et/ou les gestes de l'interacteur.
@@ -76,7 +76,7 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 
 ## Scénario, scénarimage ou document audio/visuel
-L'interacteur arrive devant une scène ou il y a un tapis trouge qui longe un mur. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli de quatre grandes oeuvres d'art et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
+L'interacteur arrive devant une scène ou il y a un tapis trouge qui longe un mur. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli de quatre grandes oeuvres d'art, dont 4 oeuvres d'arts principales qui sont projetés sur des canvas physiques, et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
 
 * Taille de la scène totale: 1130px (x 2) x 720 = 2260px x 720px
 
@@ -163,25 +163,25 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Moulure de bois 
+* 4 canvas en faux-cadres
+* Toile ou tissus blanc ressemblant à de la toile
 * Tapis rouge ([location](https://www.citefetes.com/boutique/tap01_828/))
-* Pôle d'attente (si on peut emprunter du collège)
-* Table (facultatif)
-* Manuel de visiteurs (facultatif) [Amazon.ca](https://www.amazon.ca/Obsidian-Journal-Diary-Notebook-Pauper/dp/1441310584/ref=sr_1_6?dchild=1&keywords=notebook+fancy&qid=1635121683&sr=8-6)
-* Podium (facultatif)
+* Pôle d'attente (emprunté du collège)
+* Livre d'or (facultatif) [Amazon.ca](https://www.amazon.ca/Obsidian-Journal-Diary-Notebook-Pauper/dp/1441310584/ref=sr_1_6?dchild=1&keywords=notebook+fancy&qid=1635121683&sr=8-6)
+* Podium (emprunté du collège)
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableau Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 2 Enceintes de sons (Stéréo)
+    * 2 hauts-parleurs (Stéréo)
     * Carte de son
 
 * Vidéo
     * 1 projecteur vidéo lentille standard
     * 1 ou 2 système d'acrochage pour projecteurs
     * 1 Kinect
-    * 1 webcam
+    * 1 téléphone avec caméra
 
 * Lumière
     * 2 spotlights
@@ -191,12 +191,10 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
     * 2 extentions 3 fiches et 3 conducteurs (À déterminer)
 
 * Ordinateur
-    * Minimum 1 Raspberry Pi 
+    * 1 Raspberry Pi 
     * 1 laptop
     * Hub usb
     
-* Autre
-    * Tout autre élément pertinant
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -236,6 +234,7 @@ Pour les dessins:
 | Bien définir notre interactivité | Rencontre d'équipe avec prof | Ajouter un cadre ou il y l'intéracteur (caméra) |
 | Tester les overlays dans différents logiciels de montage vidéo | Tests | Tests sur logiciels différents et différents effets d'overlay |
 | Valider si Montmorency possède le matériel qu’on demande | Aller voir à la Vie Étudiante de Momo | Sinon, on peut trouver des matériels alternatifs 
+| On ne veut pas d'ombres dans notre projection | Utiliser le projecteur qui fait le moins d'ombres possible | Délimiter la distance que la personne peut se rapprocher des oeuvres
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -265,7 +264,6 @@ https://github.com/Blobduckies/musee_de_la_vie/issues
 
 **Maloney Khim**
 - Illustration du tableau 01, animation et colorisation;
-- Illustration de deux petits tableaux
 - Trouver les éléments du décor
 
 Liste des tâches dans Git Hub:  
@@ -275,9 +273,8 @@ https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assi
 
 **Émilie Fontaine**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition des rôles et des responsabilités des membres de l'équipe);
-- Monteur sonore
+- Monteur sonore de la musique d'ambiaqnce ainsi que des effets sonores de tous les cadres du projet
 - Illustration du tableau 05, animation et colorisation;
-- Illustration de deux petits tableaux
 
 
 Liste des tâches dans Git Hub:  
@@ -287,17 +284,16 @@ https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assi
 **Rebecca Pilotte**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Illustration du tableau 03, animation et colorisation;
-- Illustration de deux petits tableaux
 
 Liste des tâches dans Git Hub:  
 https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3ABkkaaa+is%3Aopen
 https://github.com/Blobduckies/musee_de_la_vie/projects/1?card_filter_query=assignee%3Abkkaaa
 
 **Olivier Lalonde**
-- ///// Modélisation et animation 3D du tableau 04 //// (*ANNULÉ*)
 - Tester la projection
 - Tester le son
 - Responsable technique
+- Modélisation et animation de la majorité des petits tableaux
 
 Liste des tâches dans Git Hub:  
 https://github.com/Blobduckies/musee_de_la_vie/issues?q=assignee%3AS4nic+is%3Aopen
