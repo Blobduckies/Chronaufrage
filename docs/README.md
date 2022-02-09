@@ -1,5 +1,4 @@
-# Dossier de documentation du projet *66B-modele_de_projet*
-
+# Dossier de documentation du projet Chronaufrage
 Dans ce dossier, on retrouve:
 
 * La préproduction du projet à réaliser en début de projet;
