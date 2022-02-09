@@ -174,6 +174,7 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * 4 canvas en faux-cadres
+* 4 (ou 8?) filets de pêche pour accrocher les canvas
 * Toile ou tissus blanc ressemblant à de la toile
 * Tapis rouge ([location](https://www.citefetes.com/boutique/tap01_828/))
 * Pôle d'attente (emprunté du collège)
