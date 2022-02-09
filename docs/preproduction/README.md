@@ -6,7 +6,7 @@
     - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
-    - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
+    - [Tableaux d'ambiance (*moodboard*)](#Tableaux-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
@@ -51,7 +51,7 @@ Par ce projet, nous souhaitons exposer la pression vécue dans notre société d
 ## Synopsis
 L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime selon la position et/ou les gestes de l'interacteur.
 
-## Tableau d'ambiance (*moodboard*)
+## Tableaux d'ambiance (*moodboard*)
 
 ### Moodboard d'ambiance sonore
 ![moodboard_sonore](medias/moodboard_sonore.png)
@@ -81,7 +81,13 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 
 
 ## Scénario, scénarimage ou document audio/visuel
-L'interacteur arrive devant une scène ou il y a un tapis trouge qui longe un mur. Il suit le chemin d'un tapis rouge et le mur parallèle au tapis est rempli d'oeuvres d'art, dont 4 oeuvres d'arts principales qui sont projetés sur des canvas physiques, et quelques petites oeuvres d'art. À chaque qu'il arrive devant un des quartre grand cadre, et qu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
+
+### VUE D'ENSEMBLE DU PROJET
+Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un tracé de tapis rouge longeant un mur remplis de cadres artistiques, dont quatre gigantesques cadres qui sont projetés sur quatre canvas physique, et quelques petites oeuvres d'art. Le tapis rouge est éclairé tout au long par une faible lumière.
+### INTERACTION AVEC LE PROJET
+L'interacteur s'approche du projet et embarque sur le tapis, les lumières qui éclairent le tapis rouge augmentent d'intensité. Il suit le chemin du tapis rouge. À chaque qu'il arrive devant un des quatre grand cadre, le cadre change de nom (voir plus bas dans le scénarimage de chaque tableau) et s'anime. Lorsqu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
+### FIN DE L'INTERACTION
+Lorsque l'interacteur fini son parcours sur le tapis, les lumières diminuent en intensité. Au bout du tapis, l'interacteur voit un livre d'or éclairé par une lumière de chevet, déposé sur un podium, qui est là pour l'inciter à écrire son avis ou un commentaire sur le projet qu'il vient de vivre.
 
 
 ### Scénarimage tableau 01: Averse / Le temps me file entre les doigts
@@ -233,12 +239,15 @@ Pour les dessins:
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement |
 | Comment programmer l’interactivité | Formation avec TTP, expérimentation durant la session, questions au professeur | Solution |
 | Bien définir notre interactivité | Rencontre d'équipe avec prof | Ajouter un cadre ou il y l'intéracteur (caméra) |
-| Tester les overlays dans différents logiciels de montage vidéo | Tests | Tests sur logiciels différents et différents effets d'overlay |
 | Valider si Montmorency possède le matériel qu’on demande | Aller voir à la Vie Étudiante de Momo | Sinon, on peut trouver des matériels alternatifs 
+| Nous n'avons jamais utilisé de projection avec Kinect | Formation avec TTP, expérimentation durant la session, questions au professeur | Sinon, nous pourrions changer la façon de détecter le mouvement ou changer l'élément qui permet de déclencher le mouvement |
 | On ne veut pas d'ombres dans notre projection | Utiliser le projecteur qui fait le moins d'ombres possible | Délimiter la distance que la personne peut se rapprocher des oeuvres
+| Construire les cadre avec faux-cadre | Mesurer la hauteur et longueur des cadres projetés, demander de l'aide au département des arts plastiques | --
+| Comment cacher une caméra(tableau 1: Averse) | Cacher un cellulaire derrère un cadre, faire un trou dans la toile pour que la caméra puisse voir | --
+| Comment recevoir le feedback de la caméra du cellulaire dans un ordinateur, sans fils USB/ordinateur proche visible | Utiliser la technologie PoE | --
+| Faire de la projection sur des cadres physiques | Utiliser Madmapping qui permet de faire du mapping de projection de façon facile et précise | --
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
