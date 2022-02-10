@@ -133,7 +133,7 @@ Assets visuels :
 
 
 <img src="https://imgur.com/Xt4c3qk.gif" alt="animation-test02" width="450"/> 
-<img src="https://imgur.com/tAHQTbF.gif" alt="animation-test02" width="300"/>
+<img src="https://imgur.com/tAHQTbF.gif" alt="animation-test03" width="250"/>
 
 
 
