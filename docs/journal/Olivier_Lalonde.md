@@ -66,6 +66,8 @@
    - Rendu 3D finit
    - Début de l'installation du projet
 
+<img src="https://media.discordapp.net/attachments/935558261950791723/941376771071311882/IMG_6828.jpg?width=503&height=670" alt="drawing" width="250"/>
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 <img src="https://media.discordapp.net/attachments/935558534685405204/939989100419768400/render4k-jaune.png?width=671&height=671" alt="drawing" width="250"/>
