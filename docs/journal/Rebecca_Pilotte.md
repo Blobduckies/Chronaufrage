@@ -117,39 +117,58 @@ La semaine prochaine en équipe nous allons établir les bonnes dimmensions.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
+- Création du power point pour la vidéo de préproduction
+- Refilmer la vidéo de préproduction
+- Amener deux toiles au studio pour des tests visuels
+- Trouver mon canvas brut que nous pouvons utiliser pour les autres toiles
+
+Assets visuels :
+
+- Dessiner le fond du tableau
+- Dessiner la base du personnage (et quelque adjustements pour l'animation)
+- Effectuer quelque tests d'animation 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+
+<img src="https://imgur.com/Xt4c3qk.gif" alt="animation-test02" width="450"/> 
+<img src="https://imgur.com/tAHQTbF.gif" alt="animation-test02" width="450"/>
+
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [ x ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je suis fière de l'avancement des assets visuels pour le tableau, mais je n'était pas présente pour les tests techniques ce jeudi car je ne me sentais pas bien.
+ J'ai été capable de trouver au moins une toile que nous pouvons utiliser pour le projet (nous sauver de l'argent). J'ai aussi retrouver du canvas brut que nous pouvons surement utilser avec les faux-cardres des autres tableaux.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [ x ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je n'ai pas avancé l'interactivité comme prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai eu une discussion avec les professeurs sur le sujet de l'interactivité du projet et nous avons établits au moins 2 rendez-vous pour la semaine prochaine pour devancer l'aspect plus technique du projet. 
 
 ### Défis pour la prochaine semaine
+- Avancer les assets visuels 
+- Travailler dans MAX avec l'équipe pour tous les interactions du projet
 
 ---
 ## Semaine 4
