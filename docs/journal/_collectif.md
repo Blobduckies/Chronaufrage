@@ -4,23 +4,6 @@
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
 
-Cette semaine a été parsemée de défis.
-![défis](medias/exemple_general.jpg)
-
-Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Photoshop et le contenu 3D dans Maya. Nous avons également avancé la programmation multimédia du projet dans le logiciel Max et Unity.
-![exemple photoshop](medias/exemple_photoshop.jpg)
-
-Par la suite, nous avions prévu une séance d’enregistrement audio dans les studios de son. Cependant, misère (!), une panne d’électricité a eu lieu durant notre séance! Nous avons donc dû remettre celle-ci à quelques jours plus tard. (Nous avons beaucoup ri de cette situation.)
-
-![Enregistrement en studio](medias/exemple_studio1.jpg)
-
-Enfin, nous venons de commencer à mettre en espace le projet dans le grand studio du collège. Nos projecteurs viennent tout juste d’être installés! 
-![Projecteurs installés](medias/exemple_projector.jpg)
-
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
-
-
-
 ## Semaine 8
 
 ## Semaine 7
@@ -33,13 +16,44 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 3
 
+Tout le monde a encore travaillé dur sur leurs assets visuels.
+![maloney]()
+![sounthida]()
+![rebecca]()
+![emilie]()
+![olivier]()
+
+Rebecca a amené deux canvas afin que l'on puisse avoir un aperçu rapide ou faire des tests avec des cadres déjà faits, qui ont presque la taille des canvas que l'on veut.
+![canvas](medias/becca_canvas.jpg)
+
+Olivier est venu récupérer et scanner le matériel requis pour le projet.
+![equipements](medias/equipements.jpg)
+
+Maloney, Sounthida, Émilie et Olivier ont débuté l'installation du projet. Ils ont désinstallé des rideaux (puisque ses crochets vont être utilisés pour attacher les fils de pêche) et un projecteur. Le rideau était lourd mais nous avons réussit à le plier!
+![rideaux](medias/enlever_rideaux.jpg)
+Enlever le projecteur était effrayant car c'était la première fois qu'on le faisait, on avait peur d'échapper un projecteur!
+![desinstallation_projecteur](medias/desinstaller_projo.jpg)
+
+Maloney et Émilie sont parties acheter le fil de pêche qui va nous permettre d'accrocher les canvas. Elles ont dû braver le froid et la pluie pour aller marcher jusqu'au Canadian Tire.
+![fils_peche](medias/fil_peche.jpg)
+
+Maloney, Sounthida, Émilie et Olivier ont travaillé un peu sur MadMapper afin de découvrir le logiciel, pour pouvoir ensuite faire des tests de projection lorsque le porjecteur sera installé.
+![madmapper](medias/madmapper1.png)
+
+### DÉFIS DE LA SEMAINE PROCHAINE
+Émilie et Sounthida ont réservé le Grand Studio de 9h à 11h le lundi afin d'installer le projecteur. On espère pouvoir mesurer la hauteur des cadre dès la semaine prochaine afin de savoir combien de faux-cadres et de quelles longueurs nous avons besoin pour créer nos canvas. 
+On espère aussi 
+Nous allons assister à une petite formation de groupe avec Daryl et 
+
 ## Semaine 2
 
 Tout le monde a commencé les assets visuels.
 
 ![maloney](medias/maloney_sem2.png)
 ![background](medias/soun_first_frame.png)
+![animation](https://i.imgur.com/CqIS1d4.gif)
 ![wip_tableau_4_01](https://zupimages.net/up/22/05/g3mo.png)
+![gif_papillon](https://cdn.discordapp.com/attachments/935558483493933057/938209262155468821/butterflyme.gif)
  <img src="https://media.discordapp.net/attachments/935558534685405204/938162556302925844/unknown.png?width=749&height=671" alt="drawing" width="300"/>
  <img src="https://imgur.com/ZJHK5Ra.gif" alt="animation-test" width="450"/>
  
