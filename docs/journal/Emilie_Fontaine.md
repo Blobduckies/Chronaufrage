@@ -107,7 +107,7 @@ Je vais juste reporter l'aspect audio pour plus tard et je vais me concentrer su
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
