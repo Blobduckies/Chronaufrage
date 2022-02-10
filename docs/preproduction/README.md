@@ -201,22 +201,20 @@ Voir colonne *Exemples de réalisation* dans [l'inventaire du contenu à intégr
     * Carte de son
 
 * Vidéo
-    * 1 projecteur vidéo lentille standard
-    * 1 ou 2 système d'acrochage pour projecteurs
+    * 1 projecteur vidéo lentille standard (0.5)
+    * 1 système d'acrochage pour projecteurs
     * 1 Kinect
-    * 1 téléphone avec caméra
+    * 1 téléphone + kit POE
 
 * Lumière
-    * 2 spotlights
+    * 2 spotlights ou DMX
     * Lumière de table de chevet
 
 * Électricité
-    * 2 extentions 3 fiches et 3 conducteurs (À déterminer)
+    * Ce qui est nécessaire en temps et lieu
 
 * Ordinateur
-    * 1 Raspberry Pi 
-    * 1 laptop
-    * Hub usb
+    * 1 chariot Desktop
     
 
 ## Logiciels requis
