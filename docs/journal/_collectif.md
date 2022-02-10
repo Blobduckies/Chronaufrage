@@ -23,8 +23,12 @@ Tout le monde a encore travaillé dur sur leurs assets visuels.
 ![emilie]()
 ![olivier]()
 
-Rebecca a amené deux canvas afin que l'on puisse avoir un aperçu rapide ou faire des tests avec des cadres déjà faits, qui ont presque la taille des canvas que l'on veut.
+Rebecca a amené deux canvas afin que l'on puisse avoir un aperçu rapide ou faire des tests avec des cadres déjà faits, qui ont presque la taille des canvas que l'on veut. Elle a aussi amené du toiles brut. 
 ![canvas](medias/becca_canvas.jpg)
+![canvas](https://imgur.com/fNka8K9.png) 
+![canvas](https://imgur.com/qUI5JhU.png)
+![canvas](https://imgur.com/7VyvAt7.png)
+
 
 Olivier est venu récupérer et scanner le matériel requis pour le projet.
 ![equipements](medias/equipements.jpg)
