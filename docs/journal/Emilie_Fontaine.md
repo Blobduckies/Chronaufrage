@@ -83,28 +83,31 @@ J'ai réussir à en faire plus que je ce que j'avais prévu!
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Montage de la nouvelle version de la vidéo
+- Version propre de l'animation de papillon
+- Fin du décor statique pour ma peinture
+- Achat du fil de pêche
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![gif_papillon_propre](https://cdn.discordapp.com/attachments/935558483493933057/940504522894225468/ezgif.com-gif-maker_15.gif)
+![wip_tableau_4_02](https://zupimages.net/up/22/06/igwm.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'ai juste pas commencer la musique d'ambiance, mais j'ai beaucoup plus avancé ma peinture que prévu. Je suis quand même satisfaite et je vais reporter ça à plus tard. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais juste reporter l'aspect audio pour plus tard et je vais me concentrer sur les visuels
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -116,8 +119,10 @@ J'ai réussir à en faire plus que je ce que j'avais prévu!
 
 
 ### Défis pour la prochaine semaine
+- apprendre comment effectuer un effet papier et un effet d'eau sur After Effect 
+- mise au propre du bateau
+- installation du projecteur 
 
----
 ## Semaine 4
 ### Résumé des réalisations effectuées
 
