@@ -95,7 +95,7 @@ J'ai réussir à en faire plus que je ce que j'avais prévu!
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
