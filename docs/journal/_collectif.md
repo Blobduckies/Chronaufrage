@@ -23,6 +23,10 @@ Tout le monde a encore travaillé dur sur leurs assets visuels.
 ![emilie]()
 ![olivier]()
 
+Nous avons refilmer et mise enligne la vidéo de préproduction : https://youtu.be/SATIxHCn6SI 
+
+
+
 Rebecca a amené deux canvas afin que l'on puisse avoir un aperçu rapide ou faire des tests avec des cadres déjà faits, qui ont presque la taille des canvas que l'on veut. Elle a aussi amené du toiles brut. 
 ![canvas](medias/becca_canvas.jpg)
 ![canvas](https://imgur.com/fNka8K9.png) 
