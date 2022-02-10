@@ -19,7 +19,7 @@
 Tout le monde a encore travaillé dur sur leurs assets visuels.
 ![maloney]()
 ![sounthida]()
-![rebecca]()
+![rebecca](https://imgur.com/Xt4c3qk.gif)
 ![emilie]()
 ![olivier]()
 
