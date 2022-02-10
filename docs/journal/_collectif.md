@@ -41,9 +41,10 @@ Maloney, Sounthida, Émilie et Olivier ont travaillé un peu sur MadMapper afin 
 ![madmapper](medias/madmapper1.png)
 
 ### DÉFIS DE LA SEMAINE PROCHAINE
-Émilie et Sounthida ont réservé le Grand Studio de 9h à 11h le lundi afin d'installer le projecteur. On espère pouvoir mesurer la hauteur des cadre dès la semaine prochaine afin de savoir combien de faux-cadres et de quelles longueurs nous avons besoin pour créer nos canvas. 
-On espère aussi 
-Nous allons assister à une petite formation de groupe avec Daryl et 
+- Émilie et Sounthida ont réservé le Grand Studio de 9h à 11h le lundi afin d'installer le projecteur.
+- On espère pouvoir mesurer la hauteur des cadre dès la semaine prochaine afin de savoir combien de faux-cadres et de quelles longueurs nous avons besoin pour créer nos canvas.
+- On espère aussi pouvoir accrocher les cadres de Rebecca afin de faire des tests de projection sur canvas préliminaires.
+- Nous allons assister à une petite formation de groupe avec Daryl et Guillaume pour fixer nos patchs Max.
 
 ## Semaine 2
 
