@@ -86,3 +86,51 @@ Je trouve que je me suis bien avancé dans mon animation, et que la production d
 - Finir le coloriage de mon animation
 
 ---
+
+
+## Semaine 3 
+### Résumé des réalisations effectuées
+- J'ai fini complètement les lignes de mon animation, il ne reste que la colorisation
+- J'ai désinstallé un projecteur afin que nous puissons l'utiliser pour notre projet
+- Préciser le scénarimage du document GitHub et section défis techniques
+- Enregistrer la vidéoconférence de notre préproduction GitHub
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![dessin](https://i.imgur.com/ibzoevr.gif)
+![desinstallation_projecteur](medias/desinstaller_projo.jpg)
+
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [ ] Complètement
+- [x] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Je suis contente d'avoir fini mon animation mais j'ai peut-être un peu procrastiné ce qui a fait que je n'ai pas encore fini le coloriage de mon animation comme je l'aurais voulu.
+ 
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [x] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+- Finir la coloration de mon animation
+- Installer le projecteur
+- Mesurer la projection des cadres
+
+---
