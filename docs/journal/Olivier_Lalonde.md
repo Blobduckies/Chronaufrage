@@ -62,9 +62,9 @@
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-   -Finalisation de la modélisation du parapluie
-   -Rendu 3D finit
-   -Début de l'installation du projet
+   - Finalisation de la modélisation du parapluie
+   - Rendu 3D finit
+   - Début de l'installation du projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -87,13 +87,13 @@
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-   -On a manquer de temps pour finaliser l'installation pour faire des tests de projection.
+   - On a manquer de temps pour finaliser l'installation pour faire des tests de projection.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-   -Se prendre un temps additionnel pour finaliser le tout.
+   - Se prendre un temps additionnel pour finaliser le tout.
 
 ### Défis pour la prochaine semaine
-   -Débuter et peut-être même terminer un deuxième tableau.
+   - Débuter et peut-être même terminer un deuxième tableau.
    
    
 ---
