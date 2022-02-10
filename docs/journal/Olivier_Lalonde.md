@@ -62,40 +62,40 @@
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+   -Finalisation de la modélisation du parapluie
+   -Rendu 3D finit
+   -Début de l'installation du projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+<img src="https://media.discordapp.net/attachments/935558534685405204/939989100419768400/render4k-jaune.png?width=671&height=671" alt="drawing" width="250"/>
+<img src="https://media.discordapp.net/attachments/935558534685405204/939984933508751390/render4k.png?width=671&height=671" alt="drawing" width="250"/>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+   -On a manquer de temps pour finaliser l'installation pour faire des tests de projection.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+   -Se prendre un temps additionnel pour finaliser le tout.
 
 ### Défis pour la prochaine semaine
-
+   -Débuter et peut-être même terminer un deuxième tableau.
+   
+   
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
