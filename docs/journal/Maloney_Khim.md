@@ -75,39 +75,39 @@ En plus d'avoir terminé le dessin de mon tableau, j'ai eu l'opportunité de tes
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- J'ai travaillé sur les animations des yeux, des cheveux et de la jupe
+- J'ai paufiné l'animation de la pluie et de la flaque d'eau
+- J'ai acheté le fil à pêche pour accrocher les tableaux
+- J'ai travaillé sur le powerpoint de la préproduction
+- J'ai ajouté des effets de pluie au tableau d'Olivier
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
+![gifpluiev2](https://media.giphy.com/media/cziNAzL08EtZhCojL6/giphy.gif)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je suis contente d'avoir pu terminer l'animation de la fille, de la pluie et de la flaque. Il ne me reste plus que quelques animations de gouttes et ensuite je vais probablement aider à produire les petits tableaux.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+- Animer les gouttes qui glissent sur le parapluie
+- Animer les gouttes qui tombent de la main qui essaie d'attraper l'eau
+- Améliorer/retravailler le patch max de mon effet de buée avec l'aide des profs
 
 ---
 ## Semaine 4
