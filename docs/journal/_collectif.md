@@ -17,7 +17,7 @@
 ## Semaine 3
 
 Tout le monde a encore travaillé dur sur leurs assets visuels.
-![maloney]()
+![maloney](https://media.giphy.com/media/cziNAzL08EtZhCojL6/giphy.gif)
 ![sounthida]()
 ![rebecca](https://imgur.com/Xt4c3qk.gif) 
 ![rebecca](https://imgur.com/tAHQTbF.gif)
