@@ -17,19 +17,21 @@
 ## Semaine 3
 
 Tout le monde a encore travaillé dur sur leurs assets visuels.
+
 ![maloney](https://media.giphy.com/media/cziNAzL08EtZhCojL6/giphy.gif)
-![sounthida]()
+![sounthida](https://i.imgur.com/ibzoevr.gif)
+
 ![rebecca](https://imgur.com/Xt4c3qk.gif) 
 ![rebecca](https://imgur.com/tAHQTbF.gif)
-![emilie]()
-![olivier]()
+![emilie](https://cdn.discordapp.com/attachments/935558483493933057/940504522894225468/ezgif.com-gif-maker_15.gif)
+![emilie](https://zupimages.net/up/22/06/igwm.png)
+![olivier](https://media.giphy.com/media/IzkrFBU32DBTREpiUV/giphy.gif)
 
-Nous avons refilmer et mise enligne la vidéo de préproduction : https://youtu.be/SATIxHCn6SI 
+Nous avons refilmé et mise en ligne la vidéo de préproduction : https://youtu.be/SATIxHCn6SI 
 
 
 
 Rebecca a amené deux canvas afin que l'on puisse avoir un aperçu rapide ou faire des tests avec des cadres déjà faits, qui ont presque la taille des canvas que l'on veut. Elle a aussi amené du toiles brut. 
-![canvas](medias/becca_canvas.jpg)
 ![canvas](https://imgur.com/fNka8K9.png) 
 ![canvas](https://imgur.com/qUI5JhU.png)
 ![canvas](https://imgur.com/7VyvAt7.png)
