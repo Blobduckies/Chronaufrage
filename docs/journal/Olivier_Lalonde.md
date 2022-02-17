@@ -101,7 +101,8 @@
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+   - Plusieurs installations faites dans le studio
+   - Modélisation 3D d'un des tableaux presque terminée
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
