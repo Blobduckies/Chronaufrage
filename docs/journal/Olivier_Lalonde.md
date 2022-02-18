@@ -106,37 +106,35 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+<img src="https://cdn.discordapp.com/attachments/935558534685405204/942886753545646140/unknown.png" alt="drawing" width="250"/>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+   - Pas terminé mon tableau, mais il est bien avancé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+   - Terminer la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
+- [ ] 
 ### Défis pour la prochaine semaine
+   - Terminer mon tableau, continuer l'installation multimédia.
+
 
 ---
+
+
 ## Semaine 5
 ### Résumé des réalisations effectuées
 
