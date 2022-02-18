@@ -119,34 +119,39 @@ Je vais juste reporter l'aspect audio pour plus tard et je vais me concentrer su
 
 
 ### Défis pour la prochaine semaine
-- apprendre comment effectuer un effet papier et un effet d'eau sur After Effect 
-- mise au propre du bateau
-- installation du projecteur 
+- Apprendre comment effectuer un effet papier et un effet d'eau sur After Effect 
+- Mise au propre du bateau
+- Installation du projecteur 
 
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Installation du projecteur, de la kinect, et d'une barre au plafond
+- Test avec after effects pour effet papier
+- Mise au propre du bateau (Il ne me reste qu'à dessiner les animations pour la fille et pour l'eau)
+- Tests de projections avec Mad Mapper sur le mur
+- Connection des haut parleurs à l'ordinatuer et à la carte de son
+- Enregistrements de sons supplémentaires 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![wip_tableau_4_03](https://i.gyazo.com/95695962ff09db37575449fe3ae779ab.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tout à été fait, même plus. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -158,6 +163,7 @@ Je vais juste reporter l'aspect audio pour plus tard et je vais me concentrer su
 
 
 ### Défis pour la prochaine semaine
+- Commencer et finir l'animation de la fille
 
 ---
 ## Semaine 5
