@@ -133,7 +133,7 @@ Je vais juste reporter l'aspect audio pour plus tard et je vais me concentrer su
 - Enregistrements de sons supplémentaires 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![wip_tableau_4_03](https://i.gyazo.com/95695962ff09db37575449fe3ae779ab.gif)
+![wip_tableau_4_03](https://zupimages.net/up/22/07/g6zk.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -151,7 +151,7 @@ Tout à été fait, même plus.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
