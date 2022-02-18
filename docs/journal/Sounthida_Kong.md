@@ -134,3 +134,54 @@ Je suis contente d'avoir fini mon animation mais j'ai peut-être un peu procrast
 - Mesurer la projection des cadres
 
 ---
+
+
+
+
+## Semaine 4
+### Résumé des réalisations effectuées
+- J'ai bientôt fini le coloriage de mon animation de mon personnage.
+- J'ai enlevé les fils dont on n'avais pas besoin pour *clearer* le plafond.
+- J'ai installé le projecteur.
+- J'ai fait la connection de notre projecteur à notre ordinateur avec le HDMI Transmitter et Receiver.
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![dessin](medias/sem4_dessin.gif)
+![cleaner](media/cleaning.jpg)
+![installation_projecteur](medias/installation_projo.jpg)
+
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Nous nous sommes énormément avancer dans les installations, donc on va pouvoir faire des tests physiques dès la semaine prochaine! Il ne nous reste que les hauts-parleurs à installer et les lumières, mais le principale est là: la projection marche!
+ 
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+- Finir mon animation au complet, avec le background animé aussi
+- Avec mon patch Max, faire l'analyse des données de la Kinect afin de les envoyer à mes collègues
+- Déterminer comment on peut envoyer une vidéo Max à MadMapper
+
+---
