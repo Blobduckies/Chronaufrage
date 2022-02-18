@@ -112,39 +112,42 @@ Je suis contente d'avoir pu terminer l'animation de la fille, de la pluie et de 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- J'ai animé les gouttes qui tombent de la main qui essaie d'attraper la pluie
+- J'ai fait un effet de gouttes de pluie qui glissent sur de la buée dans After Effects
+- J'ai assisté à un mini-cours sur Max de Daryl
+- J'ai retravaillé sur mon patch max de mon effet de buée avec l'aide de Daryl
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![effetbuee](https://media.giphy.com/media/RcF9VD9OlYJfAs5hkZ/giphy.gif)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+- Je n'ai pas pu faire les gouttes qui rebondissent sur le parapluie, à la place, j'ai réalisé manuellement l'effet de pluie qui glisse sur la buée puisqu'il n'existe pas de vidéo avec écran vert assez grand pour mon tableau. Sinon, j'ai tout de même pu travailler sur les gouttes de la main et le patch max.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Je vais travailler sur la pluie qui rebondit sur le parapluie la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+
+- Travailler sur Jit.Grab pour tester la caméra dans mon patch Max
+- Faire l'effet de la pluie qui rebondit sur le parapluie
+- (Peut-être) Aider avec les petits tableaux
 
 ---
 ## Semaine 5
