@@ -64,6 +64,7 @@ Nous avons réussi à connecter le son de l'ordinateur aux hauts-parleurs avec l
 - Nous espérons pouvoir mesurer la hauteur des cadre afin de savoir combien de faux-cadres et de quelles longueurs nous avons besoin pour créer nos canvas. Ce serait aussi bien de visiter le magasin DeSerres pour les voir en personne.
 - Nous voulons continuer à travailler sur les assets visuels.
 - Nous voudrions faire plus de tests avec la Kinect/Max/Madmapper.
+- Nous voulons accrocher le Canvas test 
 
 
 
