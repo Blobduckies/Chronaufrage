@@ -14,6 +14,59 @@
 
 ## Semaine 4
 
+Cette semaine fut très productive, nous avons travaillé sur plusieurs tâches en même temps. Tout d'abord, tout le monde a continué de réaliser leurs assets visuels.
+
+![maloney](https://media.giphy.com/media/JgcUbuetEx2w4GV6ht/giphy.gif)
+
+![maloney2](https://media.giphy.com/media/RcF9VD9OlYJfAs5hkZ/giphy.gif)
+
+![sounthida](medias/sem4_dessin.gif)
+
+![emilie](https://zupimages.net/up/22/07/g6zk.gif)
+
+![olivier](https://i.imgur.com/OhfIIWn.png)
+
+![rebecca](???)
+
+Émilie et Sounthida sont allées au grand studio lundi pour installer le projecteur et dégager les filages.
+
+![studiolundi1](https://i.imgur.com/AjztHuZ.jpg)
+
+![studiolundi2](https://i.imgur.com/Kp2kkjl.jpg)
+
+Maloney, Rebecca et Sounthida ont assisté à une mini-formation de la part de Daryl sur le logiciel Max. Après un peu de confusion, nous avons finalement réussi à fixer nos patchs! Un grand merci au prof de nous avoir aidé! :D
+
+![maloneymax](https://i.imgur.com/2nfO5fm.png)
+
+![sounthidamax](https://i.imgur.com/Iz6bKQ6.png)
+
+![rebeccamax](https://i.imgur.com/xaGoqOa.png)
+
+Olivier et Émilie se sont occupés d'installer la Kinect et la barre horizontale.
+
+![kinect1](https://i.imgur.com/EGX9thP.jpg)
+![kinect2](https://i.imgur.com/t05pZjc.jpg)
+
+Olivier et Rebecca ont mis les crochets et les fils de pêche sur le test canvas.
+
+![crochets](https://i.imgur.com/AgEr3dw.jpg)
+
+Nous avons réussi à projeter nos projets avec Madmapper sur le projecteur.
+
+![projections](https://i.imgur.com/2dBpRqR.jpg)
+
+Nous avons réussi à connecter le son de l'ordinateur aux hauts-parleurs avec la carte de son.
+
+![son](https://media.giphy.com/media/x7PsP63vV3bcwNjrPS/giphy.gif)
+
+### DÉFIS DE LA SEMAINE PROCHAINE
+- Nous aimerions pouvoir accrocher les haut-parleurs et les lumières au plafond.
+- Nous espérons pouvoir mesurer la hauteur des cadre afin de savoir combien de faux-cadres et de quelles longueurs nous avons besoin pour créer nos canvas. Ce serait aussi bien de visiter le magasin DeSerres pour les voir en personne.
+- Nous voulons continuer à travailler sur les assets visuels.
+- Nous voudrions faire plus de tests avec la Kinect/Max/Madmapper.
+
+
+
 ## Semaine 3
 
 Tout le monde a encore travaillé dur sur leurs assets visuels.
