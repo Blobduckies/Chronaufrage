@@ -173,39 +173,49 @@ J'ai eu une discussion avec les professeurs sur le sujet de l'interactivité du 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+ - Assister au présentation de Daryl sur MAX
+ - Réalisation du patch Max 
+ - Fixer les accroches et les files de pèches sur notre premier canvas
+ - Avancer les assets visuels (animation de la robe)
+ - Effectuer des sketchs pour le logo d'équipe
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+<img src="https://imgur.com/gMhOeHD.gif" alt="dress-test02" width="450"/> 
+<img src="https://imgur.com/aIKnqIY.gif" alt="dress-test02" width="450"/> 
+<img src="https://imgur.com/dKdGNR0.png" alt="dress-test02" width="700"/>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [ x ] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'aurai aimé acheter les faux cardres cette semaine, mais avec la pluie/tempête/verglas, nous avions du le repousser à la semaine prochaine. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [ x ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+- Avancer les assets visuels 
+- Avancer le prototypage
+- Accrocher la première toile
 
 ---
 ## Semaine 5
