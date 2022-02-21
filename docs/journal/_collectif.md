@@ -26,7 +26,7 @@ Cette semaine fut très productive, nous avons travaillé sur plusieurs tâches 
 
 ![olivier](https://i.imgur.com/OhfIIWn.png)
 
-![rebecca](https://imgur.com/aIKnqIY.gif)
+![rebecca](https://imgur.com/gMhOeHD.gif)
 
 Émilie et Sounthida sont allées au grand studio lundi pour installer le projecteur et dégager les filages.
 
