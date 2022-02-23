@@ -220,7 +220,9 @@ N/A
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Tester l'endurance des files à pèches et découverts qu'ils ne sont pas assez puissant.
+- Mesurer les dimensions des toiles pour l'achats des faux cardres.
+- Redéfinit le plan de disposition des tableaux.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
