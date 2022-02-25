@@ -12,6 +12,41 @@
 
 ## Semaine 5
 
+Voici l'avancement des assets visuels :
+
+![maloney]()
+
+![maloney2]()
+
+![sounthida]()
+
+![emilie]()
+
+![olivier]()
+
+![rebecca]()
+
+Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toile et nous avons découvert que le file est trop élastique et ne vais pas être capable de supporter nos toiles. Nous avons aussi mesuré la taille de notre projection pour déterminer la grandeure de nos faux-cardres. 
+
+![accrochage](https://imgur.com/36MWTAC.png)
+
+![mesure](https://imgur.com/2TGgg5K.png)
+
+![mesure2](https://imgur.com/YRbgjYm.png)
+
+Mercredi: 
+
+Jeudi:
+
+Vendredi:
+
+### DÉFIS DE LA SEMAINE PROCHAINE
+
+- Déterminer comment recevoir de la vidéo de Max dans MadMapper
+- Fusionner les patch Max dans un seul patch 
+- Tester les interactions avec la Kinect en real time
+- Construire les faux cadres en Canvas
+
 ## Semaine 4
 
 Cette semaine fut très productive, nous avons travaillé sur plusieurs tâches en même temps. Tout d'abord, tout le monde a continué de réaliser leurs assets visuels.
