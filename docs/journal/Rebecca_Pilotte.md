@@ -223,8 +223,12 @@ N/A
 - Tester l'endurance des files à pèches et découverts qu'ils ne sont pas assez puissant.
 - Mesurer les dimensions des toiles pour l'achats des faux cardres.
 - Redéfinit le plan de disposition des tableaux.
+- Acheter les faux cardres selon les nouvelles dimensions
+- Enfin établit une date pour avoir accès aux studios du département des arts visuels 
+- Monter les faux-cardres (après la rencontre) 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+<img src="https://imgur.com/ue2btmm.png" alt="studio" width="450"/> 
 
 
 
@@ -232,29 +236,36 @@ N/A
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [ x ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+- Le file à pèche que nous avons procuré n'est pas assez solide (ou bien trops élastique); alors il ne suppporte pas le poids des nos toiles. 
+- J'ai réalisé plusieurs éléments plus techniques, dont les mesures et l'achat des faux-cardres, mais vu que mon focus était surtout cela, je n'ai pas eu le temps d'avancer mes assets visuels cette semaine.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais pouvoir me rattraper en fin de semaine. J'espère finir l'animation des cheveux et des yeux avant lundi. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [ x ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous avons eu quelques enjeux pour ce qui concernent les dimensions des toiles, car le magasin n'avait pas tous les bonnes grandeures et nous avions du faire des choix et nous devons faire des adjustements de nos tableaux numériques.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons changer les dimensions de nos tableaux en conséquences de nos toiles lorsqu'il seront monter. 
 
 ### Défis pour la prochaine semaine
+- Finir la majorité des dessins pour l'animation
+- Finir le logo d'équipe
+- Commencer l'animation finale dans Adobe After Effets 
+- Monter et peindre les toiles
+- Accrocher les toiles 
 
 ---
 ## Semaine de rattrapage
