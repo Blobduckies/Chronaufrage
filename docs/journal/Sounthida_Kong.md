@@ -185,3 +185,57 @@ Nous nous sommes énormément avancer dans les installations, donc on va pouvoir
 - Déterminer comment on peut envoyer une vidéo Max à MadMapper
 
 ---
+
+
+
+## Semaine 5
+
+### Résumé des réalisations effectuées
+- J'ai complètement fini mon animation
+- J'ai aidé à mesurer la hauteur de la projection des cadres du plan initial
+- J'ai remanipuler le projecteur afin que la projection soit plus petite et plus claire
+- J'ai fait un prototype de l'analyse des données de présence de la Kinect sur Max avec seulement deux zones placés au hasard
+- J'ai ramené mes coéquipiers et les faux-cadres en voiture au studio
+
+
+
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![animation](medias/sem5_animation.gif)
+![mesures](medias/mesures1.jpg)
+![patch Max](medias/patchmax_sem5.png)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Oui, mon animation est enfin finie, j'ai pu communiquer de la Kinect à Max directement, j'ai réussit à faire un prototypage d'analyse de données pour qu'ils me renvoient des données de façon *smooth*. J'ai tout fait ce que j'ai planifié de faire cette semaine.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+- Déterminer comment faire jouer une vidéo lorsqu'il y a présence ET que la vidéo s'arrête lorsqu'il n'y a pas présence
+- Délimiter les zones d'interactions de la Kinect pour chaque cadre
+- Faire l'analyse de présence sur Max de tous les zones d'intwraction
+- Fusionner les patch Max en un seul patch Max
+
+---
