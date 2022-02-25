@@ -18,8 +18,8 @@ Voici l'avancement des assets visuels :
 
 ![emilie](https://imgur.com/3FyhEjQ.gif)
 
-![olivier]()
-
+![olivier](https://imgur.com/MseRwiV.png)
+![olivier2](https://imgur.com/we1izre.png)
 
 
 Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toile et nous avons découvert que le file est trop élastique et ne vais pas être capable de supporter nos toiles. Nous avons aussi mesuré la taille de notre projection pour déterminer la grandeure de nos faux-cardres. 
