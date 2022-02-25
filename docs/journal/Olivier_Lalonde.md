@@ -137,39 +137,35 @@
 
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- Finalisation d'un tableau
+- Plusieurs installations faites
+- Beaucoup d'ajustement de l'installation
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+   <img src="https://media.discordapp.net/attachments/935558534685405204/946147308230283305/1440p_lotus_sky_night_2--.png?width=1008&height=672" alt="drawing" width="250"/>
+   
+   <img src="https://media.discordapp.net/attachments/935558534685405204/945438250049359932/1440p_lotus_day_2_with_sky.png?width=1008&height=672" alt="drawing" width="250"/>
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+  - Avoir un prototype fonctionnel
 
 ---
 ## Semaine de rattrapage
