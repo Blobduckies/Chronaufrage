@@ -225,10 +225,12 @@ N/A
 - Redéfinit le plan de disposition des tableaux.
 - Acheter les faux cardres selon les nouvelles dimensions.
 - Enfin établit une date pour avoir accès aux studios du département des arts visuels.
+- Jouer avec des textures sur la toile d'Olivier.
 - Monter les faux-cardres (après la rencontre). 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img src="https://imgur.com/ue2btmm.png" alt="studio" width="450"/> 
+<img src="https://imgur.com/P6Mbzpz.png" alt="umbrella" width="350"/> 
 
 
 
