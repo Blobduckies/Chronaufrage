@@ -14,17 +14,13 @@
 
 Voici l'avancement des assets visuels :
 
-![maloney]()
+![sounthida](https://imgur.com/4sKH9qW.gif)
 
-![maloney2]()
-
-![sounthida]()
-
-![emilie]()
+![emilie](https://imgur.com/3FyhEjQ.gif)
 
 ![olivier]()
 
-![rebecca]()
+
 
 Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toile et nous avons découvert que le file est trop élastique et ne vais pas être capable de supporter nos toiles. Nous avons aussi mesuré la taille de notre projection pour déterminer la grandeure de nos faux-cardres. 
 
@@ -34,11 +30,20 @@ Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toi
 
 ![mesure2](https://imgur.com/YRbgjYm.png)
 
-Mercredi: 
+Mercredi: Toute l'équipe et les profs ont assité au adjustments du projecteur et aux discussions à propos de la taille et l'emplacement de la projection. Vu que nous avons bougé le projecteur, nous devons à nouveau reprendre les mesures. Rebecca a modifier le plan des tableaux en conséquence de ses changements et discussions. 
 
-Jeudi:
+![projection](https://imgur.com/2taXktd.png)
+![plan](https://imgur.com/FdFat1a.png)
 
-Vendredi:
+Jeudi: 
+- Olivier a installé les speakers. 
+- Maloney et Rebecca on pris à nouveau les mesures des tableaux.
+- Maloney, Sounthida, Olivier et Rebecca sont allé procurer les faux-cardres. 
+
+![faux-cardre](https://imgur.com/6X9ulFi.png)
+
+
+Vendredi: Après la rencontre d'équipe, tout le monde vont assister au montage des faux-cardres.
 
 ### DÉFIS DE LA SEMAINE PROCHAINE
 
