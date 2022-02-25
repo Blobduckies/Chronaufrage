@@ -22,7 +22,7 @@ Voici l'avancement des assets visuels :
 ![olivier2](https://imgur.com/we1izre.png)
 
 
-Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toile et nous avons découvert que le file est trop élastique et ne vais pas être capable de supporter nos toiles. Nous avons aussi mesuré la taille de notre projection pour déterminer la grandeure de nos faux-cardres. 
+Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toile et nous avons découvert que le file est trop élastique et ne vais pas être capable de supporter nos toiles. Nous avons aussi mesuré la taille de notre projection pour déterminer la grandeur de nos faux-cardres. 
 
 ![accrochage](https://imgur.com/36MWTAC.png)
 
@@ -30,7 +30,7 @@ Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toi
 
 ![mesure2](https://imgur.com/YRbgjYm.png)
 
-Mercredi: Toute l'équipe et les profs ont assité au adjustments du projecteur et aux discussions à propos de la taille et l'emplacement de la projection. Vu que nous avons bougé le projecteur, nous devons à nouveau reprendre les mesures. Rebecca a modifier le plan des tableaux en conséquence de ses changements et discussions. 
+Mercredi: Toute l'équipe et les profs ont assité aux adjustments du projecteur et aux discussions à propos de la taille et l'emplacement de la projection. Vu que nous avons bougé le projecteur, nous devons à nouveau reprendre les mesures. Rebecca a modifier le plan des tableaux en conséquence de ses changements et discussions. 
 
 ![projection](https://imgur.com/2taXktd.png)
 ![plan](https://imgur.com/FdFat1a.png)
