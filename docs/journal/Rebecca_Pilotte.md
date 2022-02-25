@@ -241,7 +241,7 @@ N/A
 
 #### Décrivez pourquoi.
 - Le file à pèche que nous avons procuré n'est pas assez solide (ou bien trops élastique); alors il ne suppporte pas le poids des nos toiles. 
-- J'ai réalisé plusieurs éléments plus techniques, dont les mesures et l'achat des faux-cardres, mais vu que mon focus était surtout cela, je n'ai pas eu le temps d'avancer mes assets visuels cette semaine.
+- J'ai réalisé plusieurs éléments plus techniques, donc je n'ai pas eu le temps d'avancer mes assets visuels cette semaine.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
