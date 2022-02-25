@@ -220,12 +220,12 @@ N/A
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-- Tester l'endurance des files à pèches et découverts qu'ils ne sont pas assez puissant.
+- Tester l'endurance des files à pèches.
 - Mesurer les dimensions des toiles pour l'achats des faux cardres.
 - Redéfinit le plan de disposition des tableaux.
-- Acheter les faux cardres selon les nouvelles dimensions
-- Enfin établit une date pour avoir accès aux studios du département des arts visuels 
-- Monter les faux-cardres (après la rencontre) 
+- Acheter les faux cardres selon les nouvelles dimensions.
+- Enfin établit une date pour avoir accès aux studios du département des arts visuels.
+- Monter les faux-cardres (après la rencontre). 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img src="https://imgur.com/ue2btmm.png" alt="studio" width="450"/> 
