@@ -30,7 +30,7 @@ Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toi
 
 ![mesure2](https://imgur.com/YRbgjYm.png)
 
-Mercredi: Toute l'équipe et les profs ont assité aux adjustments du projecteur et aux discussions à propos de la taille et l'emplacement de la projection. Vu que nous avons bougé le projecteur, nous devons à nouveau reprendre les mesures. Rebecca a modifier le plan des tableaux en conséquence de ses changements et discussions. 
+Mercredi: Toute l'équipe et les profs ont assité aux adjustments du projecteur et aux discussions à propos de la taille et l'emplacement de la projection. Vu que nous avons bougé le projecteur, nous devons à nouveau reprendre les mesures. Rebecca a modifié le plan des tableaux en conséquence de ses changements et discussions. 
 
 ![projection](https://imgur.com/2taXktd.png)
 ![plan](https://imgur.com/FdFat1a.png)
