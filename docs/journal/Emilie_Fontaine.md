@@ -168,28 +168,29 @@ Tout à été fait, même plus.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Tests de projections et des faux cadres
+- Création d'une banque audio avec les enregistrements sonores de mon équipe
+- Début et fin de l'animation de la fille
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![gif_fille](https://cdn.discordapp.com/attachments/935558483493933057/946243346714755122/fille_animation_gif.gif)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai complété ce que je voulais faire!
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -201,6 +202,8 @@ Tout à été fait, même plus.
 
 
 ### Défis pour la prochaine semaine
+- Début de la musique de fond
+- Finir mon tableau en animant l'eau dans after effect
 
 ---
 ## Semaine de rattrapage
