@@ -235,7 +235,62 @@ Oui, mon animation est enfin finie, j'ai pu communiquer de la Kinect à Max dire
 ### Défis pour la prochaine semaine
 - Déterminer comment faire jouer une vidéo lorsqu'il y a présence ET que la vidéo s'arrête lorsqu'il n'y a pas présence
 - Délimiter les zones d'interactions de la Kinect pour chaque cadre
-- Faire l'analyse de présence sur Max de tous les zones d'intwraction
+- Faire l'analyse de présence sur Max de tous les zones d'interaction
 - Fusionner les patch Max en un seul patch Max
+
+---
+
+
+## Semaine de rattrapage
+
+### Résumé des réalisations effectuées
+- Ajouter des effets de vidéo dans mon animation, et mon animation est exportée en vidéo MP4
+- Acheter les traverses manquantes avec Rebecca au Omer Desserres
+- Construire les faux-cadres et les apprêter avec du Gesso
+- Fusionner les patch Max en un seul
+- Faire commencer une vidéo quand il y a présence et faire arrêter une vidéo quand il n'y a pas de présence
+- Délimiter les zones d'interactions de la Kinect 
+- Tester l'animation du cadre Averse en temps réel, avec la projection
+- J'ai aidé à faire l'accrochage du cadre Averse (interaction de Maloney)
+
+
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![animation](https://i.imgur.com/fOtwTpS.mp4)
+![mesures](medias/sem6_gesso.jpg)
+![mesures](medias/sem6_averse_accrochage.jpg)
+![patch Max](medias/sem6_averse_prototype1.jpg)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Oui, ma vidéo est enfin prête à être interagie avec, les zones Kinect ont été définies alors on peut commencer à tester les interactions (l'interaction de Maloney est déjà testable). On est bien avancés!
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+N/A
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
+
+### Défis pour la prochaine semaine
+- Accrocher tous les cadres
+- Relier les zones de Kinect aux interactions correspondantes au Patch Max
+- Faire des tests de nos interactions pour voir s'il y a des potentiels bugs
 
 ---
