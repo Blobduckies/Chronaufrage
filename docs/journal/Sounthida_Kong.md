@@ -256,7 +256,7 @@ Oui, mon animation est enfin finie, j'ai pu communiquer de la Kinect à Max dire
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![animation](https://i.imgur.com/fOtwTpS.mp4)
+[Lien vers la vidéo de mon animation (version préliminaire)](https://i.imgur.com/fOtwTpS.mp4)
 ![mesures](medias/sem6_gesso.jpg)
 ![mesures](medias/sem6_averse_accrochage.jpg)
 ![patch Max](medias/sem6_averse_prototype1.jpg)
