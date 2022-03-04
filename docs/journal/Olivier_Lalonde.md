@@ -170,39 +170,41 @@
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
+- Début d'installation des tableaux
+- Début des vrais tests d'intéractivité
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+   <img src="https://media.discordapp.net/attachments/938891841225510962/949057540367462460/IMG_20220303_114754978_HDR.jpg?width=504&height=672" alt="drawing" width="250"/>
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Pas testé autant que je le souhaitais
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Les ont à peine eu le temps de commencer.
 
 ### Défis pour la prochaine semaine
+
+- Continuer comme on le fait, juste avec un peu plus d'effort.
 
 ---
 ## Semaine 6
