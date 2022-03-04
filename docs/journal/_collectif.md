@@ -22,7 +22,7 @@ Nous avons avancé nos assets visuels:
 
 ![sounthida](https://media.giphy.com/media/e3N1311dD0kBu4MqHc/giphy-downsized-large.gif)
 
-![emilie](https://media.giphy.com/media/SXc2MgITJhQub5rrDT/giphy-downsized.gif)
+![emilie](https://media.giphy.com/media/SXFxPEWLcdqLw60MwX/giphy.gif)
 
 
 Olivier et Sounthida se sont occupés de faire les premiers tests d'interactivité avec la kinect et le tableau de Maloney.
