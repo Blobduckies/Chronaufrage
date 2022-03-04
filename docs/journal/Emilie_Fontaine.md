@@ -208,28 +208,34 @@ J'ai complété ce que je voulais faire!
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Fin de la musique de fond
+- Test audio dans le grand studio
+- Animation de l'eau dans after effect 
+- Création d'une version plus obscure de mon tableau
+- Transition de la version obscure à la version claire
+- Montage des cadres avec mon équipe 
+- Achat d'une transvesale 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![gif_tableau_transition](https://i.gyazo.com/ab0860fdd34fa342053e55bc8dc27ac7.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réussis mes défis de la semaine prochaine et j'en ai même fait plus
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -241,6 +247,10 @@ J'ai complété ce que je voulais faire!
 
 
 ### Défis pour la prochaine semaine
+- Faire une deuxième version de la musique au piano pour comparer
+- Réussir à faire jouer la musique en boucle 
+- Exportation des deux vidéos nécessaires pour mon tableau
+- Commencer les ambiances sonnores reliées aux tableaux
 
 ---
 ## Semaine 6
