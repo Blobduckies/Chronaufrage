@@ -272,39 +272,45 @@ Nous allons changer les dimensions de nos tableaux en conséquences de nos toile
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Achat et échange des faux-cardres
+- Monter les cardres
+- Peint les 2 toiles 
+- Avancer mes assets visuels
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+(Sur la route actuellement, je vais l'ajouter à mon retour)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'assiste aux funérailles de ma grand-mère cette semaine à Toronto, j'ai eu peu de temps pour me devancer davantage.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais pouvoir me rattraper dès que je reviens à Laval.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'ai pas finalisé mes assets visuels encore et le logo est presque fini.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mettre plus d'heures de travail la semaine prochaine.
 
 ### Défis pour la prochaine semaine
+-Finir mes animations pour mercredi 
+-Faire des tests avec les toiles montées
+-Tester la kinect 
 
 ---
 ## Semaine 6
