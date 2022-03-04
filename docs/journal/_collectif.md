@@ -8,7 +8,53 @@
 
 ## Semaine 7
 
-## Semaine 6
+## Semaine 6  
+
+## Semaine de rattrappage
+
+Nous avons avancé sur nos assets visuels:
+
+![maloney](https://media.giphy.com/media/XhaWIGcmxDzsBLPiwn/giphy-downsized-large.gif)
+
+![maloney2](https://media.giphy.com/media/dhMESYIzgR8NHiP2GY/giphy.gif)
+
+![sounthida](https://media.giphy.com/media/e3N1311dD0kBu4MqHc/giphy-downsized-large.gif)
+
+![emilie](https://media.giphy.com/media/SXc2MgITJhQub5rrDT/giphy-downsized.gif)
+
+
+Olivier et Sounthida se sont occupés de faire les premiers tests d'interactivité avec la kinect et le tableau de Maloney.
+
+![mesures](medias/sem6_averse_accrochage.jpg)
+
+![testcell](medias/sem6_averse_prototype1.jpg)
+
+![patch Max](https://media.giphy.com/media/uB2wfYhuShMESnqGCc/giphy.gif)
+
+
+Samedi, Rebecca et Sounthida ont acheté les faux-cadres manquants au DeSerres. Mardi, Rebecca, Sounthida, Maloney et Émilie ont travaillé sur l'assemblage des faux-cadres au local d'art. Toutefois, comme il se trouve qu'il y a une erreur avec la taille de certaines traverses, Maloney et Émilie ont dû marcher jusqu'au DeSerres dans une tempête de neige pour aller les échanger. Pendant ce temps, Rebecca et Sounthida ont peinturé les toiles en blanc.
+
+![fauxcadres](https://i.imgur.com/THkzqHR.jpg)
+
+![fauxcadres2](https://i.imgur.com/1IQQQNy.jpg)
+
+![beccasounthipeinture](medias/sem6_gesso.jpg)
+
+
+Émilie a travaillé sur la bande sonore de notre projet! 
+Voici un lien pour l'écouter: https://drive.google.com/file/d/1XswAye6z4wMyml38-mASnvxl1IaqLt1V/view
+
+
+### DÉFIS DE LA SEMAINE PROCHAINE
+
+- Finir tous les assets pour mercredi 
+- Accrocher tous les cadres avec le fil de pêche
+- Connecter les zones de Kinect au patch Max
+- Faire plusieurs tests avec les interactions et voir les potentiels problèmes
+- Accrocher deux lumières
+
+
+
 
 ## Semaine 5
 
@@ -18,11 +64,15 @@ Voici l'avancement des assets visuels :
 
 ![emilie](https://imgur.com/3FyhEjQ.gif)
 
+![maloney](https://media.giphy.com/media/zumM1PkZ8fo6fOGH1C/giphy.gif)
+
+![maloney2](https://media.giphy.com/media/rHPEgdIoxDXZDSvXQv/giphy.gif)
+
 ![olivier](https://imgur.com/MseRwiV.png)
 ![olivier2](https://imgur.com/we1izre.png)
 
 
-Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toile et nous avons découvert que le file est trop élastique et ne vais pas être capable de supporter nos toiles. Nous avons aussi mesuré la taille de notre projection pour déterminer la grandeur de nos faux-cardres. 
+Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toile et nous avons découvert que le fil est trop élastique et ne va pas être capable de supporter nos toiles. Nous avons aussi mesuré la taille de notre projection pour déterminer la grandeur de nos faux-cardres. 
 
 ![accrochage](https://imgur.com/36MWTAC.png)
 
@@ -30,20 +80,20 @@ Mardi: Émilie, Sounthida et Rebecca ont effectué des tests d'accrochage du toi
 
 ![mesure2](https://imgur.com/YRbgjYm.png)
 
-Mercredi: Toute l'équipe et les profs ont assité aux adjustments du projecteur et aux discussions à propos de la taille et l'emplacement de la projection. Vu que nous avons bougé le projecteur, nous devons à nouveau reprendre les mesures. Rebecca a modifié le plan des tableaux en conséquence de ses changements et discussions. 
+Mercredi: Toute l'équipe et les profs ont participé aux ajustements du projecteur et aux discussions à propos de la taille et l'emplacement de la projection. Vu que nous avons bougé le projecteur, nous devons à nouveau reprendre les mesures. Rebecca a modifié le plan des tableaux en conséquence de ces changements et discussions. 
 
 ![projection](https://imgur.com/2taXktd.png)
 ![plan](https://imgur.com/FdFat1a.png)
 
 Jeudi: 
 - Olivier a installé les speakers. 
-- Maloney et Rebecca on pris à nouveau les mesures des tableaux.
-- Maloney, Sounthida, Olivier et Rebecca sont allé procurer les faux-cardres. 
+- Maloney et Rebecca ont pris à nouveau les mesures des tableaux.
+- Maloney, Sounthida, Olivier et Rebecca sont allés procurer les faux-cardres. 
 
 ![faux-cardre](https://imgur.com/6X9ulFi.png)
 
 
-Vendredi: Après la rencontre d'équipe, tout le monde vont assister au montage des faux-cardres.
+Vendredi: Après la rencontre d'équipe, tout le monde va assister au montage des faux-cardres.
 
 ### DÉFIS DE LA SEMAINE PROCHAINE
 
