@@ -198,38 +198,42 @@ Faire un test de Jit.Grab la semaine prochaine. J'irais emprunter une webcam pou
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
+- J'ai aidé à monter les faux cadres
+- J'ai fait le petit tableau du papillon doré
+- J'ai fait le petit tableau du papillon avec les nuages
+- J'ai ajouté les effets de pluie au petit tableau de fleurs
+- Je suis allée au DeSerres avec Émilie pour faire un échange de transverses
+- J'ai fait un effet de caméra pédestal pour mon tableau
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![papillonnuages](https://media.giphy.com/media/XhaWIGcmxDzsBLPiwn/giphy-downsized-large.gif)
 
+![papillondoré](https://media.giphy.com/media/dhMESYIzgR8NHiP2GY/giphy.gif)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Au final, ce fut Sounthida et Olivier qui se sont occupés de tester l'effet de mon tableau avec le Jit.Grab et le téléphone. Toutefois, j'ai pu réaliser toutes mes autres tâches et j'ai fait deux petits tableaux plutôt qu'un seul.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+
+- Aider à accrocher les cadres
+- Réaliser le troisième petit tableau de papillon (sous la pluie cette fois)
+- Tester les interactions + kinect une fois tous les tableaux finis/accrochés
 
 ---
 ## Semaine 6
