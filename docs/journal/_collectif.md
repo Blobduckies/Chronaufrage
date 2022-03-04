@@ -12,11 +12,13 @@
 
 ## Semaine de rattrappage
 
-Nous avons avancé sur nos assets visuels:
+Nous avons avancé nos assets visuels:
 
 ![maloney](https://media.giphy.com/media/XhaWIGcmxDzsBLPiwn/giphy-downsized-large.gif)
 
 ![maloney2](https://media.giphy.com/media/dhMESYIzgR8NHiP2GY/giphy.gif)
+
+![petittableaufleurs](https://media.giphy.com/media/CbLnpgCWfTGnQxv8lY/giphy.gif)
 
 ![sounthida](https://media.giphy.com/media/e3N1311dD0kBu4MqHc/giphy-downsized-large.gif)
 
