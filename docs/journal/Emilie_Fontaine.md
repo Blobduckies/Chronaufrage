@@ -217,7 +217,7 @@ J'ai complété ce que je voulais faire!
 - Achat d'une transvesale 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![gif_tableau_transition](https://i.gyazo.com/ab0860fdd34fa342053e55bc8dc27ac7.gif)
+![gif_tableau_transition](https://cdn.discordapp.com/attachments/506971793743937549/949169938411704370/giftableau4.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
