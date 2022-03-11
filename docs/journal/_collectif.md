@@ -12,7 +12,9 @@
 
 Nous avons avancé nos assets visuels:
 
-![maloney](https://im2.ezgif.com/tmp/ezgif-2-a7b4d9983f.gif)
+![papillonpluie](https://media.giphy.com/media/gKnOtLAvOcYDfftgqh/giphy.gif)
+
+![etoiles](https://media.giphy.com/media/b1ArHrpaB35u5R5Y2W/giphy.gif)
 
 ![rebecca1](https://im2.ezgif.com/tmp/ezgif-2-b9ea8aec04.gif)
 
