@@ -279,7 +279,8 @@ Nous allons changer les dimensions de nos tableaux en conséquences de nos toile
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-(Sur la route actuellement, je vais l'ajouter à mon retour)
+<img src="https://imgur.com/OGDEdVa.gif" alt="floating" width="350"/> 
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
