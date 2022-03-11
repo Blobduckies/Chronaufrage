@@ -42,23 +42,25 @@ Olivier et Sounthida on accroché le système de détection pour l'interactivit�
 ![testcell02](https://cdn.discordapp.com/attachments/938891841225510962/951204572360245338/20220309_144508.jpg)
 ![testcell03](https://cdn.discordapp.com/attachments/938891841225510962/951204572905500752/20220309_144500.jpg)
 
-Maloney, Sounthida et Émilie ont coupé et posé de la mousse sur le dos des toiles afin de les stabiliser. 
+Maloney, Sounthida et Émilie ont coupé de la mousse pour plus tard les mettre sur le dos des toiles afin de les stabiliser. 
 ![mousse01](https://cdn.discordapp.com/attachments/938891841225510962/951570741252472832/20220310_144916.jpg)
-![mousse02](https://cdn.discordapp.com/attachments/938891841225510962/951580757749542953/IMG_8286.jpg)
+![mousse02](https://i.imgur.com/HaYuY9u.jpg)
+![mousse03](https://cdn.discordapp.com/attachments/938891841225510962/951580757749542953/IMG_8286.jpg)
 
 Maloney, Sounthida et Olivier ont accroché les lumières. Émilie a effectué la programmation des lumières. 
 
 ![lumieres01](https://cdn.discordapp.com/attachments/938891841225510962/951643944905748530/IMG_20220304_112100974.jpg)
-![lumieres02](https://cdn.discordapp.com/attachments/938891841225510962/951653662588035072/lumieres.gif)
+![lumieres02](https://i.imgur.com/gr8Nyrg.jpg)
+![lumieres03](https://media.giphy.com/media/wGrEeSQc9dncZBVZDN/giphy.gif)
 
 
 
-Défis pour la semaine prochaine:
+### DÉFIS DE LA SEMAINE PROCHAINE
 
 - Finir de monter la toile du tableau 3/noyade (monter,peinture & accrocher)
 - Régler le problème de flicker de la Kinect 
-- Intégration les effets sonores dans le patch Max 
-- Intégration les lumières dans le patch Max  
+- Intégration des effets sonores dans le patch Max 
+- Intégration des lumières dans le patch Max  
 - Envoi de la vidéo de Maloney d'un autre ordinateur au Madmapper de l'ordinateur principal 
 - Création du scénario de la vidéo
 - Mapping des vidéos & tester interactions 
