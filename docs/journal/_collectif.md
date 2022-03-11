@@ -22,10 +22,26 @@ Nous avons avancé nos assets visuels:
 
 ![emilie]()
 
-En équipe, nous avons devancé notre patch MAX. 
+Rebecca a finalisé le logo d'équipe.
+
+![logo01]()
+![logo02]()
+
+En équipe, nous avons devancé notre patch MAX et nous avions effectué des pour la projection de tous nos tableaux ensembles. 
+![projection](https://cdn.discordapp.com/attachments/938891841225510962/951580809024929832/IMG_8282.jpg)
+
 Olivier et Sounthida on accroché le système de détection pour l'interactivité du tableau de Maloney sur la toile. Ils ont découpé un trou dans la toile afin que la camera soit capable de capter la présence de l'interacteur. 
 ![testcell02](https://cdn.discordapp.com/attachments/938891841225510962/951204572360245338/20220309_144508.jpg)
 ![testcell03](https://cdn.discordapp.com/attachments/938891841225510962/951204572905500752/20220309_144500.jpg)
+
+Maloney, Sounthida et Émilie ont coupé et posé de la mousse sur le dos des toiles afin de les stabiliser. 
+![mousse01](https://cdn.discordapp.com/attachments/938891841225510962/951570741252472832/20220310_144916.jpg)
+![mousse02](https://cdn.discordapp.com/attachments/938891841225510962/951580757749542953/IMG_8286.jpg)
+
+Maloney a accroché les lumières. Émilie a effectué la programmation des lumières. 
+
+![lumieres01](https://cdn.discordapp.com/attachments/938891841225510962/951643944905748530/IMG_20220304_112100974.jpg)
+![lumieres02](https://cdn.discordapp.com/attachments/938891841225510962/951653662588035072/lumieres.gif)
 
 ## Semaine de rattrappage
 
