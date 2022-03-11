@@ -30,8 +30,8 @@ Sounthida a optimisé le patch MAX en utilisant un deuxième ordinateur pour l'i
 
 Rebecca a finalisé le logo d'équipe.
 
-![logo01]()
-![logo02]()
+![logo01](https://cdn.discordapp.com/attachments/951585167267467365/951687573783334982/avec_eau_2.png)
+![logo02](https://cdn.discordapp.com/attachments/951585167267467365/951687574114680872/banner-avec_eau.png)
 
 En équipe, nous avions effectué des tests pour la projection de tous nos tableaux ensembles. 
 ![projection](https://cdn.discordapp.com/attachments/938891841225510962/951580809024929832/IMG_8282.jpg)
