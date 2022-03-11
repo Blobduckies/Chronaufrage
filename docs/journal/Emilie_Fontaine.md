@@ -250,33 +250,37 @@ J'ai réussis mes défis de la semaine prochaine et j'en ai même fait plus
 - Faire une deuxième version de la musique au piano pour comparer
 - Réussir à faire jouer la musique en boucle 
 - Exportation des deux vidéos nécessaires pour mon tableau
-- Commencer les ambiances sonnores reliées aux tableaux
+- Commencer les ambiances sonores reliées aux tableaux
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Fin du côté sonore du projet, musique comme ambiances
+- Exportation en trasnparence de mon tableau et test dans Max 
+- Programmation des lumières avec QLC et Max
+- Test de stabilisation des tableaux avec des éponges
+- Gros ménage du Kanban dans le github 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![capture_reaper_ambiance](https://cdn.discordapp.com/attachments/506971793743937549/951703485513076736/unknown.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai décidé de ne pas créer une seconde version de la musique pour se concentrer sur autre chose. De plus, nous avons reçu des compliments sur celle qu'on avait déjà alors je l'ai gardé. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -288,6 +292,11 @@ J'ai réussis mes défis de la semaine prochaine et j'en ai même fait plus
 
 
 ### Défis pour la prochaine semaine
+- Stabliser les tableaux avec les éponges 
+- Écrire le scénario de la vidéo en équipe 
+- Faire le montage de la vidéo 
+- Mapping des vidéos 
+- Déplacer les ordinateurs dans la salle des matrices 
 
 ---
 ## Semaine 7
