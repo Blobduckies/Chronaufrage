@@ -14,13 +14,12 @@ Nous avons avancé nos assets visuels:
 
 ![maloney](https://im2.ezgif.com/tmp/ezgif-2-a7b4d9983f.gif)
 
-![rebecca](https://im2.ezgif.com/tmp/ezgif-2-b9ea8aec04.gif)
+![rebecca1](https://im2.ezgif.com/tmp/ezgif-2-b9ea8aec04.gif)
 
-![rebecca](https://imgur.com/6TeIF72.gif)
-
+![rebecca2](https://imgur.com/6TeIF72.gif)
 (https://youtu.be/l0sEsGJ-l1g)
 
-![rebecca](https://imgur.com/e6Ln0tn.gif)
+![rebecca3](https://imgur.com/sUlvLTq.gif)
 (https://youtu.be/wGgBIxJrjAU)
 
 
