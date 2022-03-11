@@ -18,7 +18,7 @@ Nous avons avancé nos assets visuels:
 ![rebecca1](https://imgur.com/6TeIF72.gif)
 (https://youtu.be/l0sEsGJ-l1g)
 
-![rebecca2](https://imgur.com/xHhxZ3c.gif)
+![rebecca2](https://imgur.com/e6Ln0tn.gif)
 (https://youtu.be/wGgBIxJrjAU)
 
 
