@@ -21,7 +21,8 @@ Nous avons avancé nos assets visuels:
 ![rebecca2](https://imgur.com/6TeIF72.gif)
 (https://youtu.be/l0sEsGJ-l1g)
 
-![rebecca3](https://imgur.com/sUlvLTq.gif)
+
+<img src="https://imgur.com/sUlvLTq.gif" alt="bulles_rebecca" width="250"/>
 (https://youtu.be/wGgBIxJrjAU)
 
 
