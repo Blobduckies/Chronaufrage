@@ -35,7 +35,7 @@ Rebecca a finalisé le logo d'équipe.
 ![logo01](https://cdn.discordapp.com/attachments/951585167267467365/951687573783334982/avec_eau_2.png)
 ![logo02](https://cdn.discordapp.com/attachments/951585167267467365/951687574114680872/banner-avec_eau.png)
 
-Olivier et Sounthida on accroché le système de détection pour l'interactivité du tableau de Maloney sur la toile. Nous avons réussi à ressoudre un problème technique de la direction/orientation de la caméra dans Max. Ils ont découpé un trou dans la toile afin que la camera soit capable de capter la présence de l'interacteur. Ils ont aussi accroché tous les toiles (sauf celle du tableau 3). 
+Olivier et Sounthida ont accroché le système de détection pour l'interactivité du tableau de Maloney sur la toile. Nous avons réussi à résoudre un problème technique de la direction/orientation de la caméra dans Max. Ils ont découpé un trou dans la toile afin que la caméra soit capable de capter la présence de l'interacteur. Ils ont aussi accroché tous les toiles (sauf celle du tableau 3). 
 
 ![testcell01](https://i.imgur.com/ZCjLbeP.jpg)
 ![testcell02](https://cdn.discordapp.com/attachments/938891841225510962/951204572360245338/20220309_144508.jpg)
