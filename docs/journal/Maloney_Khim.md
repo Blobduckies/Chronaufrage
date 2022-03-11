@@ -274,7 +274,7 @@ Je n'ai pas accroché les cadres cette semaines, à la place, j'ai aidé à accr
 
 - Mettre les éponges derrière les tableaux pour les stabiliser
 - Aider pour la création du scénario de la vidéo
-- Aider à faire la mapping des tableaux et tester les interactions
+- Aider à faire le mapping des tableaux et tester les interactions
 - Aider à déplacer les ordinateurs et les tables
 - Mettre les poteaux de la file d'attente (lorsqu'ils seront disponibles)
 
