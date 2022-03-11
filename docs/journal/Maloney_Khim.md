@@ -239,38 +239,44 @@ Au final, ce fut Sounthida et Olivier qui se sont occupés de tester l'effet de 
 ## Semaine 6
 ### Résumé des réalisations effectuées
 
+- J'ai réalisé le petit tableau du papillon dans la pluie
+- J'ai réalisé la version finale du petit tableau des étoiles
+- J'ai aidé à accroché les lumières
+- J'ai aidé à découper les éponges qui serviront à stabiliser les cadres
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![papillonpluie](https://media.giphy.com/media/gKnOtLAvOcYDfftgqh/giphy.gif)
+
+![etoiles](https://media.giphy.com/media/b1ArHrpaB35u5R5Y2W/giphy.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je n'ai pas accroché les cadres cette semaines, à la place, j'ai aidé à accrocher les lumières.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+
+- Mettre les éponges derrière les tableaux pour les stabiliser
+- Aider pour la création du scénario de la vidéo
+- Aider à faire la mapping des tableaux et tester les interactions
+- Aider à déplacer les ordinateurs et les tables
+- Mettre les poteaux de la file d'attente (lorsqu'ils seront disponibles)
 
 ---
 ## Semaine 7
