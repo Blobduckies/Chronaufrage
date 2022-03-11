@@ -12,25 +12,29 @@
 
 Nous avons avancé nos assets visuels:
 
-![maloney]()
+![maloney](https://im2.ezgif.com/tmp/ezgif-2-a7b4d9983f.gif)
 
-![maloney2]()
+![rebecca](https://im2.ezgif.com/tmp/ezgif-2-b9ea8aec04.gif)
+(https://youtu.be/l0sEsGJ-l1g)
 
-![petittableaufleurs]()
+![rebecca]()
+(https://youtu.be/l0sEsGJ-l1g)
 
-![sounthida]()
 
-![emilie]()
+
+Émilie a finalisé les effets sonores et la musique d'ambiance. 
+
+Sounthida a optimisé le patch MAX en utilisant un deuxième ordinateur pour l'intéractivité du tableau de Maloney. 
 
 Rebecca a finalisé le logo d'équipe.
 
 ![logo01]()
 ![logo02]()
 
-En équipe, nous avons devancé notre patch MAX et nous avions effectué des pour la projection de tous nos tableaux ensembles. 
+En équipe, nous avions effectué des tests pour la projection de tous nos tableaux ensembles. 
 ![projection](https://cdn.discordapp.com/attachments/938891841225510962/951580809024929832/IMG_8282.jpg)
 
-Olivier et Sounthida on accroché le système de détection pour l'interactivité du tableau de Maloney sur la toile. Ils ont découpé un trou dans la toile afin que la camera soit capable de capter la présence de l'interacteur. 
+Olivier et Sounthida on accroché le système de détection pour l'interactivité du tableau de Maloney sur la toile. Nous avons réussi à ressoudre un problème technique de la direction/orientation de la caméra dans Max. Ils ont découpé un trou dans la toile afin que la camera soit capable de capter la présence de l'interacteur. Ils ont aussi accroché tous les toiles (sauf celle du tableau 3). 
 ![testcell02](https://cdn.discordapp.com/attachments/938891841225510962/951204572360245338/20220309_144508.jpg)
 ![testcell03](https://cdn.discordapp.com/attachments/938891841225510962/951204572905500752/20220309_144500.jpg)
 
@@ -42,6 +46,21 @@ Maloney a accroché les lumières. Émilie a effectué la programmation des lumi
 
 ![lumieres01](https://cdn.discordapp.com/attachments/938891841225510962/951643944905748530/IMG_20220304_112100974.jpg)
 ![lumieres02](https://cdn.discordapp.com/attachments/938891841225510962/951653662588035072/lumieres.gif)
+
+
+
+Défis pour la semaine prochaine:
+
+- Finir de monter la toile du tableau 3/noyade (monter,peinture & accrocher)
+- Régler le problème de flicker de la Kinect 
+- Intégration les effets sonores dans le patch Max 
+- Intégration les lumières dans le patch Max  
+- Envoi de la vidéo de Maloney d'un autre ordinateur au Madmapper de l'ordinateur principal 
+- Création du scénario de la vidéo
+- Mapping des vidéos & tester interactions 
+- Déplacer les ordinateurs et tables 
+- Mettre les queuing poles (dès qu'ils soit disponibles)
+
 
 ## Semaine de rattrappage
 
