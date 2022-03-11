@@ -209,10 +209,16 @@
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
+   - Accrocher 3 des 4 cadres
+   - Installation de lumières
+   - Installation du téléphone dans le tableau
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+   <img src="https://media.discordapp.net/attachments/938891841225510962/951204572905500752/20220309_144500.jpg?width=378&height=671" alt="drawing" width="250"/>
+   
+   <img src="https://media.discordapp.net/attachments/938891841225510962/951204572360245338/20220309_144508.jpg?width=378&height=671" alt="drawing" width="250"/>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
