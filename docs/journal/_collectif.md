@@ -17,7 +17,7 @@ Nous avons avancé nos assets visuels:
 ![rebecca](https://im2.ezgif.com/tmp/ezgif-2-b9ea8aec04.gif)
 (https://youtu.be/l0sEsGJ-l1g)
 
-![rebecca2](https://im2.ezgif.com/tmp/ezgif-2-27e36374dc.gif)
+![rebecca2](https://imgur.com/OKchHzw.gif)
 (https://youtu.be/l0sEsGJ-l1g)
 
 ![rebecca/olivier](https://cdn.discordapp.com/attachments/935558534685405204/951687951648169984/Untitled_Artwork.gif)
