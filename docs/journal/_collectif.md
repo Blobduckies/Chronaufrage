@@ -16,23 +16,19 @@ Nous avons avancé nos assets visuels:
 
 ![etoiles](https://media.giphy.com/media/b1ArHrpaB35u5R5Y2W/giphy.gif)
 
-![rebecca1](https://im2.ezgif.com/tmp/ezgif-2-b9ea8aec04.gif)
+![rebecca1](https://media.giphy.com/media/e0BdKVtBF2x9Z3Y4JD/giphy.gif)
 
-![rebecca2](https://imgur.com/6TeIF72.gif)
-(https://youtu.be/l0sEsGJ-l1g)
+Animation complète ici (https://youtu.be/l0sEsGJ-l1g)
 
+![rebecca2](https://media.giphy.com/media/LYdTouGV6vVl3fVdzy/giphy.gif)
 
-<img src="https://imgur.com/sUlvLTq.gif" alt="bulles_rebecca" width="250"/>
-(https://youtu.be/wGgBIxJrjAU)
-
+Meilleure qualité ici(https://youtu.be/wGgBIxJrjAU)
 
 ![rebecca/olivier](https://cdn.discordapp.com/attachments/935558534685405204/951687951648169984/Untitled_Artwork.gif)
 
-
-
 Émilie a finalisé les effets sonores et la musique d'ambiance. 
 
-Sounthida a optimisé le patch MAX en utilisant un deuxième ordinateur pour l'intéractivité du tableau de Maloney. 
+Sounthida a optimisé le patch MAX en utilisant un deuxième ordinateur pour l'interactivité du tableau de Maloney. 
 
 Rebecca a finalisé le logo d'équipe.
 
@@ -50,7 +46,7 @@ Maloney, Sounthida et Émilie ont coupé et posé de la mousse sur le dos des to
 ![mousse01](https://cdn.discordapp.com/attachments/938891841225510962/951570741252472832/20220310_144916.jpg)
 ![mousse02](https://cdn.discordapp.com/attachments/938891841225510962/951580757749542953/IMG_8286.jpg)
 
-Maloney a accroché les lumières. Émilie a effectué la programmation des lumières. 
+Maloney, Sounthida et Olivier ont accroché les lumières. Émilie a effectué la programmation des lumières. 
 
 ![lumieres01](https://cdn.discordapp.com/attachments/938891841225510962/951643944905748530/IMG_20220304_112100974.jpg)
 ![lumieres02](https://cdn.discordapp.com/attachments/938891841225510962/951653662588035072/lumieres.gif)
