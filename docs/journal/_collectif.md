@@ -35,12 +35,14 @@ Rebecca a finalisé le logo d'équipe.
 ![logo01](https://cdn.discordapp.com/attachments/951585167267467365/951687573783334982/avec_eau_2.png)
 ![logo02](https://cdn.discordapp.com/attachments/951585167267467365/951687574114680872/banner-avec_eau.png)
 
-En équipe, nous avions effectué des tests pour la projection de tous nos tableaux ensembles. 
-![projection](https://cdn.discordapp.com/attachments/938891841225510962/951580809024929832/IMG_8282.jpg)
-
 Olivier et Sounthida on accroché le système de détection pour l'interactivité du tableau de Maloney sur la toile. Nous avons réussi à ressoudre un problème technique de la direction/orientation de la caméra dans Max. Ils ont découpé un trou dans la toile afin que la camera soit capable de capter la présence de l'interacteur. Ils ont aussi accroché tous les toiles (sauf celle du tableau 3). 
+
+![testcell01](https://i.imgur.com/ZCjLbeP.jpg)
 ![testcell02](https://cdn.discordapp.com/attachments/938891841225510962/951204572360245338/20220309_144508.jpg)
 ![testcell03](https://cdn.discordapp.com/attachments/938891841225510962/951204572905500752/20220309_144500.jpg)
+
+En équipe, nous avions effectué des tests pour la projection de tous nos tableaux ensembles. 
+![projection](https://cdn.discordapp.com/attachments/938891841225510962/951580809024929832/IMG_8282.jpg)
 
 Maloney, Sounthida et Émilie ont coupé de la mousse pour plus tard les mettre sur le dos des toiles afin de les stabiliser. 
 ![mousse01](https://cdn.discordapp.com/attachments/938891841225510962/951570741252472832/20220310_144916.jpg)
@@ -57,14 +59,15 @@ Maloney, Sounthida et Olivier ont accroché les lumières. Émilie a effectué l
 
 ### DÉFIS DE LA SEMAINE PROCHAINE
 
-- Finir de monter la toile du tableau 3/noyade (monter,peinture & accrocher)
+- Finir de monter la toile du tableau 3/Noyade (monter,peinture & accrocher)
 - Régler le problème de flicker de la Kinect 
 - Intégration des effets sonores dans le patch Max 
 - Intégration des lumières dans le patch Max  
 - Envoi de la vidéo de Maloney d'un autre ordinateur au Madmapper de l'ordinateur principal 
 - Création du scénario de la vidéo
+- Mettre les éponges derrière les tableaux
 - Mapping des vidéos & tester interactions 
-- Déplacer les ordinateurs et tables 
+- Déplacer les ordinateurs et tables
 - Mettre les queuing poles (dès qu'ils soit disponibles)
 
 
