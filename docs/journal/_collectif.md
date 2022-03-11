@@ -10,6 +10,23 @@
 
 ## Semaine 6  
 
+Nous avons avancé nos assets visuels:
+
+![maloney]()
+
+![maloney2]()
+
+![petittableaufleurs]()
+
+![sounthida]()
+
+![emilie]()
+
+En équipe, nous avons devancé notre patch MAX. 
+Olivier et Sounthida on accroché le système de détection pour l'interactivité du tableau de Maloney sur la toile. Ils ont découpé un trou dans la toile afin que la camera soit capable de capter la présence de l'interacteur. 
+![testcell02](https://cdn.discordapp.com/attachments/938891841225510962/951204572360245338/20220309_144508.jpg)
+![testcell03](https://cdn.discordapp.com/attachments/938891841225510962/951204572905500752/20220309_144500.jpg)
+
 ## Semaine de rattrappage
 
 Nous avons avancé nos assets visuels:
