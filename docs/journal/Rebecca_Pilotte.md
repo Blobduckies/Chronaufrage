@@ -315,39 +315,58 @@ Mettre plus d'heures de travail la semaine prochaine.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Terminer le logo de l'équipe
+- Finaliser la 3e frame pour les cheveux de la fille
+- Animer les bulles (petit tableau) dans after effects
+- Animer ma séquence de la fille dans after effects
+- Animer un effet de vague pour le fond de la scène dans after effects
+- Animer les bulles/particules dans after effects
+- Complèter les renders de tous les vidéos
+- Tester la projection de tous nos tableaux 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+<img src="https://cdn.discordapp.com/attachments/951585167267467365/951687574114680872/banner-avec_eau.png" alt="logo" width="500"/> 
+<img src="https://imgur.com/pXy6n53.png" alt="fullscene" width="350"/> 
 
+https://youtu.be/l0sEsGJ-l1g
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+J'ai finalisé tous mes assets visuels cette semaine et j'en suis fière. Les animations sont impécables. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+
+- Régler le problème de flicker de la Kinect 
+- Création du scénario de la vidéo
+- Mettre les éponges derrière les tableaux 
+- Mapping des vidéos & tester interactions 
+- Déplacer les ordinateurs et tables 
+- Mettre les queuing poles
+- Faire des tests finaux des interactivités
 
 ---
 ## Semaine 7
