@@ -294,3 +294,57 @@ N/A
 - Faire des tests de nos interactions pour voir s'il y a des potentiels bugs
 
 ---
+
+
+
+## Semaine 6
+
+### Résumé des réalisations effectuées
+- Mesurer la distance entre les crochets et les cadres sur la projection
+- Faire les noeuds de fil de pêche et accrocher les deux autres cadres
+- Faire des tests de stabilisation de cadres grâce à des éponges
+- Améliorer l'analyse des données de la Kinect
+- Optimisation du patch Max en mettant le patch de Maloney sur un autre laptop
+- Contribuer à l'installation des lumières
+
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![installation des lumières](sem6-5_soun_lumieres.jpg)
+![accrochage des cadres](sem6-5_accrochage_cadres.jpg)
+![decoupage des éponges](sem6-5_decoupage_eponges_soun.jpg)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [ ] Complètement
+- [x] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+J'ai accomplie beaucoup de choses, dont les interactions mais les interactions ont un ''bug'', car les données de la Kinect sont un peu trop instables (il envoie des Bang 5 fois en une seconde...)
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Je voudrais que le problème d'instabilité du signal soit réglé avec les professeurs vendredi...
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [x] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+Comme je le disait, je planifiais que les interactions puissent bien marcher cette semaine, mais avec les signaux de Kinect qui ''flicker'' trop, les interactions sont un peu biaisés.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Je vais demander l'aide des professeurs ce vendredi 11 mars.
+
+### Défis pour la prochaine semaine
+- Régler le problème de flicker de la Kinect
+- Intégration des effets sonores qui déclenchent avec la présence d'utilisateur dans le patch Max
+- Intégration des lumières dans le patch Max
+- Envoi de la vidéo de Maloney d'un autre ordinateur au Madmapper de l'ordinateur principal
+
+---
+
