@@ -312,7 +312,7 @@ J'ai décidé de ne pas créer une seconde version de la musique pour se concent
 - Écriture du scénario de la vidéo 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![mapping_max](https://zupimages.net/up/22/11/wjt1.png)
+![mapping_max](https://zupimages.net/up/22/11/ruiw.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
