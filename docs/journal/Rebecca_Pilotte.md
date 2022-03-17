@@ -329,7 +329,7 @@ Mettre plus d'heures de travail la semaine prochaine.
 <img src="https://cdn.discordapp.com/attachments/951585167267467365/951687574114680872/banner-avec_eau.png" alt="logo" width="500"/> 
 <img src="https://imgur.com/pXy6n53.png" alt="fullscene" width="350"/> 
 
-https://youtu.be/l0sEsGJ-l1g
+(scène complète) https://youtu.be/l0sEsGJ-l1g
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -383,12 +383,12 @@ N/A
 - Refait la disposition des petits tableaux dans madmapper
 - Ajouter les effets d'ombes dans madmapper 
 - Ajouter ma signature à mon cadre 
-
+- Réparer un issue où les bulles dans Noyade apparaissait noires. 
+- Placer le podium et trouver une solution pour cacher l'intérieur du podium. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 - Animation  des fleurs 
 <img src="https://cdn.discordapp.com/attachments/935558534685405204/953759563755175936/Untitled_Artwork.gif" alt="fleurs" width="450"/>
-
 
 - Colorisation de l'export des lotus d'Olivier
 <img src="https://cdn.discordapp.com/attachments/935558534685405204/953363437017239593/Untitled_Artwork.png" alt="lotus" width="450"/>
@@ -407,25 +407,27 @@ N/A
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Apart faire le déplacement des ordinateurs dans la salle des matrices, j'ai réalisé tous les tâches que je me suis fixé pour la semaine en plus de réaliser quelques animations, d'adjuster la disposition des petits tableaux et réparer quelques issues. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous devons assurer que les intéractions soit parfaites et faire le déplacement des ordinateurs. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
 
 
 ### Défis pour la prochaine semaine
+- Imprimer et poser le logo d'équipe et nos sources sur la toile du podium. (image à venir)
 
 
 ## Semaine 8
