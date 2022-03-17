@@ -34,6 +34,9 @@ Nous avons changé la diposition des petits tableaux dans MadMapper et nous avon
 ![mapping])()
 
 
+En équipe nous avons fait le mapping dans MadMapper de tous nos tableaux afin que la projection soit aligné selon l'emplacement des toiles suspendues. 
+
+
 ## Semaine 6  
 
 Nous avons avancé nos assets visuels:
