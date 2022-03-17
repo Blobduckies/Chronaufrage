@@ -12,7 +12,7 @@ Nous avons avancé nos assets visuels:
 
 ![bulles]()
 
-![fleurs]()
+![fleurs](https://imgur.com/MpDxz02.gif)
 
 ![lotus]()
 
