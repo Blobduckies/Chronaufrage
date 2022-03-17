@@ -394,6 +394,8 @@ N/A
 
 - Colorisation de l'export du lotus d'Olivier
 <img src="https://cdn.discordapp.com/attachments/935558534685405204/953363437017239593/Untitled_Artwork.png" alt="lotus" width="450"/>
+<img src="https://imgur.com/PJ89yRR.png" alt="lotus" width="450"/>
+
 
 (test animation du lotus) https://www.youtube.com/watch?v=kADIQfli7q4 
 
