@@ -20,7 +20,7 @@ Nous avons avancé nos assets visuels:
 
 Nous avons mise à jour la bannière pour notre site web:
 
-![banner]()
+![banner](https://imgur.com/yylwX0j.png)
 
 
 Nous avons ajouté les titres et les signatures:
