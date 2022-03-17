@@ -29,13 +29,17 @@ Nous avons ajouté les titres et les signatures:
 
 ![signatures](https://imgur.com/vyUgalU.png)
 
-Nous avons changé la diposition des petits tableaux dans MadMapper et nous avons mis l'animation des étoiles de Maloney comme fond pour créer une meilleur cohésion entre les oeuvres:
+Olivier et Rebecca ont monté, peinturé et accroché la toile du tableau 3. Malheureusement, DesSerres nous a laissé tombé; ils n'ont pas fournis les traverses neccéssaires pour notre plus grande toile, donc nous avions un effet de sablier. Par contre, l'effet fonctionne avec notre thématique du temps, alors ceci était, comme dirait Bob Ross, un accident heureux. 
 
-![mapping])()
+![toile3]()
 
 
 En équipe nous avons fait le mapping dans MadMapper de tous nos tableaux afin que la projection soit aligné selon l'emplacement des toiles suspendues. 
+Nous avons aussi changé la disposition des petits tableaux dans MadMapper. et nous avons mis l'animation des étoiles de Maloney comme fond pour créer une meilleure cohésion entre les oeuvres:
 
+![mapping])()
+
+Sounthida a travaillé très fort afin de régler tous les défis et les problèmes associés avec la communication des logiciels MAX et MadMapper avec la Kinect. Daryl a joué un rôle important de support pour nous, afin de déboguer tous les petits enjeux. 
 
 ## Semaine 6  
 
