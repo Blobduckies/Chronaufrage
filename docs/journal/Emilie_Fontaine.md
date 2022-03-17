@@ -309,7 +309,8 @@ J'ai décidé de ne pas créer une seconde version de la musique pour se concent
 - Réexportation de la vidéo de mon tableau plusieurs fois avec petites modifications
 - Ajout texture papier petits tableaux 
 - Ajustation du fond étoilé 
-- Écriture du scénario de la vidéo 
+- Écriture du scénario de la vidéo
+- Création de la bannière du site web 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![mapping_max](https://zupimages.net/up/22/11/ruiw.png)
