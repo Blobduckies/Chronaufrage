@@ -372,19 +372,19 @@ N/A
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-- Poser (avec de la colle) les éponges derrière les tableaux afin de les stabiliser 
-- Rafiner l'animation des bulles (ajouter une rotation pour le rendre moins artificiel)
-- Travailler avec Émile pour ajouter les textures sur l'animation finale des bulles<
-- Colorisation du tableau de lotus d'Olivier
-- Animer le tableau d'Olivier (mais ceci n'a pas été retenue)
-- Refait & animer les fleurs de Soun. 
-- Faire le mapping des tableaux
-- Effectuer des tests des interactivités des tableaux 
+- Posé (avec de la colle chaude) les éponges derrière les tableaux afin de les stabiliser 
+- Rafiné l'animation des bulles (ajouter une rotation pour le rendre moins artificiel)
+- Travaillé avec Émile pour ajouter les textures sur l'animation finale des bulles dans After Effects
+- Colorisation du tableau du lotus d'Olivier dans Procreate
+- Animé le tableau d'Olivier dans After Effects (mais ceci n'a pas été retenu)
+- Refait les fleurs de Soun: Dessiné et animé le tableau dans After Effects 
+- Fait le mapping des tableaux (Surtout noyade et assister pour les autres)
+- Effectué des tests des interactivités des tableaux 
 - Refait la disposition des petits tableaux dans madmapper
-- Ajouter les effets d'ombes dans madmapper 
-- Ajouter ma signature à mon cadre 
-- Réparer un issue où les bulles dans Noyade apparaissait noires. 
-- Placer le podium et trouver une solution pour cacher l'intérieur du podium. 
+- Ajouté les effets d'ombes dans madmapper 
+- Ajouté ma signature à mon cadre 
+- Réparé un issue où les bulles dans Noyade apparaissait noires. 
+- Placé le podium et trouvé une solution pour cacher l'intérieur du podium. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 - Animation  des fleurs 
