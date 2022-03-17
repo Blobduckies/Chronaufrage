@@ -8,6 +8,46 @@
 
 ## Semaine 7
 
+Nous avons avancé nos assets visuels:
+
+![bulles]()
+
+![fleurs]()
+
+![lotus]()
+
+![pappillondore]()
+
+Nous avons mise à jour la bannière pour notre site web:
+
+![banner]()
+
+
+Nous avons ajouté les titres et les signatures:
+
+![averse](https://cdn.discordapp.com/attachments/935558369731821618/953502844785426502/averse.gif)
+
+![cascade](https://cdn.discordapp.com/attachments/935558414606672054/953502872073539624/cascade.gif)
+
+![noyade](https://cdn.discordapp.com/attachments/935558450069536809/953502899814690848/noyade.gif)
+
+![renouveau](https://cdn.discordapp.com/attachments/935558483493933057/953502924712050698/renouveau.gif)
+
+
+![maloney](https://cdn.discordapp.com/attachments/935558369731821618/953528940037804072/signaturemk.png)
+
+![soun](https://cdn.discordapp.com/attachments/935558414606672054/953646695214891058/signature1.png)
+
+![becca](https://cdn.discordapp.com/attachments/935558450069536809/953726688250986546/Untitled_Artwork.png)
+
+![emilie](https://cdn.discordapp.com/attachments/935558483493933057/953505223614279721/signature.png)
+
+
+Nous avons changé la diposition des petits tableaux dans MadMapper et nous avons mis l'animation des étoiles de Maloney comme fond pour créer une meilleur cohésion entre les oeuvres:
+
+![mapping])()
+
+
 ## Semaine 6  
 
 Nous avons avancé nos assets visuels:
