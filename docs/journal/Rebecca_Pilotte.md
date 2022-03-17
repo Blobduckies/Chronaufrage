@@ -372,15 +372,34 @@ N/A
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
+- Poser (avec de la colle) les éponges derrière les tableaux afin de les stabiliser 
+- Rafiner l'animation des bulles (ajouter une rotation pour le rendre moins artificiel)
+- Travailler avec Émile pour ajouter les textures sur l'animation finale des bulles<
+- Colorisation du tableau de lotus d'Olivier
+- Animer le tableau d'Olivier (mais ceci n'a pas été retenue)
+- Refait & animer les fleurs de Soun. 
+- Faire le mapping des tableaux
+- Effectuer des tests des interactivités des tableaux 
+- Refait la disposition des petits tableaux dans madmapper
+- Ajouter les effets d'ombes dans madmapper 
+- Ajouter ma signature à mon cadre 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+Animation  des fleurs 
+https://cdn.discordapp.com/attachments/935558534685405204/953759563755175936/Untitled_Artwork.gif
 
+Colorisation de l'export des lotus d'Olivier
+https://cdn.discordapp.com/attachments/935558534685405204/953363437017239593/Untitled_Artwork.png
+(test animation du lotus) https://www.youtube.com/watch?v=kADIQfli7q4 
+
+Le Mapping des tableaux dans MadMapper 
+https://cdn.discordapp.com/attachments/938891841225510962/952984923952807996/unknown.png
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
