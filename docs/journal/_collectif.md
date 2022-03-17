@@ -44,7 +44,7 @@ En équipe nous avons fait le mapping dans MadMapper de tous nos tableaux afin q
 Nous avons aussi changé la disposition des petits tableaux dans MadMapper. et nous avons mis l'animation des étoiles de Maloney comme fond pour créer une meilleure cohésion entre les oeuvres:
 
 ![mapping](https://imgur.com/hfuWT0P.png)
-![screenshot]()
+![screenshot](https://imgur.com/NjhSWyZ.png)
 
 Sounthida a travaillé très fort afin de régler tous les défis et les problèmes associés avec la communication des logiciels MAX et MadMapper avec la Kinect. Daryl a joué un rôle important de support pour nous, afin de déboguer tous les petits enjeux. 
 
