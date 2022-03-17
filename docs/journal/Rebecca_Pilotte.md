@@ -19,10 +19,10 @@
 - Mise en ligne du journal 
 - Création du discord comme support communicatif et visuel au projet
 - Révision des roles de certains membres de l'équipe (à voir toujours)
-- Mettre à jour le plan de travail et disposition des tableaux
-- Demander à Xavier pour avoir accès à un podium
-- Aider Olivier avec les plans techniques 
-- Organiser en équipe les tâches à réaliser dans les semaines suivantes
+- Mis à jour le plan de travail et disposition des tableaux
+- Demandé à Xavier pour avoir accès à un podium
+- Aidé Olivier avec les plans techniques 
+- Organisé en équipe les tâches à réaliser dans les semaines suivantes
 
 
 
@@ -57,26 +57,24 @@ N/A
 
 - Filmer la vidéo de préproduction. 
 - Commencer le dessin de fond pour l'animation de mon tableau.
-- Assister dans la conception sonore. 
+- Assister à la conception sonore. 
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- Confirmation du podium et demander pour louer les poteaux d'attentes
-- Dessiner le fond du petit tableau (bulles)
-- Dessiner bulles
-- Effectuer des tests d'animation
-- Installer Krita
-- Recherches tutoriels sur Krita
-- Refilmer la vidéo de préproduction 
+- Confirmation du podium et demandé pour louer les poteaux d'attentes
+- Dessiné le fond du petit tableau (bulles) dans Procreate
+- Dessiné bulles dans Procreate
+- Effectué des tests d'animation dans Procreate
+- Installé Krita
+- Recherché des tutoriels sur Krita
+- Refilmé la vidéo de préproduction 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 Voici un test d'animation pour les dessins de bulles que j'ai réalisé cette semaine
 
 <img src="https://imgur.com/ZJHK5Ra.gif" alt="animation-test" width="450"/>
-
-
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -88,13 +86,12 @@ Voici un test d'animation pour les dessins de bulles que j'ai réalisé cette se
 
 #### Décrivez pourquoi.
 1. Sans les dimensions des faux cardres établits, je ne connais pas la grandeur de mon tableau et je me sens mal à l'aise de commencer la production de mon grand tableau, 
-2. J'ai de la difficulté à trouver une version très légale de Adobe Animate. 
-
+2. J'ai de la difficulté à trouver une version très légale de Adobe Animate ou After Effects
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 1. Alors je mets mes efforts dans la production d'un des petits tableau.
 2. Alors j'ai installé le logiciel Krita. 
+3. 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
@@ -118,28 +115,23 @@ La semaine prochaine en équipe nous allons établir les bonnes dimmensions.
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Création du power point pour la vidéo de préproduction
-- Refilmer la vidéo de préproduction
-- Amener deux toiles au studio pour des tests visuels
-- Trouver mon canvas brut que nous pouvons utiliser pour les autres toiles
-
+- Refilmé la vidéo de préproduction
+- Amené deux toiles au studio pour des tests visuels
+- Trouvé mon canvas brut que nous pouvons utiliser pour les autres toiles
+- 
 Assets visuels :
-
-- Dessiner le fond du tableau
-- Dessiner la base du personnage (et quelque adjustements pour l'animation)
-- Effectuer quelque tests d'animation 
+- Dessiné le fond du tableau dans Procreate
+- Dessiné la base (l'anatomy) du personnage (et quelque adjustements pour l'animation) dans Procreate
+- Effectué quelque tests d'animation dans Procreate
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
 
 <img src="https://imgur.com/Xt4c3qk.gif" alt="animation-test02" width="450"/> 
 <img src="https://imgur.com/tAHQTbF.gif" alt="animation-test03" width="250"/>
 
 
-
-
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
 - [ ] Complètement
 - [ x ] Assez
 - [ ] Peu
@@ -154,7 +146,6 @@ N/A
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
 - [ ] Complètement
 - [x] Assez
 - [ ] Un peu
@@ -173,11 +164,11 @@ J'ai eu une discussion avec les professeurs sur le sujet de l'interactivité du 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
- - Assister au présentation de Daryl sur MAX
+ - Assisté au présentation de Daryl sur MAX
  - Réalisation du patch Max 
- - Fixer les accroches et les files de pèches sur notre premier canvas
- - Avancer les assets visuels (animation de la robe)
- - Effectuer des sketchs pour le logo d'équipe
+ - Fixé les accroches et les files de pèches sur notre premier canvas
+ - Avancé les assets visuels (animation de la robe) dans Procreate
+ - Effectué des sketchs pour le logo d'équipe
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -220,18 +211,17 @@ N/A
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-- Tester l'endurance des files à pèches.
-- Mesurer les dimensions des toiles pour l'achats des faux cardres.
+- Testé l'endurance des files à pèches.
+- Mesuré les dimensions des toiles pour l'achats des faux cardres.
 - Redéfinit le plan de disposition des tableaux.
-- Acheter les faux cardres selon les nouvelles dimensions.
+- Acheté les faux cardres selon les nouvelles dimensions.
 - Enfin établit une date pour avoir accès aux studios du département des arts visuels.
-- Jouer avec des textures sur la toile d'Olivier.
-- Monter les faux-cardres (après la rencontre). 
+- Joué avec des textures sur la toile d'Olivier.
+ 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img src="https://imgur.com/ue2btmm.png" alt="studio" width="450"/> 
 <img src="https://imgur.com/P6Mbzpz.png" alt="umbrella" width="350"/> 
-
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -273,8 +263,8 @@ Nous allons changer les dimensions de nos tableaux en conséquences de nos toile
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 - Achat et échange des faux-cardres
-- Monter les cardres
-- Peint les 2 toiles 
+- Monté les faux-cardres (2/3).
+- Peint les toiles avec du gesso. 
 - Avancer mes assets visuels
 
 ### Image d'une réalisation dont tu es la ou le plus fier
