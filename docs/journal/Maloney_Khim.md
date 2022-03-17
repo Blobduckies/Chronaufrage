@@ -282,6 +282,14 @@ Je n'ai pas accroché les cadres cette semaines, à la place, j'ai aidé à accr
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
+- J'ai aidé pour la création du scénario de la vidéo
+- J'ai aidé à faire le mapping des tableaux
+- J'ai aidé à tester les interactions
+- J'ai modifié mes petits tableaux (couleur, 30 fps et effet papier)
+- J'ai réalisé ma signature pour mon tableau principal
+- J'ai mis un fond étoilé à notre compostion de madmapper
+- J'ai modifié la bannière pour le site web
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -289,34 +297,21 @@ Je n'ai pas accroché les cadres cette semaines, à la place, j'ai aidé à accr
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+On a fixé beaucoup d'affaires cette semaine, comme le mapping des vidéos, les interactions, et les petits tableaux.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
-
-## Semaine 8
-
-
-## Semaine 9
