@@ -378,7 +378,7 @@ N/A
 - Colorisation du tableau du lotus d'Olivier dans Procreate
 - Animé le tableau d'Olivier dans After Effects (mais ceci n'a pas été retenu)
 - Refait les fleurs de Soun: Dessiné et animé le tableau dans After Effects 
-- Fait le mapping des tableaux (Surtout noyade et assister pour les autres)
+- Fait le mapping des tableaux (Surtout noyade et assisté pour les autres)
 - Effectué des tests des interactivités des tableaux 
 - Refait la disposition des petits tableaux dans madmapper
 - Ajouté les effets d'ombes dans madmapper 
