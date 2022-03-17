@@ -43,7 +43,8 @@ Olivier et Rebecca ont collé les éponges sur les cadres afin de les stabiliser
 En équipe nous avons fait le mapping dans MadMapper de tous nos tableaux afin que la projection soit aligné selon l'emplacement des toiles suspendues. 
 Nous avons aussi changé la disposition des petits tableaux dans MadMapper. et nous avons mis l'animation des étoiles de Maloney comme fond pour créer une meilleure cohésion entre les oeuvres:
 
-![mapping])(https://imgur.com/hfuWT0P.png)
+![mapping](https://imgur.com/hfuWT0P.png)
+![screenshot]()
 
 Sounthida a travaillé très fort afin de régler tous les défis et les problèmes associés avec la communication des logiciels MAX et MadMapper avec la Kinect. Daryl a joué un rôle important de support pour nous, afin de déboguer tous les petits enjeux. 
 
