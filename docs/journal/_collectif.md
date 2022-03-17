@@ -10,13 +10,13 @@
 
 Nous avons avancé nos assets visuels:
 
-![bulles]()
+![bulles](https://imgur.com/mgVNZAm.gif)
 
 ![fleurs](https://imgur.com/MpDxz02.gif)
 
-![lotus]()
+![lotus](https://imgur.com/JV1mmin.gif)
 
-![pappillondore]()
+![pappillons](https://imgur.com/64R0S9b.gif)
 
 Nous avons mise à jour la bannière pour notre site web:
 
@@ -31,13 +31,19 @@ Nous avons ajouté les titres et les signatures:
 
 Olivier et Rebecca ont monté, peinturé et accroché la toile du tableau 3. Malheureusement, DesSerres nous a laissé tombé; ils n'ont pas fournis les traverses neccéssaires pour notre plus grande toile, donc nous avions un effet de sablier. Par contre, l'effet fonctionne avec notre thématique du temps, alors ceci était, comme dirait Bob Ross, un accident heureux. 
 
-![toile3]()
+![toile3](https://imgur.com/symls0E.png)
+
+Olivier et Rebecca ont collé les éponges sur les cadres afin de les stabiliser.
+
+![eponge01](https://imgur.com/e2I4X7M.png)
+
+![eponge02](https://imgur.com/ul7yNl9.png)
 
 
 En équipe nous avons fait le mapping dans MadMapper de tous nos tableaux afin que la projection soit aligné selon l'emplacement des toiles suspendues. 
 Nous avons aussi changé la disposition des petits tableaux dans MadMapper. et nous avons mis l'animation des étoiles de Maloney comme fond pour créer une meilleure cohésion entre les oeuvres:
 
-![mapping])()
+![mapping])(https://imgur.com/hfuWT0P.png)
 
 Sounthida a travaillé très fort afin de régler tous les défis et les problèmes associés avec la communication des logiciels MAX et MadMapper avec la Kinect. Daryl a joué un rôle important de support pour nous, afin de déboguer tous les petits enjeux. 
 
