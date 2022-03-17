@@ -390,7 +390,7 @@ N/A
 - Animation  des fleurs 
 <img src="https://cdn.discordapp.com/attachments/935558534685405204/953759563755175936/Untitled_Artwork.gif" alt="fleurs" width="450"/>
 
-- Colorisation de l'export des lotus d'Olivier
+- Colorisation de l'export du lotus d'Olivier
 <img src="https://cdn.discordapp.com/attachments/935558534685405204/953363437017239593/Untitled_Artwork.png" alt="lotus" width="450"/>
 
 (test animation du lotus) https://www.youtube.com/watch?v=kADIQfli7q4 
