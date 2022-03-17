@@ -306,14 +306,14 @@ Mettre plus d'heures de travail la semaine prochaine.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-- Terminer le logo de l'équipe
-- Finaliser la 3e frame pour les cheveux de la fille
-- Animer les bulles (petit tableau) dans after effects
-- Animer ma séquence de la fille dans after effects
-- Animer un effet de vague pour le fond de la scène dans after effects
-- Animer les bulles/particules dans after effects
-- Complèter les renders de tous les vidéos
-- Tester la projection de tous nos tableaux 
+- Terminé le logo de l'équipe
+- Finalisé la 3e frame pour les cheveux de la fille
+- Animé les bulles (petit tableau) dans After Effects
+- Animé la séquence de la fille dans After Effects
+- Animé un effet de vagues pour l'imgage de fon dans After Effects
+- Animé les bulles/particules dans After Effects
+- Complèté les renders de tous les vidéos
+- Testé la projection de tous nos tableaux 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img src="https://cdn.discordapp.com/attachments/951585167267467365/951687574114680872/banner-avec_eau.png" alt="logo" width="500"/> 
@@ -362,19 +362,19 @@ N/A
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-- Posé (avec de la colle chaude) les éponges derrière les tableaux afin de les stabiliser 
-- Rafiné l'animation des bulles (ajouter une rotation pour le rendre moins artificiel)
+- Posé (avec de la colle chaude) les éponges derrière les toiles afin de les stabiliser 
+- Rafiné l'animation des bulles (ajouter une rotation pour le rendre moins artificiels) dans After Effects
 - Travaillé avec Émile pour ajouter les textures sur l'animation finale des bulles dans After Effects
 - Colorisation du tableau du lotus d'Olivier dans Procreate
 - Animé le tableau d'Olivier dans After Effects (mais ceci n'a pas été retenu)
-- Refait les fleurs de Soun: Dessiné et animé le tableau dans After Effects 
-- Fait le mapping des tableaux (Surtout noyade et assisté pour les autres)
+- Refait les fleurs de Soun: Dessiné dans Procreate et animé dans After Effects 
+- Fait le mapping des tableaux (surtout Noyade et assisté pour les autres)
 - Effectué des tests des interactivités des tableaux 
 - Refait la disposition des petits tableaux dans madmapper
-- Ajouté les effets d'ombes dans madmapper 
+- Ajouté les effets d'ombes pour les petits tableaux dans madmapper 
 - Ajouté ma signature à mon cadre 
-- Réparé un issue où les bulles dans Noyade apparaissait noires. 
-- Placé le podium et trouvé une solution pour cacher l'intérieur du podium. 
+- Réparé un issue où les bulles dans Noyade apparaissait noires (et non blancs/bleues) 
+- Placé le podium et trouvé une solution pour cacher l'intérieur du podium (posé notre toile test pour cacher l'intérieur) 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 - Animation  des fleurs 
