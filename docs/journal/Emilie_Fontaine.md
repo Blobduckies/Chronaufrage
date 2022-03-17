@@ -301,28 +301,36 @@ J'ai décidé de ne pas créer une seconde version de la musique pour se concent
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Création de ma signature 
+- Animation des titres pour les tableaux
+- Réglage de Max 
+- Mapping de mon tableau 
+- Réexportation des vidéos en 30 fps
+- Réexportation de la vidéo de mon tableau plusieurs fois avec petites modifications
+- Ajout texture papier petits tableaux 
+- Ajustation du fond étoilé 
+- Écriture du scénario de la vidéo 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![mapping_max](https://cdn.discordapp.com/attachments/935558261950791723/954021623411920987/unknown.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je suis venue tous les jours à l'école et j'ai toujours eu du travail 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -334,7 +342,9 @@ J'ai décidé de ne pas créer une seconde version de la musique pour se concent
 
 
 ### Défis pour la prochaine semaine
-
+- Filmer la vidéo 
+- Monter la vidéo 
+- Assister au vernissage 
 
 ## Semaine 8
 
