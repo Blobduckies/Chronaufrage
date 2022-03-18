@@ -293,6 +293,8 @@ Je n'ai pas accroché les cadres cette semaines, à la place, j'ai aidé à accr
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![projections](https://i.imgur.com/SaGh058.jpg)
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -309,9 +311,13 @@ On a fixé beaucoup d'affaires cette semaine, comme le mapping des vidéos, les 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [X] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
+
+#### Décrivez pourquoi.
+ 
+Les poteaux d'attentes ne sont toujours pas disponibles!!!
 
 
