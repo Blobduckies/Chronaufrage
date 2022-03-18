@@ -8,19 +8,26 @@
 
 ## Semaine 7
 
-Nous avons avancé nos assets visuels:
+Nous avons avancé nos assets visuels. D'ailleurs, Émilie et Maloney ont ajouté des effets de papier, changé le framerate à 30fps pour tous les tableaux et apporté quelques modifications de couleur/animations aux petits tableaux. :
 
-![bulles](https://imgur.com/mgVNZAm.gif)
+![bulles](https://media.giphy.com/media/MhCPn9igmdtrxcHvr8/giphy.gif)
 
 ![fleurs](https://imgur.com/MpDxz02.gif)
 
 ![lotus](https://imgur.com/JV1mmin.gif)
 
-![pappillons](https://imgur.com/64R0S9b.gif)
+![papillons](https://imgur.com/64R0S9b.gif)
 
-Nous avons mise à jour la bannière pour notre site web:
+![papillons2](https://media.giphy.com/media/WXNRkLjTeSwknftDVS/giphy.gif)
+
+![papillons3](https://media.giphy.com/media/Cdgyo1TxD4QoYXlIYE/giphy.gif)
+
+
+Nous avons mis à jour la bannière pour notre site web:
 
 ![banner](https://imgur.com/yylwX0j.png)
+
+![banner2](https://i.imgur.com/ZP8VKrn.png)
 
 
 Nous avons ajouté les titres et les signatures:
