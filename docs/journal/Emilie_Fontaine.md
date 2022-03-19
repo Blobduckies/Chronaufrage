@@ -9,8 +9,6 @@
 * [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 6](#semaine-6)
 * [Semaine 7](#semaine-7)
-* [Semaine 8](#semaine-8)
-* [Semaine 9](#semaine-9)
 
 ## Semaine 1
 
@@ -346,8 +344,3 @@ Je suis venue tous les jours à l'école et j'ai toujours eu du travail
 - Filmer la vidéo 
 - Monter la vidéo 
 - Assister au vernissage 
-
-## Semaine 8
-
-
-## Semaine 9

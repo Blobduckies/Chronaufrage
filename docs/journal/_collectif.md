@@ -1,12 +1,7 @@
 # Journal de création
 
-## Semaine 9
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
-
-## Semaine 8
-
-## Semaine 7
+## Semaine 7 (dernière semaine)
 
 Nous avons avancé nos assets visuels. D'ailleurs, Émilie et Maloney ont ajouté des effets de papier, changé le framerate à 30fps pour tous les tableaux et apporté quelques modifications de couleur/animations aux petits tableaux. :
 

@@ -9,8 +9,6 @@
 * [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 6](#semaine-6)
 * [Semaine 7](#semaine-7)
-* [Semaine 8](#semaine-8)
-* [Semaine 9](#semaine-9)
 
 ## Semaine 1
 
@@ -412,46 +410,42 @@ Je vais demander l'aide des professeurs ce vendredi 11 mars.
 - Mapper mon animation sur MadMapper
 - Faire le png de ma signature
 - Finaliser l'analyse des données de la Kinect avec les positions X et Y
-- Optimisation finale du patch Max
+- Optimisation finale du patch Max (changement du code de comment on )
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![installation des lumières](sem6-5_soun_lumieres.jpg)
-![accrochage des cadres](sem6-5_accrochage_cadres.jpg)
-![decoupage des éponges](sem6-5_decoupage_eponges_soun.jpg)
+![mapping](sem7_mapping.jpg)
+![patch max](sem7_max8.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai accomplie beaucoup de choses, dont les interactions mais les interactions ont un ''bug'', car les données de la Kinect sont un peu trop instables (il envoie des Bang 5 fois en une seconde...)
+Le projet est enfin complètement finalisé! Les interactions marchent, les vidéos buggent moins, le patch Max a été optimisé au maximum.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Je voudrais que le problème d'instabilité du signal soit réglé avec les professeurs vendredi...
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Comme je le disait, je planifiais que les interactions puissent bien marcher cette semaine, mais avec les signaux de Kinect qui ''flicker'' trop, les interactions sont un peu biaisés.
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Je vais demander l'aide des professeurs ce vendredi 11 mars.
+N/A
 
 ### Défis pour la prochaine semaine
-- Régler le problème de flicker de la Kinect
-- Intégration des effets sonores qui déclenchent avec la présence d'utilisateur dans le patch Max
-- Intégration des lumières dans le patch Max
-- Envoi de la vidéo de Maloney d'un autre ordinateur au Madmapper de l'ordinateur principal
+- Relaxer et pouvoir avoir du plaisir à présenter notre projet et voir celui des autres! 
 
 ---
 
