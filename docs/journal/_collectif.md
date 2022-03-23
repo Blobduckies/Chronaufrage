@@ -22,6 +22,10 @@ Voici quelque photos de notre projet en action:
 Nous avons aussi choisi de "partager" notre podium/livre d'art avec le reste de la cohorte afin d'avoir des commentaires pour tous les projets.
 ![livreart](https://cdn.discordapp.com/attachments/938891841225510962/956023420011839500/20220322_130417.jpg)
 
+Nous avons decouvert quelque bogues:
+- si l'interacteur porte un chandail noir ou fonce, l'interaction du tableau Averse fonctionne moins bien. Il detect moins bien la presence de la personne, alors l'effet de condensation s'enleve moins bien.
+- si l'interacteur a des cheveux noirs arrivant aux epaules, l'interaction du tableau Noyade fonctionne moins bien. Il detect comme si il avait 2 personnes, alors la video 
+
 
 
 
