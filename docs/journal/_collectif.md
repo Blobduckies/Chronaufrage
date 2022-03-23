@@ -1,7 +1,34 @@
 # Journal de création
+## Semaine 8 (semaine du Vernissage)
+
+Nous avons assuré du roulement fluid du projet. 
+
+Production vidéeo:
+Rebecca a filmé tous les entrevues et les "beauty shots" du projet. Elle a aussi fait tous les animatons d'infographie pour la vidéos. 
+
+Émilie a effectué le montage final du vidéo, incluant tout les choix sonores.
+
+Voici la vidéo de réalisation du projet : https://youtu.be/avdYUoDvhrg 
+![video](https://cdn.discordapp.com/attachments/938891841225510962/956204336449454190/unknown.png)
 
 
-## Semaine 7 (dernière semaine)
+Voici quelque photos de notre projet en action: 
+![vernissage01](https://cdn.discordapp.com/attachments/938891841225510962/956023668813737995/20220322_123250.jpg)
+![vernissage02](https://cdn.discordapp.com/attachments/938891841225510962/956023497589686272/20220322_123406.jpg)
+![vernissage03](https://cdn.discordapp.com/attachments/938891841225510962/956023461120184330/20220322_130201.jpg)
+![vernissage04](https://cdn.discordapp.com/attachments/938891841225510962/956023441184657468/20220322_130220.jpg)
+![vernissage05](https://cdn.discordapp.com/attachments/938891841225510962/956023669077995520/20220322_123238.jpg)
+
+Nous avons aussi choisi de "partager" notre podium/livre d'art avec le reste de la cohorte afin d'avoir des commentaires pour tous les projets.
+![livreart](https://cdn.discordapp.com/attachments/938891841225510962/956023420011839500/20220322_130417.jpg)
+
+
+
+
+
+
+
+## Semaine 7 (dernière semaine de production)
 
 Nous avons avancé nos assets visuels. D'ailleurs, Émilie et Maloney ont ajouté des effets de papier, changé le framerate à 30fps pour tous les tableaux et apporté quelques modifications de couleur/animations aux petits tableaux. :
 
