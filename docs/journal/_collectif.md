@@ -4,9 +4,9 @@
 Nous avons assuré du roulement fluid du projet. 
 
 Production vidéeo:
-Rebecca a filmé tous les entrevues et les "beauty shots" du projet. Elle a aussi fait tous les animatons d'infographie pour la vidéos. 
+Rebecca a filmé tous les entrevues et les "beauty shots" du projet. Elle a aussi fait tous les animatons d'infographie pour la vidéo. 
 
-Émilie a effectué le montage final du vidéo, incluant tou les choix sonores. Son travail fut impécable. 
+Émilie a effectué le montage final du vidéo, incluant tous les choix sonores. Son travail fut impécable. 
 
 Voici la vidéo de réalisation du projet : https://youtu.be/avdYUoDvhrg 
 ![video](https://cdn.discordapp.com/attachments/938891841225510962/956204336449454190/unknown.png)
