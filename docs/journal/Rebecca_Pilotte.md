@@ -421,3 +421,12 @@ N/A
 
 ### Défis pour la prochaine semaine
 - Imprimer et poser le logo d'équipe et nos sources sur la toile du podium. (image à venir)
+
+## Semaine 7 - Vernissage
+
+Ce fut une excellente semaine !
+Émilie et moi ont réalisé la vidéo de production.
+Nous avons accueilli plusieurs groupes au courant de la semaine et le vernissage fut un succès.
+Nous n'avons pas eu de bogues majeures durant l'exposition et nous en sommes fièrs du résultat final! <3
+
+Ce projet était la réalisation parfaite pour mettre fin à mes études et j'ai hâte de commencer mon stage en design ce avril !
