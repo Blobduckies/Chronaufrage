@@ -23,8 +23,12 @@ Nous avons aussi choisi de "partager" notre podium/livre d'art avec le reste de 
 ![livreart](https://cdn.discordapp.com/attachments/938891841225510962/956023420011839500/20220322_130417.jpg)
 
 Nous avons decouvert quelque bogues:
-- si l'interacteur porte un chandail noir ou fonce, l'interaction du tableau Averse fonctionne moins bien. Il detect moins bien la presence de la personne, alors l'effet de condensation s'enleve moins bien.
-- si l'interacteur a des cheveux noirs arrivant aux epaules, l'interaction du tableau Noyade fonctionne moins bien. Il detect comme si il avait 2 personnes, alors la video 
+- si l'interacteur porte un chandail noir ou très foncé, l'interaction du tableau Averse fonctionne moins bien: il detect moins bien la pésence de la personne, alors l'effet de boué s'enlève moins facilement.
+- si l'interacteur a des cheveux noirs arrivant aux épaules, l'interaction du tableau Noyade fonctionne moins bien: il detect comme si il avait 2 personnes, alors la video bogues et la kinect détect comme s'il avait 2 personnes.
+
+
+Vernissage: 
+L'évênement du vernissage fut un grand succès, plusieurs de nos ancients profs se sont présenté ainsi que nombreux membres de famille et amis. Il y avait beaucoup de personnes! On est contents d'avoir offert notre livre d'art à tous, car il y a eu plusieurs commentaires d'encouragement. 
 
 
 
